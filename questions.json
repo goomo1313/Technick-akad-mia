@@ -12659,5 +12659,5828 @@
     "version": 1,
     "concept": "connections",
     "referenceUrls": []
+  },
+  {
+    "id": "TO-EXT-001",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorá vlastnosť vlhkej keramickej hliny umožňuje modelovanie?",
+    "options": [
+      "Plasticita – schopnosť prijať a udržať tvar",
+      "Veľká pružnosť ako pri gume",
+      "Elektrická vodivosť ako pri medi",
+      "Trvalá tekutosť aj po výpale"
+    ],
+    "answer": "Plasticita – schopnosť prijať a udržať tvar",
+    "explanation": "Vhodne navlhčená hlina sa tvaruje tlakom a nový tvar si udrží.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-002",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čím sa odlišuje vysušený nevypálený hlinený výrobok od vypálenej keramiky?",
+    "options": [
+      "Nevypálený môže po navlhčení znovu zmäknúť",
+      "Nevypálený je vždy pevnejší než porcelán",
+      "Oba sa vždy rovnako rozpúšťajú vo vode",
+      "Výpal mení iba farbu, nie vlastnosti"
+    ],
+    "answer": "Nevypálený môže po navlhčení znovu zmäknúť",
+    "explanation": "Výpal spôsobuje nevratné materiálové zmeny; sušenie iba odstraňuje vodu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-003",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa hrubý hlinený výrobok nemá sušiť prudko na jednej strane?",
+    "options": [
+      "Nerovnomerné zmršťovanie môže viesť k trhlinám",
+      "Rýchle sušenie vždy zvyšuje plasticitu",
+      "Hlina začne vytvárať závit",
+      "Výrobok sa automaticky zväčší"
+    ],
+    "answer": "Nerovnomerné zmršťovanie môže viesť k trhlinám",
+    "explanation": "Rôzne rýchlosti úbytku vody vytvárajú napätia v materiáli.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-004",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo nastáva pri sušení väčšiny keramických hlín?",
+    "options": [
+      "Výrobok sa zmršťuje",
+      "Výrobok sa vždy zdvojnásobí",
+      "Vznikne kovová zliatina",
+      "Voda pribúda z okolitého sucha"
+    ],
+    "answer": "Výrobok sa zmršťuje",
+    "explanation": "Úbytok vody približuje častice; mieru zmrštenia ovplyvňuje zloženie hmoty.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-005",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo treba spoj dvoch hlinených častí pripraviť zdrsnením a vhodným šlikrom?",
+    "options": [
+      "Zlepší sa prepojenie styčných plôch",
+      "Hlina sa tým úplne vypáli",
+      "Odstráni sa potreba sušenia",
+      "Spoj sa stane pružnou gumou"
+    ],
+    "answer": "Zlepší sa prepojenie styčných plôch",
+    "explanation": "Šliker a príprava plôch pomáhajú spojeniu; diely majú mať primeranú podobnú vlhkosť.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-006",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je šliker pri keramickej práci?",
+    "options": [
+      "Riedka zmes keramickej hliny a vody",
+      "Roztavené sklo bez vody",
+      "Suchý kovový prášok výhradne",
+      "Druh dreveného spoja"
+    ],
+    "answer": "Riedka zmes keramickej hliny a vody",
+    "explanation": "Šliker sa využíva napríklad pri spájaní alebo odlievaní keramických hmôt.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-007",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo má mať jednoduchá modelovaná nádoba približne rovnomernú hrúbku stien?",
+    "options": [
+      "Pomáha rovnomernému sušeniu a výpalu",
+      "Zaručuje nulovú hmotnosť",
+      "Nahrádza každé leštenie",
+      "Mení hlinu na plast"
+    ],
+    "answer": "Pomáha rovnomernému sušeniu a výpalu",
+    "explanation": "Veľké rozdiely hrúbky zvyšujú riziko nerovnomerného sušenia a praskania.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-008",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Aká vlastnosť vypálenej keramiky sa prejaví rozbitím pri páde?",
+    "options": [
+      "Krehkosť",
+      "Plasticita vlhkej hliny",
+      "Tvárnosť ako pri drôte",
+      "Pružnosť gumovej pásky"
+    ],
+    "answer": "Krehkosť",
+    "explanation": "Keramika sa môže porušiť lomom bez veľkej trvalej deformácie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-009",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa nesmie do pece vložiť výrobok s veľkým množstvom zvyškovej vlhkosti?",
+    "options": [
+      "Rýchlo vznikajúca para môže výrobok poškodiť",
+      "Voda zvyšuje bezpečnosť každého výpalu",
+      "Vlhkosť vždy nahradí glazúru",
+      "Výrobok sa tým nemôže zohriať"
+    ],
+    "answer": "Rýchlo vznikajúca para môže výrobok poškodiť",
+    "explanation": "Pred výpalom sa výrobky sušia a pec sa riadi odborným režimom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-010",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Na čo slúži keramický výpal?",
+    "options": [
+      "Na spevnenie a premenu keramickej hmoty vysokou teplotou",
+      "Len na označenie mena výrobcu",
+      "Na výrobu bavlnených vlákien",
+      "Na opätovné zvlhčenie výrobku"
+    ],
+    "answer": "Na spevnenie a premenu keramickej hmoty vysokou teplotou",
+    "explanation": "Teplota a priebeh výpalu sa volia podľa konkrétnej hmoty.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-011",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktoré tvrdenie o keramickej glazúre je správne?",
+    "options": [
+      "Treba ju zvoliť podľa hmoty, teploty výpalu a účelu výrobku",
+      "Každá dekoratívna glazúra je automaticky vhodná na potraviny",
+      "Glazúra je vždy len zaschnutá hlina",
+      "Na zložení nikdy nezáleží"
+    ],
+    "answer": "Treba ju zvoliť podľa hmoty, teploty výpalu a účelu výrobku",
+    "explanation": "Výrobok na styk s potravinami vyžaduje vhodný overený materiál a spracovanie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-012",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je typickým použitím tehliarskej hliny?",
+    "options": [
+      "Výroba keramických tehál",
+      "Výroba medeného vodiča",
+      "Ťahanie polyesterového vlákna",
+      "Výroba priehľadnej ocele"
+    ],
+    "answer": "Výroba keramických tehál",
+    "explanation": "Tehla je keramický stavebný výrobok tvarovaný a vypaľovaný z vhodnej hmoty.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-013",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorá skupina materiálov zahŕňa porcelán?",
+    "options": [
+      "Keramické materiály",
+      "Čisté kovy",
+      "Termoplastické fólie",
+      "Prírodné textilné vlákna"
+    ],
+    "answer": "Keramické materiály",
+    "explanation": "Porcelán je druh keramiky s osobitným zložením a výpalom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-014",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je kaolín vo výrobe porcelánu?",
+    "options": [
+      "Dôležitá ílová surovina",
+      "Zliatina medi a zinku",
+      "Plastové vlákno",
+      "Čistý železný plech"
+    ],
+    "answer": "Dôležitá ílová surovina",
+    "explanation": "Kaolín je jednou zo základných surovín porcelánových hmôt.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-015",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo sa v keramike označuje ako črep?",
+    "options": [
+      "Vypálená keramická hmota výrobku",
+      "Výhradne kovová výstuž",
+      "Vždy len nevypálená mokrá hlina",
+      "Názov tkáčskeho stavu"
+    ],
+    "answer": "Vypálená keramická hmota výrobku",
+    "explanation": "Keramický črep môže byť podľa zloženia a výpalu rôzne pórovitý.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-016",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čím sa spravidla vyznačuje dobre spečená kamenina oproti pórovitej hrnčine?",
+    "options": [
+      "Menšou nasiakavosťou",
+      "Vždy väčšou rozpustnosťou vo vode",
+      "Kovovou elektrickou vodivosťou",
+      "Možnosťou vrátiť výpal vodou"
+    ],
+    "answer": "Menšou nasiakavosťou",
+    "explanation": "Vyššie spečenie hmoty obvykle znižuje otvorenú pórovitosť.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-017",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je vhodné pri upratovaní jemného keramického prachu v škole?",
+    "options": [
+      "Obmedziť vírenie a postupovať podľa učiteľa vhodným vlhkým čistením",
+      "Rozfúkať prach do priestoru",
+      "Ometávať odev spolužiaka do tváre",
+      "Zámerne skúšať vôňu prachu"
+    ],
+    "answer": "Obmedziť vírenie a postupovať podľa učiteľa vhodným vlhkým čistením",
+    "explanation": "Jemný minerálny prach sa nemá vdychovať ani zbytočne víriť.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-018",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čím sa keramická modelovacia hlina líši od plastelíny?",
+    "options": [
+      "Keramická hlina je určená aj na odborný výpal, plastelína nie",
+      "Obe sú vždy rovnaké minerálne hmoty",
+      "Plastelína sa musí vypáliť v keramickej peci",
+      "Hlina nikdy neobsahuje minerály"
+    ],
+    "answer": "Keramická hlina je určená aj na odborný výpal, plastelína nie",
+    "explanation": "S modelovacími hmotami sa pracuje podľa ich zloženia a návodu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-019",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo si pri návrhu keramiky overíme predpokladané zmrštenie?",
+    "options": [
+      "Hotový rozmer môže byť menší než modelovaný",
+      "Aby sme mohli ignorovať všetky rozmery",
+      "Lebo výrobok sa musí vždy zväčšiť",
+      "Aby sa odstránila krehkosť"
+    ],
+    "answer": "Hotový rozmer môže byť menší než modelovaný",
+    "explanation": "Sušenie aj výpal ovplyvňujú konečnú veľkosť podľa druhu hmoty.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-020",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktoré porovnanie je správne?",
+    "options": [
+      "Vlhká hlina je tvárna, vypálená keramika je zvyčajne tvrdá a krehká",
+      "Vlhká hlina je vždy tvrdšia než porcelán",
+      "Vypálenú keramiku možno modelovať rukou ako čerstvú hlinu",
+      "Keramika aj guma majú vždy rovnakú pružnosť"
+    ],
+    "answer": "Vlhká hlina je tvárna, vypálená keramika je zvyčajne tvrdá a krehká",
+    "explanation": "Spracovanie mení vlastnosti materiálu; nestačí poznať iba jeho názov.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-021",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo znamená označenie PET na bežnom plastovom obale?",
+    "options": [
+      "Druh polyméru – polyetyléntereftalát",
+      "Záruku vratnosti každého obalu",
+      "Označenie skla",
+      "Mieru elektrického napätia"
+    ],
+    "answer": "Druh polyméru – polyetyléntereftalát",
+    "explanation": "Materiálová značka sama neurčuje, či je obal zálohovaný.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-022",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorý názov zodpovedá skratke PE?",
+    "options": [
+      "Polyetylén",
+      "Porcelánová emulzia",
+      "Prírodný elastický kov",
+      "Papierová oceľ"
+    ],
+    "answer": "Polyetylén",
+    "explanation": "PE je rozšírený termoplast používaný na obaly aj výrobky.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-023",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorý plast sa označuje PP?",
+    "options": [
+      "Polypropylén",
+      "Polovodičový porcelán",
+      "Prášková preglejka",
+      "Prírodný parafín"
+    ],
+    "answer": "Polypropylén",
+    "explanation": "PP sa používa napríklad na nádoby a rôzne technické diely.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-024",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo znamená označenie PVC?",
+    "options": [
+      "Polyvinylchlorid",
+      "Čistú meď",
+      "Všetky recyklované plasty naraz",
+      "Označenie bavlny"
+    ],
+    "answer": "Polyvinylchlorid",
+    "explanation": "PVC je polymér s vlastnosťami závisiacimi aj od prísad a spracovania.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-025",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo nie je každý plast vhodný na horúce potraviny?",
+    "options": [
+      "Tepelná odolnosť a určené použitie sa líšia",
+      "Všetky plasty sú úplne rovnaké",
+      "Teplota nemôže ovplyvniť polyméry",
+      "Všetky plasty sú potravinárske bez overenia"
+    ],
+    "answer": "Tepelná odolnosť a určené použitie sa líšia",
+    "explanation": "Vhodnosť určuje výrobca a príslušné určenie výrobku.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-026",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je hlavnou úlohou zmäkčovadla v niektorých plastoch?",
+    "options": [
+      "Zvýšiť ohybnosť materiálu",
+      "Zmeniť všetky plasty na kov",
+      "Vždy zaručiť nehorľavosť",
+      "Vytvoriť drevné vlákna"
+    ],
+    "answer": "Zvýšiť ohybnosť materiálu",
+    "explanation": "Prísady upravujú vlastnosti polyméru podľa plánovaného použitia.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-027",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo tvorí základ penového polystyrénu?",
+    "options": [
+      "Polymér s množstvom plynových buniek",
+      "Masívna oceľ bez pórov",
+      "Výhradne tkané vlákna",
+      "Vypálená hlina"
+    ],
+    "answer": "Polymér s množstvom plynových buniek",
+    "explanation": "Plynové bunky znižujú hustotu a obmedzujú prestup tepla.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-028",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa penové plasty používajú v obalových výplniach?",
+    "options": [
+      "Môžu tlmiť nárazy pri nízkej hmotnosti",
+      "Sú vždy pevnejšie než oceľ",
+      "Každá pena je odolná voči ohňu",
+      "Nemôžu sa stlačiť"
+    ],
+    "answer": "Môžu tlmiť nárazy pri nízkej hmotnosti",
+    "explanation": "Štruktúra peny umožňuje pohlcovať časť energie nárazu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-029",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorý výrok o plastoch je presný?",
+    "options": [
+      "Ich vlastnosti závisia od druhu polyméru, prísad a výroby",
+      "Všetky sú pružné ako guma",
+      "Všetky sa rozkladajú za týždeň",
+      "Všetky sú dokonale priehľadné"
+    ],
+    "answer": "Ich vlastnosti závisia od druhu polyméru, prísad a výroby",
+    "explanation": "Plasty tvoria širokú skupinu rozdielnych materiálov.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-030",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je elastomér?",
+    "options": [
+      "Polymér s výraznou vratnou pružnou deformáciou",
+      "Každý veľmi tvrdý kov",
+      "Druh keramickej pece",
+      "Názov uhlíkového vlákna"
+    ],
+    "answer": "Polymér s výraznou vratnou pružnou deformáciou",
+    "explanation": "Guma je typickým príkladom elastomérneho materiálu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-031",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa vytvrdená epoxidová živica obvykle nedá opakovane pretaviť ako PE?",
+    "options": [
+      "Má zosieťovanú štruktúru",
+      "Obsahuje vždy drevo",
+      "Nemá chemické väzby",
+      "Každá živica je čistý kov"
+    ],
+    "answer": "Má zosieťovanú štruktúru",
+    "explanation": "Zosieťované reaktoplasty pri nevhodnom ohreve degradujú namiesto bežného pretavenia.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-032",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo sa pri vstrekovaní termoplastu deje vo forme?",
+    "options": [
+      "Roztavený materiál ju vyplní a po ochladení vytvorí diel",
+      "Vždy sa iba ručne tká",
+      "Kov sa mení na bavlnu",
+      "Materiál nemôže meniť tvar"
+    ],
+    "answer": "Roztavený materiál ju vyplní a po ochladení vytvorí diel",
+    "explanation": "Vstrekovanie umožňuje opakovanú výrobu tvarovaných plastových súčiastok.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-033",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Na aké výrobky je vhodné vytláčanie plastov cez profilový otvor?",
+    "options": [
+      "Rúrky, hadice a dlhé profily",
+      "Výhradne jednotlivé porcelánové taniere",
+      "Iba kovové nity",
+      "Všetky tkané košele"
+    ],
+    "answer": "Rúrky, hadice a dlhé profily",
+    "explanation": "Tvar výstupného otvoru určuje prierez plynulo vznikajúceho výrobku.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-034",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je výhodou plastu pri rukoväti ručného nástroja, ak je vhodne zvolený?",
+    "options": [
+      "Nízka hmotnosť a možnosť dobre tvarovať úchop",
+      "Absolútna odolnosť voči všetkým chemikáliám",
+      "Nekonečná pevnosť pri ohreve",
+      "Povinná elektrická vodivosť"
+    ],
+    "answer": "Nízka hmotnosť a možnosť dobre tvarovať úchop",
+    "explanation": "Pri výbere sa posudzuje pevnosť, povrch, teplota aj pracovné prostredie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-035",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa nesmie z neznámeho plastu vyrábať predmet na kontakt s jedlom bez overenia?",
+    "options": [
+      "Nevieme zloženie ani vhodnosť na daný účel",
+      "Každý plast je automaticky vhodný",
+      "Farba vždy potvrdí zdravotnú vhodnosť",
+      "Materiálová značka určuje všetky podmienky používania"
+    ],
+    "answer": "Nevieme zloženie ani vhodnosť na daný účel",
+    "explanation": "Potravinový kontakt vyžaduje overený materiál a vhodné spracovanie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-036",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je mikroplast v základnom vysvetlení?",
+    "options": [
+      "Drobná plastová častica",
+      "Každý kovový pilník",
+      "Druh drevenej dyhy",
+      "Jednotka výkonu"
+    ],
+    "answer": "Drobná plastová častica",
+    "explanation": "Plast sa môže rozdrobovať bez toho, aby úplne biologicky zanikol.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-037",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Znamená označenie biologicky rozložiteľný, že obal môžeme zahodiť do lesa?",
+    "options": [
+      "Nie",
+      "Áno, vždy",
+      "Áno, ak je zelený",
+      "Áno, ak má tenké steny"
+    ],
+    "answer": "Nie",
+    "explanation": "Rozklad závisí od podmienok a času; odpad patrí do určeného systému zberu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-038",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo treba preveriť pri obale označenom ako kompostovateľný?",
+    "options": [
+      "Podmienky kompostovania a pravidlá miestneho zberu",
+      "Len farbu potlače",
+      "Či ho možno ľubovoľne spaľovať",
+      "Iba hmotnosť vrchnáka"
+    ],
+    "answer": "Podmienky kompostovania a pravidlá miestneho zberu",
+    "explanation": "Priemyselná a domáca kompostovateľnosť nie sú totožné.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-039",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa neznáme plasty nesmú rozpoznávať skúšobným pálením v triede?",
+    "options": [
+      "Môžu vznikať nebezpečné výpary a požiar",
+      "Plasty nikdy nehoria",
+      "Oheň vždy určí presné zloženie bez rizika",
+      "Každý dym je neškodný"
+    ],
+    "answer": "Môžu vznikať nebezpečné výpary a požiar",
+    "explanation": "Na identifikáciu slúžia bezpečné údaje a kontrolované postupy.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-040",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktoré porovnanie plastovej fólie a sklenenej tabule je správne?",
+    "options": [
+      "Fólia môže byť ohybná, tabuľové sklo je tuhé a krehké",
+      "Oba materiály majú vždy rovnakú hrúbku a pružnosť",
+      "Sklo sa pri ohnutí vždy správa ako PE fólia",
+      "Fólia nikdy neprepúšťa svetlo"
+    ],
+    "answer": "Fólia môže byť ohybná, tabuľové sklo je tuhé a krehké",
+    "explanation": "Porovnávame konkrétny druh výrobku, nie len všeobecný názov materiálu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-041",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorá vlastnosť umožňuje z vhodného kovu ťahať drôt?",
+    "options": [
+      "Ťažnosť",
+      "Nasiakavosť",
+      "Krehkosť skla",
+      "Schopnosť vytvárať listy"
+    ],
+    "answer": "Ťažnosť",
+    "explanation": "Pri ťahaní sa kov plasticky predlžuje bez predčasného porušenia.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-042",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo znamená kujnosť kovu?",
+    "options": [
+      "Schopnosť meniť tvar tlakom alebo údermi bez porušenia",
+      "Vždy vysokú nasiakavosť",
+      "Trvalú tekutosť v chlade",
+      "Nemožnosť deformácie"
+    ],
+    "answer": "Schopnosť meniť tvar tlakom alebo údermi bez porušenia",
+    "explanation": "Tvárnosť umožňuje procesy ako kovanie alebo valcovanie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-043",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa elektrické vodiče často vyrábajú z medi?",
+    "options": [
+      "Má dobrú elektrickú vodivosť a dá sa ťahať na drôt",
+      "Je elektrický izolant",
+      "Nedá sa opracovať",
+      "Musí sa vždy používať bez izolácie"
+    ],
+    "answer": "Má dobrú elektrickú vodivosť a dá sa ťahať na drôt",
+    "explanation": "Vhodná vodivosť aj spracovateľnosť sú dôležité pre výrobu vodiča.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-044",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorý kov je hlavnou súčasťou pozinkovania ocele?",
+    "options": [
+      "Zinok",
+      "Cín ako jediná možnosť",
+      "Olovo vždy",
+      "Hliník vždy"
+    ],
+    "answer": "Zinok",
+    "explanation": "Zinková vrstva sa používa na ochranu oceľového povrchu pred koróziou.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-045",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorý materiál označujeme ako liatinu?",
+    "options": [
+      "Zliatinu železa s vyšším obsahom uhlíka než bežná oceľ",
+      "Každý plast určený na odlievanie",
+      "Čistú meď",
+      "Vypálenú glazúru"
+    ],
+    "answer": "Zliatinu železa s vyšším obsahom uhlíka než bežná oceľ",
+    "explanation": "Liatiny tvoria skupinu železných zliatin s dobrými zlievarenskými vlastnosťami.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-046",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorá dvojica patrí medzi železné materiály?",
+    "options": [
+      "Oceľ a liatina",
+      "Meď a hliník",
+      "Mosadz a bronz",
+      "Polyetylén a PVC"
+    ],
+    "answer": "Oceľ a liatina",
+    "explanation": "V železných zliatinách je základným kovom železo.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-047",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorá dvojica obsahuje iba neželezné kovy?",
+    "options": [
+      "Meď a hliník",
+      "Oceľ a liatina",
+      "Železo a oceľ",
+      "Liatina a bronz"
+    ],
+    "answer": "Meď a hliník",
+    "explanation": "Neželezné kovy nemajú železo ako základnú kovovú zložku.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-048",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo opisuje zlievateľnosť kovu?",
+    "options": [
+      "Vhodnosť vytvoriť kvalitný odliatok z taveniny",
+      "Schopnosť sať vodu ako špongia",
+      "Vždy priehľadnosť",
+      "Výhradne farbu kovu"
+    ],
+    "answer": "Vhodnosť vytvoriť kvalitný odliatok z taveniny",
+    "explanation": "Tekutosť a správanie pri tuhnutí ovplyvňujú výsledok odlievania.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-049",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa korózia netýka iba červenej hrdze na železe?",
+    "options": [
+      "Korodovať môžu aj iné kovy, no produkty vyzerajú inak",
+      "Všetky kovy majú iba červenú hrdzu",
+      "Korózia je vždy druh lepidla",
+      "Meď a hliník nemôžu chemicky reagovať"
+    ],
+    "answer": "Korodovať môžu aj iné kovy, no produkty vyzerajú inak",
+    "explanation": "Korózia zahŕňa rôzne procesy poškodzovania kovov prostredím.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-050",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je medenka v bežnom školskom opise?",
+    "options": [
+      "Zelenkastá korózna vrstva na medi alebo jej zliatinách",
+      "Červená hrdza výhradne na oceli",
+      "Druh plastového vlákna",
+      "Prášková hlina"
+    ],
+    "answer": "Zelenkastá korózna vrstva na medi alebo jej zliatinách",
+    "explanation": "Medené povrchy môžu časom meniť vzhľad pôsobením prostredia.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-051",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo môže byť hliníková časť na vzduchu pomerne odolná voči ďalšej korózii?",
+    "options": [
+      "Na povrchu vzniká ochranná oxidová vrstva",
+      "Hliník nikdy nereaguje s kyslíkom",
+      "Hliník je druh keramiky bez kovu",
+      "Jeho hmotnosť ruší vlhkosť"
+    ],
+    "answer": "Na povrchu vzniká ochranná oxidová vrstva",
+    "explanation": "Tenká vrstva oxidu môže chrániť kov pod povrchom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-052",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je plech z hľadiska tvaru polotovaru?",
+    "options": [
+      "Pomerne tenký plochý kovový výrobok",
+      "Vždy dutá valcová tyč",
+      "Výhradne kovový prášok",
+      "Každá závitová matica"
+    ],
+    "answer": "Pomerne tenký plochý kovový výrobok",
+    "explanation": "Plech sa vyrába napríklad valcovaním na predpísanú hrúbku.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-053",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čím sa rúrka líši od plnej tyče rovnakého vonkajšieho tvaru?",
+    "options": [
+      "Má vnútornú dutinu",
+      "Musí byť vždy z plastu",
+      "Nemôže prenášať zaťaženie",
+      "Nemá vonkajší priemer"
+    ],
+    "answer": "Má vnútornú dutinu",
+    "explanation": "Dutý prierez mení hmotnosť aj mechanické správanie dielu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-054",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa pri ohýbaní kovového drôtu posudzuje jeho priemer a druh?",
+    "options": [
+      "Ovplyvňujú potrebnú silu aj riziko poškodenia",
+      "Všetky drôty sa ohýbajú identicky",
+      "Farba izolácie vždy určí pevnosť",
+      "Priemer nemá fyzikálny význam"
+    ],
+    "answer": "Ovplyvňujú potrebnú silu aj riziko poškodenia",
+    "explanation": "Hrubší alebo pevnejší drôt môže vyžadovať inú pomôcku a polomer ohybu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-055",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo treba zohľadniť pri výbere kovu na vonkajší výrobok?",
+    "options": [
+      "Pevnosť, korózne prostredie a povrchovú ochranu",
+      "Iba lesk v predajni",
+      "Výhradne názov výrobcu kladiva",
+      "Len teplotu v triede v deň návrhu"
+    ],
+    "answer": "Pevnosť, korózne prostredie a povrchovú ochranu",
+    "explanation": "Materiál sa vyberá podľa funkcie aj dlhodobého prostredia.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-056",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktoré tvrdenie o magnete a kovoch je správne?",
+    "options": [
+      "Nie každý kov magnet výrazne priťahuje",
+      "Magnet rovnako priťahuje všetky kovy",
+      "Meď je silnejšie feromagnetická než železo",
+      "Sklo je vždy kov priťahovaný magnetom"
+    ],
+    "answer": "Nie každý kov magnet výrazne priťahuje",
+    "explanation": "Magnetická skúška sama neurčí presné zloženie kovu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-057",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorý materiál je vhodný na pružinu, ak je správne spracovaný?",
+    "options": [
+      "Vhodná pružinová oceľ",
+      "Každá mokrá hlina",
+      "Krehké okenné sklo bez úpravy",
+      "Rozmočený papier"
+    ],
+    "answer": "Vhodná pružinová oceľ",
+    "explanation": "Pružina potrebuje vhodnú kombináciu pevnosti a pružných vlastností.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-058",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo spôsobuje opakované zaťažovanie kovového dielu pod medzou jednorazovej pevnosti?",
+    "options": [
+      "Môže viesť k únave materiálu",
+      "Vždy zaručí neobmedzenú životnosť",
+      "Premení kov na plast",
+      "Nahradí všetku údržbu"
+    ],
+    "answer": "Môže viesť k únave materiálu",
+    "explanation": "Únavové poškodzovanie závisí od cyklov, napätia, tvaru a materiálu.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-059",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa pri práci s kovovými odrezkami používajú vhodné bezpečné postupy?",
+    "options": [
+      "Ostré hrany môžu spôsobiť porezanie",
+      "Každý kov má oblé hrany",
+      "Kovové triesky sa okamžite rozpustia",
+      "Z kovu nikdy nevznikajú ostriny"
+    ],
+    "answer": "Ostré hrany môžu spôsobiť porezanie",
+    "explanation": "Po delení sa hrany odihľujú a odpad bezpečne zhromažďuje.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-060",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa pri recyklácii kovov oddeľujú rôzne skupiny?",
+    "options": [
+      "Ich zloženie a požadované spracovanie sa líšia",
+      "Všetky zliatiny majú rovnaké zloženie",
+      "Tavenie vždy vytvorí čistý kov bez triedenia",
+      "Každý kov sa mení na rovnakú oceľ"
+    ],
+    "answer": "Ich zloženie a požadované spracovanie sa líšia",
+    "explanation": "Zmiešanie nesprávnych prvkov môže znehodnotiť výslednú zliatinu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-061",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je tkanina?",
+    "options": [
+      "Textília vznikajúca preväzovaním osnovy a útku",
+      "Vždy zlisovaný kovový prášok",
+      "Každý plastový film bez vlákien",
+      "Výhradne pletená slučková štruktúra"
+    ],
+    "answer": "Textília vznikajúca preväzovaním osnovy a útku",
+    "explanation": "Tkanie vytvára textíliu krížením dvoch sústav nití.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-062",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je pletenina?",
+    "options": [
+      "Textília vytvorená zo vzájomne previazaných očiek",
+      "Materiál vždy bez priadze",
+      "Výhradne tenká tabuľa skla",
+      "Každá zliatina medi"
+    ],
+    "answer": "Textília vytvorená zo vzájomne previazaných očiek",
+    "explanation": "Očková štruktúra býva poddajnejšia a rozťažnejšia než bežná tkanina.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-063",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorá dvojica sústav nití sa používa pri tkaní?",
+    "options": [
+      "Osnova a útok",
+      "Anóda a katóda",
+      "Líc a vrták",
+      "Kóta a mierka"
+    ],
+    "answer": "Osnova a útok",
+    "explanation": "Pozdĺžna osnova sa pri tkaní preväzuje s priečnym útkom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-064",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Z čoho sa získava bavlnené vlákno?",
+    "options": [
+      "Zo semenných vlákien bavlníka",
+      "Zo srsti ovce",
+      "Z kukly priadky",
+      "Z orechovej škrupiny"
+    ],
+    "answer": "Zo semenných vlákien bavlníka",
+    "explanation": "Bavlna je prírodné rastlinné vlákno tvorené prevažne celulózou.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-065",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Z ktorej časti ľanu sa získavajú textilné vlákna?",
+    "options": [
+      "Zo stonky",
+      "Z ovčej srsti",
+      "Z rozpustenej ocele",
+      "Zo skla bez úpravy"
+    ],
+    "answer": "Zo stonky",
+    "explanation": "Ľan patrí medzi rastliny poskytujúce lykové vlákna.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-066",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktoré vlákno má živočíšny pôvod?",
+    "options": [
+      "Ovčia vlna",
+      "Bavlna",
+      "Ľan",
+      "Polyester"
+    ],
+    "answer": "Ovčia vlna",
+    "explanation": "Vlna sa získava zo srsti oviec, bavlna a ľan z rastlín.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-067",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "S ktorým živočíchom súvisí prírodný hodváb?",
+    "options": [
+      "Priadka morušová",
+      "Včela medonosná",
+      "Dážďovka zemná",
+      "Kapor rybničný"
+    ],
+    "answer": "Priadka morušová",
+    "explanation": "Hodvábne vlákno sa získava z kokónov priadky.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-068",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktoré vlákno patrí medzi syntetické?",
+    "options": [
+      "Polyester",
+      "Ľan",
+      "Bavlna",
+      "Ovčia vlna"
+    ],
+    "answer": "Polyester",
+    "explanation": "Syntetické vlákna sa vyrábajú z umelo pripravených polymérov.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-069",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Aký pôvod má viskózové vlákno?",
+    "options": [
+      "Regenerovaná celulóza spracovaná priemyselne",
+      "Ovčia srsť bez úpravy",
+      "Výhradne sklenená tavenina",
+      "Čistý oceľový drôt"
+    ],
+    "answer": "Regenerovaná celulóza spracovaná priemyselne",
+    "explanation": "Viskóza je umelé celulózové vlákno, nie syntetický polyester.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-070",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Načo sa do niektorých textílií pridáva elastan?",
+    "options": [
+      "Na zvýšenie pružnosti a rozťažnosti",
+      "Na vytvorenie keramického povrchu",
+      "Na úplné zrušenie potreby údržby",
+      "Na premenu látky na kov"
+    ],
+    "answer": "Na zvýšenie pružnosti a rozťažnosti",
+    "explanation": "Zmesové textílie môžu kombinovať rôzne vlastnosti vlákien.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-071",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo označuje priadza?",
+    "options": [
+      "Súvislý útvar z vlákien vhodný na výrobu textílií",
+      "Len hotový kovový výkres",
+      "Každý list dreviny",
+      "Výhradne plastovú dosku"
+    ],
+    "answer": "Súvislý útvar z vlákien vhodný na výrobu textílií",
+    "explanation": "Priadza môže byť vytvorená z krátkych vlákien alebo nekonečných filamentov.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-072",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Aký účel má šev v textilnom výrobku?",
+    "options": [
+      "Spája alebo upravuje okraje textílie niťou",
+      "Vždy vyrába nové vlákna z ničoho",
+      "Mení bavlnu na oceľ",
+      "Nahrádza strih výrobku"
+    ],
+    "answer": "Spája alebo upravuje okraje textílie niťou",
+    "explanation": "Voľba švu a nite ovplyvňuje pevnosť aj vzhľad spoja.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-073",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa pri strihaní látky používa strihová šablóna?",
+    "options": [
+      "Prenáša tvar a rozmery dielov",
+      "Vždy určí chemické zloženie",
+      "Nahrádza ihlu pri každom šití",
+      "Zruší smer vlákien"
+    ],
+    "answer": "Prenáša tvar a rozmery dielov",
+    "explanation": "Strih pomáha pripraviť diely v správnom tvare a počte.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-074",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa na švy pri strihaní pridávajú prídavky?",
+    "options": [
+      "Časť látky sa spotrebuje na spojenie dielov",
+      "Hotový výrobok sa musí vždy zdvojnásobiť",
+      "Prídavky zmenia bavlnu na vlnu",
+      "Látka potom nemá rub"
+    ],
+    "answer": "Časť látky sa spotrebuje na spojenie dielov",
+    "explanation": "Bez prídavku by výsledný rozmer po zošití mohol byť menší.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-075",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo označuje rub látky?",
+    "options": [
+      "Zadnú alebo vnútornú stranu podľa konštrukcie a použitia",
+      "Vždy kovový povlak",
+      "Výhradne okraj každého vlákna",
+      "Iba smer tkania"
+    ],
+    "answer": "Zadnú alebo vnútornú stranu podľa konštrukcie a použitia",
+    "explanation": "Rozlíšenie líca a rubu pomáha pri strihaní a zošívaní.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-076",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa pri údržbe textílie riadime štítkom výrobcu?",
+    "options": [
+      "Vlákna, farbenie a úpravy vyžadujú rozdielne podmienky",
+      "Všetky látky možno prať rovnako horúco",
+      "Každý symbol je len dekorácia",
+      "Žehlenie nemôže poškodiť textíliu"
+    ],
+    "answer": "Vlákna, farbenie a úpravy vyžadujú rozdielne podmienky",
+    "explanation": "Teplota a spôsob čistenia ovplyvňujú zrazenie, farbu aj pevnosť.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-077",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo sa môže stať nevhodne pranému vlnenému výrobku?",
+    "options": [
+      "Môže sa zraziť a splstnatieť",
+      "Vždy sa zmení na hodváb",
+      "Získa kovovú vodivosť",
+      "Zmení sa na priehľadné sklo"
+    ],
+    "answer": "Môže sa zraziť a splstnatieť",
+    "explanation": "Vlnené vlákna a ich povrch reagujú na kombináciu tepla, vlhkosti a mechanického pôsobenia.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-078",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je netkaná textília?",
+    "options": [
+      "Textília spevnená z vlákien bez klasického tkania alebo pletenia",
+      "Každý oceľový plech",
+      "Výhradne osnova pre tkáčsky stav",
+      "Iba neopracované drevo"
+    ],
+    "answer": "Textília spevnená z vlákien bez klasického tkania alebo pletenia",
+    "explanation": "Vlákna možno spájať mechanicky, tepelne alebo spojivom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-079",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo môže byť zmesová textília náročnejšia na recykláciu?",
+    "options": [
+      "Rôzne vlákna a prísady sa ťažšie oddeľujú",
+      "Nemá žiadny materiál",
+      "Každá zmes sa vždy recykluje ľahšie než čisté vlákno",
+      "Značka zmesi znamená zákaz každého opätovného použitia"
+    ],
+    "answer": "Rôzne vlákna a prísady sa ťažšie oddeľujú",
+    "explanation": "Recyklovateľnosť závisí aj od technológie a miestneho systému zberu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-080",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktoré porovnanie je primerané?",
+    "options": [
+      "Vlna môže dobre izolovať vďaka štruktúre vlákien a zadržanému vzduchu",
+      "Každá bavlna je úplne vodotesná",
+      "Každý polyester sa rozloží v záhrade za deň",
+      "Hodváb je kovová zliatina"
+    ],
+    "answer": "Vlna môže dobre izolovať vďaka štruktúre vlákien a zadržanému vzduchu",
+    "explanation": "Vlastnosti látky ovplyvňuje druh vlákna, väzba, hrúbka aj úprava.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-081",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Aké dve zložky typicky rozlišujeme vo vláknovom kompozite?",
+    "options": [
+      "Výstuž a matricu",
+      "Iba farbu a vôňu",
+      "Osnovu a kótu vždy",
+      "Elektródu a istič vždy"
+    ],
+    "answer": "Výstuž a matricu",
+    "explanation": "Výstuž prenáša časť zaťaženia a matrica ju spája a chráni.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-082",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je matrica v kompozite?",
+    "options": [
+      "Spojitá zložka obklopujúca a spájajúca výstuž",
+      "Výhradne kovová matica so závitom",
+      "Každý kus papiera",
+      "Samotná stupnica meradla"
+    ],
+    "answer": "Spojitá zložka obklopujúca a spájajúca výstuž",
+    "explanation": "Matrica prenáša sily medzi výstužou a ostatnými časťami materiálu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-083",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čím je vystužený bežný sklolaminát?",
+    "options": [
+      "Sklenenými vláknami",
+      "Výhradne pilinami bez spojiva",
+      "Iba vzduchom",
+      "Čistou bavlnou v každom prípade"
+    ],
+    "answer": "Sklenenými vláknami",
+    "explanation": "Sklenené vlákna sú uložené v spojivovej matrici, často polymérnej.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-084",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je typické pre uhlíkový vláknový kompozit?",
+    "options": [
+      "Kombinuje uhlíkové vlákna s matricou",
+      "Je to vždy čistý kus uhlia bez spojiva",
+      "Je vždy dokonale nevodivý",
+      "Má vo všetkých smeroch úplne rovnaké vlastnosti"
+    ],
+    "answer": "Kombinuje uhlíkové vlákna s matricou",
+    "explanation": "Usporiadanie vlákien zásadne ovplyvňuje pevnosť a tuhosť.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-085",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo môže smer vlákien meniť pevnosť kompozitného dielu?",
+    "options": [
+      "Výstuž účinkuje odlišne v rôznych smeroch zaťaženia",
+      "Vlákna nemajú mechanický význam",
+      "Na smere nikdy nezáleží",
+      "Matricu možno vždy vynechať"
+    ],
+    "answer": "Výstuž účinkuje odlišne v rôznych smeroch zaťaženia",
+    "explanation": "Návrh vrstiev sa prispôsobuje predpokladanému zaťaženiu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-086",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorý stavebný materiál je kompozitom cementového spojiva a kameniva?",
+    "options": [
+      "Betón",
+      "Čistá meď",
+      "Polyetylénová fólia",
+      "Jednotlivé ľanové vlákno"
+    ],
+    "answer": "Betón",
+    "explanation": "Betón obsahuje viac materiálových zložiek, ktoré spolu vytvárajú výsledné vlastnosti.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-087",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čím sa železobetón odlišuje od prostého betónu?",
+    "options": [
+      "Obsahuje navrhnutú oceľovú výstuž",
+      "Je vyrobený iba zo železa",
+      "Neobsahuje kamenivo",
+      "Nemá žiadne spojivo"
+    ],
+    "answer": "Obsahuje navrhnutú oceľovú výstuž",
+    "explanation": "Výstuž a betón spolu prenášajú rôzne druhy namáhania.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-088",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je príkladom sendvičovej konštrukcie?",
+    "options": [
+      "Ľahké jadro medzi pevnejšími povrchovými vrstvami",
+      "Jediná plná medená guľa",
+      "Čistá voda vo vedre",
+      "Samotná vlnená niť"
+    ],
+    "answer": "Ľahké jadro medzi pevnejšími povrchovými vrstvami",
+    "explanation": "Oddelenie pevných vrstiev ľahkým jadrom môže zvýšiť ohybovú tuhosť pri nízkej hmotnosti.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-089",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Aký materiál predstavuje drevoplast WPC?",
+    "options": [
+      "Kompozit drevnej zložky a polyméru",
+      "Čisté masívne drevo bez prísad",
+      "Každý kov s drevenou farbou",
+      "Vypálený porcelán"
+    ],
+    "answer": "Kompozit drevnej zložky a polyméru",
+    "explanation": "Vlastnosti WPC závisia od pomeru zložiek, polyméru a výroby.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-090",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo nemožno každý kompozit jednoducho rozobrať na pôvodné suroviny?",
+    "options": [
+      "Zložky môžu byť pevne a zložito previazané",
+      "V kompozite nie sú rôzne zložky",
+      "Každý kompozit sa rozpustí v studenej vode",
+      "Výstuž vždy vypadne sama"
+    ],
+    "answer": "Zložky môžu byť pevne a zložito previazané",
+    "explanation": "Recyklácia závisí od kombinácie materiálov a dostupnej technológie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-091",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktoré porovnanie ocele a skla vystihuje bežné správanie?",
+    "options": [
+      "Vhodná oceľ sa môže plasticky deformovať, sklo je typicky krehké",
+      "Sklo je vždy kujnejšie než oceľ",
+      "Oceľ je vždy priehľadná",
+      "Oba materiály sa vždy správajú rovnako"
+    ],
+    "answer": "Vhodná oceľ sa môže plasticky deformovať, sklo je typicky krehké",
+    "explanation": "Konkrétne vlastnosti závisia aj od úprav, ale základné rozdiely sú podstatné.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-092",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa pre elektrickú izoláciu volí vhodný plast alebo keramika namiesto medi?",
+    "options": [
+      "Tieto materiály môžu mať veľký elektrický odpor",
+      "Meď je najlepší bežný izolant",
+      "Každá keramika je vodič ako meď",
+      "Farba izolácie vždy stačí"
+    ],
+    "answer": "Tieto materiály môžu mať veľký elektrický odpor",
+    "explanation": "Izolačný materiál musí zvládnuť aj požadované teploty a prevádzkové podmienky.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-093",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je dôležité pri výbere materiálu na tepelnú izoláciu?",
+    "options": [
+      "Nízka tepelná vodivosť a vhodnosť do prostredia",
+      "Výhradne vysoká elektrická vodivosť",
+      "Iba zrkadlový lesk",
+      "Vždy najväčšia hustota"
+    ],
+    "answer": "Nízka tepelná vodivosť a vhodnosť do prostredia",
+    "explanation": "Posudzujú sa aj vlhkosť, požiarne vlastnosti a mechanická odolnosť.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-094",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorý materiál lepšie zodpovedá ohybnej tesniacej podložke?",
+    "options": [
+      "Vhodný elastomér",
+      "Krehká porcelánová doska",
+      "Nevypálená suchá hlina",
+      "Okenné sklo"
+    ],
+    "answer": "Vhodný elastomér",
+    "explanation": "Tesnenie sa musí prispôsobiť styčným plochám a odolať danému médiu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-095",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo nie je najľahší materiál automaticky najlepší na nosný diel?",
+    "options": [
+      "Treba posúdiť pevnosť, tuhosť, rozmery aj prostredie",
+      "Hmotnosť je jediná vlastnosť materiálu",
+      "Každý ľahký materiál má nekonečnú pevnosť",
+      "Všetky nosné diely musia byť z rovnakého plastu"
+    ],
+    "answer": "Treba posúdiť pevnosť, tuhosť, rozmery aj prostredie",
+    "explanation": "Návrh výrobku vyvažuje viac požiadaviek naraz.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-096",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Aký význam má odolnosť voči vode pri záhradnom výrobku?",
+    "options": [
+      "Vlhkosť môže meniť vlastnosti a životnosť materiálu",
+      "Voda nemôže ovplyvniť žiadny materiál",
+      "Každý materiál sa vo vode okamžite rozpustí",
+      "Rozhoduje iba farba výrobku"
+    ],
+    "answer": "Vlhkosť môže meniť vlastnosti a životnosť materiálu",
+    "explanation": "Drevo, kovy aj kompozity reagujú na vlhkosť rôznym spôsobom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-097",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je funkčná požiadavka na materiál pracovnej dosky?",
+    "options": [
+      "Odolnosť voči predpokladanému zaťaženiu a používaniu",
+      "Iba príjemný názov materiálu",
+      "Výhradne najvyššia cena",
+      "Povinne nulová hrúbka"
+    ],
+    "answer": "Odolnosť voči predpokladanému zaťaženiu a používaniu",
+    "explanation": "Rozhoduje skutočný účel, napríklad nárazy, vlhkosť a čistenie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-098",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa pri porovnaní materiálov používa rovnaký objem alebo rozmer vzoriek?",
+    "options": [
+      "Aby porovnanie vlastnosti nebolo skreslené veľkosťou",
+      "Aby mali všetky vzorky rovnakú farbu",
+      "Lebo rôzne materiály nemajú objem",
+      "Aby sa zrušila hmotnosť"
+    ],
+    "answer": "Aby porovnanie vlastnosti nebolo skreslené veľkosťou",
+    "explanation": "Hmotnosť rovnako veľkých vzoriek napríklad súvisí s hustotou.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-099",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktoré tvrdenie o prírodných a umelých materiáloch je správne?",
+    "options": [
+      "Pôvod sám osebe neurčuje bezpečnosť ani vhodnosť na každý účel",
+      "Všetky prírodné materiály sú automaticky neškodné",
+      "Každý umelý materiál je vždy jedovatý",
+      "Prírodné materiály nikdy nehoria"
+    ],
+    "answer": "Pôvod sám osebe neurčuje bezpečnosť ani vhodnosť na každý účel",
+    "explanation": "Materiál treba hodnotiť podľa vlastností, spracovania a použitia.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-100",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo najlepšie vystihuje zodpovedný výber materiálu?",
+    "options": [
+      "Vhodná funkcia spolu s životnosťou, opraviteľnosťou a koncom použitia",
+      "Iba najvýraznejšia farba",
+      "Výhradne jednorazovosť",
+      "Ignorovanie odpadu a opráv"
+    ],
+    "answer": "Vhodná funkcia spolu s životnosťou, opraviteľnosťou a koncom použitia",
+    "explanation": "Rozhodnutie ovplyvňuje výrobu, používanie aj odpadový tok.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-101",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Čo treba čítať na zbernej nádobe okrem jej farby?",
+    "options": [
+      "Označenie prijímaného odpadu a miestne pokyny",
+      "Iba číslo domu oproti",
+      "Výhradne meno vodiča auta",
+      "Len dátum výroby koša"
+    ],
+    "answer": "Označenie prijímaného odpadu a miestne pokyny",
+    "explanation": "Farby sú orientačné; konkrétne komodity môžu mať spoločný alebo oddelený zber.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-102",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Aká farba sa v bežnom oddelenom zbere na Slovensku spája s papierom?",
+    "options": [
+      "Modrá",
+      "Červená",
+      "Žltá",
+      "Zelená"
+    ],
+    "answer": "Modrá",
+    "explanation": "Do zberu papiera patria vhodné papierové výrobky bez znečistenia a neprijímaných prímesí.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-103",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Aká farba sa bežne spája so zberom obalového skla?",
+    "options": [
+      "Zelená",
+      "Modrá",
+      "Červená",
+      "Žltá"
+    ],
+    "answer": "Zelená",
+    "explanation": "Presný zoznam prijímaných sklenených predmetov určuje miestny systém.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-104",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Akú farbu má bežne nádoba na plasty pri samostatnom zbere?",
+    "options": [
+      "Žltú",
+      "Modrú",
+      "Zelenú",
+      "Červenú"
+    ],
+    "answer": "Žltú",
+    "explanation": "Žltý zber môže podľa obce prijímať aj ďalšie určené komodity.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-105",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Ak sa kovové obaly zbierajú samostatne, aká farba sa im bežne priraďuje?",
+    "options": [
+      "Červená",
+      "Modrá",
+      "Zelená",
+      "Fialová ako celoštátne pravidlo"
+    ],
+    "answer": "Červená",
+    "explanation": "V mnohých obciach sa však kovy zbierajú spolu s plastmi alebo nápojovými kartónmi.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-106",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Prečo otázka „Kam s kovovou konzervou?“ nemusí mať všade rovnakú farebnú odpoveď?",
+    "options": [
+      "Systém spoločného zberu sa môže medzi obcami líšiť",
+      "Konzerva nemá žiadny materiál",
+      "Farba vždy nahrádza všetky pokyny",
+      "Každá konzerva je nebezpečný odpad"
+    ],
+    "answer": "Systém spoločného zberu sa môže medzi obcami líšiť",
+    "explanation": "Najprv identifikujeme materiál a potom overíme miestny spôsob jeho zberu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-107",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Čo znamená symbol Z s textom ZÁLOHOVANÉ na nápojovom obale v slovenskom systéme?",
+    "options": [
+      "Obal patrí do systému vracania na odbernom mieste",
+      "Obal je vždy zmesový odpad",
+      "Obal treba rozstrihať pred vrátením",
+      "Symbol určuje len farbu nápoja"
+    ],
+    "answer": "Obal patrí do systému vracania na odbernom mieste",
+    "explanation": "Rozhodujúce je označenie zálohovania, nie samotný materiál obalu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.minzp.sk/zalohovanie/najcastejsie-otazky.html"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-108",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Ako pripravíme riadne označenú zálohovanú PET fľašu na vrátenie?",
+    "options": [
+      "Vyprázdnenú, nestlačenú a s čitateľným označením",
+      "Rozstrihanú na kúsky",
+      "Spálenú",
+      "Naplnenú použitým olejom"
+    ],
+    "answer": "Vyprázdnenú, nestlačenú a s čitateľným označením",
+    "explanation": "Rozpoznanie obalu vyžaduje zachované identifikačné údaje a tvar podľa systému.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.minzp.sk/zalohovanie/najcastejsie-otazky.html"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-109",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Kam patrí nápojová plechovka označená ako zálohovaná?",
+    "options": [
+      "Na odberné miesto zálohovaných obalov",
+      "Povinne do zmesového odpadu",
+      "Do modrého kontajnera na papier",
+      "Do nádoby na kuchynský odpad"
+    ],
+    "answer": "Na odberné miesto zálohovaných obalov",
+    "explanation": "Pri zálohovanom obale sa využíva návratový systém.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.minzp.sk/zalohovanie/najcastejsie-otazky.html"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-110",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Prečo bežný nápojový kartón automaticky nepatrí do modrej nádoby na papier?",
+    "options": [
+      "Je to viacvrstvový obal s určeným zberom",
+      "Vždy je z čistého skla",
+      "Obsahuje iba bavlnu",
+      "Nemožno ho nikde zbierať"
+    ],
+    "answer": "Je to viacvrstvový obal s určeným zberom",
+    "explanation": "Pri nápojových kartónoch sa riadime ich označením a pokynmi obce.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-111",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Je porcelánový hrnček vhodný do kontajnera na obalové sklo?",
+    "options": [
+      "Nie",
+      "Áno, pretože je tvrdý",
+      "Áno, ak je biely",
+      "Áno, ak má uško"
+    ],
+    "answer": "Nie",
+    "explanation": "Keramika a porcelán sa pri spracovaní skla správajú odlišne a znečisťujú surovinu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-112",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Prečo do zberu papiera nepatrí papier silno znečistený mastnotou?",
+    "options": [
+      "Znečistenie zhoršuje spracovanie papierovej suroviny",
+      "Mastnota vždy zlepšuje recykláciu",
+      "Papier sa mastnotou mení na sklo",
+      "Modrý kontajner prijíma iba čistý kov"
+    ],
+    "answer": "Znečistenie zhoršuje spracovanie papierovej suroviny",
+    "explanation": "Znečistené časti sa oddeľujú podľa miestnych pokynov.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-113",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Čo je prvým krokom pri obale s veľkými zvyškami jedla?",
+    "options": [
+      "Vyprázdniť ho a odstrániť hrubé zvyšky",
+      "Vložiť ho aj s celým jedlom medzi čisté suroviny",
+      "Doplniť ďalšie jedlo",
+      "Zaliať ho farbou"
+    ],
+    "answer": "Vyprázdniť ho a odstrániť hrubé zvyšky",
+    "explanation": "Obal sa pripravuje tak, aby neznečisťoval ostatný vytriedený materiál.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-114",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Je potrebné každý mierne znečistený plastový obal drhnúť horúcou vodou do sterility?",
+    "options": [
+      "Nie, dôležité je vyprázdnenie a odstránenie hrubých zvyškov podľa pokynov",
+      "Áno, musí byť sterilný ako zdravotnícka pomôcka",
+      "Áno, vždy s množstvom chemikálií",
+      "Nie, obal môže zostať naplnený jedlom"
+    ],
+    "answer": "Nie, dôležité je vyprázdnenie a odstránenie hrubých zvyškov podľa pokynov",
+    "explanation": "Pri triedení nemrháme zbytočne vodou, no obaly nemajú obsahovať veľké zvyšky.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-115",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Prečo sa nezálohované prázdne obaly pred odovzdaním často stláčajú?",
+    "options": [
+      "Zmenší sa ich objem v zbernej nádobe",
+      "Zmení sa ich chemické zloženie na kov",
+      "Stanú sa automaticky zálohovanými",
+      "Zmizne potreba triedenia"
+    ],
+    "answer": "Zmenší sa ich objem v zbernej nádobe",
+    "explanation": "Výnimkou sú obaly, pri ktorých návratový systém požaduje nestlačený tvar.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.minzp.sk/zalohovanie/najcastejsie-otazky.html"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-116",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Kam odovzdáme starú batériu z ovládača?",
+    "options": [
+      "Do určeného zberu použitých batérií",
+      "Do modrej nádoby na papier",
+      "Voľne do prírody",
+      "Do nádoby na čisté obalové sklo"
+    ],
+    "answer": "Do určeného zberu použitých batérií",
+    "explanation": "Batérie nepatria medzi bežné obalové suroviny.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-117",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Kam patrí pokazený elektrický spotrebič?",
+    "options": [
+      "Do určeného spätného zberu elektroodpadu alebo zberného miesta",
+      "Do koša na papier",
+      "Do nádoby na potraviny",
+      "Do lesa"
+    ],
+    "answer": "Do určeného spätného zberu elektroodpadu alebo zberného miesta",
+    "explanation": "Elektroodpad má osobitný zber pre materiály aj možné rizikové zložky.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-118",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Je rozbitá úsporná žiarivka bežné obalové sklo?",
+    "options": [
+      "Nie",
+      "Áno, vždy",
+      "Áno, ak je priehľadná",
+      "Áno, ak je krátka"
+    ],
+    "answer": "Nie",
+    "explanation": "Svetelné zdroje majú určený zber; s poškodenými sa manipuluje podľa bezpečných pokynov.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-119",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Kedy možno použiteľnú čistú bundu namiesto vyhodenia odovzdať na ďalšie používanie?",
+    "options": [
+      "Ak ju prijíma príslušná zbierka alebo organizácia",
+      "Iba ak sa rozstrihá",
+      "Až po zmiešaní s mokrým odpadom",
+      "Nikdy, textil sa nesmie znovu používať"
+    ],
+    "answer": "Ak ju prijíma príslušná zbierka alebo organizácia",
+    "explanation": "Opätovné použitie predlžuje životnosť výrobku bez potreby jeho rozvláknenia.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-120",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Čo najlepšie odlišuje opätovné použitie od materiálovej recyklácie?",
+    "options": [
+      "Použitie výrobku znovu verzus spracovanie na surovinu",
+      "Oba pojmy vždy znamenajú spaľovanie",
+      "Recyklácia je iba prekladanie medzi košmi",
+      "Opätovné použitie vždy vyžaduje roztavenie"
+    ],
+    "answer": "Použitie výrobku znovu verzus spracovanie na surovinu",
+    "explanation": "Oprava a ďalšie používanie môžu predchádzať vzniku odpadu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-121",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Škola má samostatnú modrú nádobu na papier. Kam dáš čistý nepotrebný papierový pracovný list?",
+    "options": [
+      "Do modrej nádoby",
+      "Do zelenej nádoby na sklo",
+      "Do zberu batérií",
+      "Do červeného zberu kovov"
+    ],
+    "answer": "Do modrej nádoby",
+    "explanation": "Čistý kancelársky papier je vhodnou papierovou surovinou.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-122",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Kam patrí čistá kartónová škatuľa bez neprijímaných prímesí v obci so samostatným papierom?",
+    "options": [
+      "Do zberu papiera, vhodne zložená",
+      "Do zberu skla",
+      "Do zberu batérií",
+      "Výhradne do kuchynského bioodpadu"
+    ],
+    "answer": "Do zberu papiera, vhodne zložená",
+    "explanation": "Zloženie škatule šetrí miesto v nádobe.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-123",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Čo urobíš s prázdnym papierovým obalom, ktorý má ľahko oddeliteľnú plastovú vložku?",
+    "options": [
+      "Oddelím materiály a roztriedim ich podľa miestnych pokynov",
+      "Vždy ich musím navždy zlepiť",
+      "Všetko automaticky patrí do skla",
+      "Obal povinne spálim"
+    ],
+    "answer": "Oddelím materiály a roztriedim ich podľa miestnych pokynov",
+    "explanation": "Jednoducho oddeliteľné zložky majú vlastné odpadové toky.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-124",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Krabica od jedla má čisté veko a silno mastné dno. Čo je vhodné?",
+    "options": [
+      "Oddeliť čistú a znečistenú časť a triediť podľa pokynov",
+      "Silno mastné dno ukryť medzi čistý papier",
+      "Všetko označiť ako sklo",
+      "Obal naplniť olejom"
+    ],
+    "answer": "Oddeliť čistú a znečistenú časť a triediť podľa pokynov",
+    "explanation": "Nie všetky časti jedného výrobku musia byť rovnako vhodné na recykláciu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-125",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Prečo použitá hygienická papierová vreckovka nepatrí medzi čistý papier na recykláciu?",
+    "options": [
+      "Je hygienicky a materiálovo znečistená",
+      "Je vyrobená z ocele",
+      "Všetky vreckovky sú sklenené",
+      "Je zálohovaný nápojový obal"
+    ],
+    "answer": "Je hygienicky a materiálovo znečistená",
+    "explanation": "Hygienický odpad sa nezamieňa s čistou papierovou surovinou.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-126",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Kam dáš prázdny nevratný sklenený zaváraninový pohár podľa označenia miestnej nádoby?",
+    "options": [
+      "Do zberu obalového skla",
+      "Do zberu papiera",
+      "Do zberu textilu",
+      "Do zberu batérií"
+    ],
+    "answer": "Do zberu obalového skla",
+    "explanation": "Odstrániteľné nesklenené časti sa oddelia podľa zberových pokynov.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-127",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Prečo do kontajnera na obalové sklo nedáme zrkadlo?",
+    "options": [
+      "Má odlišnú materiálovú úpravu a nie je bežným obalovým sklom",
+      "Je vždy vyrobené z bavlny",
+      "Vždy patrí do papiera",
+      "Nemá žiadny materiál"
+    ],
+    "answer": "Má odlišnú materiálovú úpravu a nie je bežným obalovým sklom",
+    "explanation": "Postup pre zrkadlo určuje obec alebo príslušné zberné miesto.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-128",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Do ktorej skupiny pri triedení určite nepatrí rozbitý kameninový tanier?",
+    "options": [
+      "Obalové sklo",
+      "Keramický odpad podľa miestnych pravidiel",
+      "Materiál riešený zberným dvorom podľa podmienok",
+      "Nerecyklovateľná zložka podľa miestnych pravidiel"
+    ],
+    "answer": "Obalové sklo",
+    "explanation": "Tvrdosť a lesk neznamenajú, že ide o sklo vhodné do zelenej nádoby.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-129",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Čo urobíš s vratnou sklenenou nápojovou fľašou, ak je možné ju vrátiť v príslušnej predajni?",
+    "options": [
+      "Vrátim ju do vratného systému",
+      "Rozbijem ju pred vrátením",
+      "Povinne ju vhodím medzi papier",
+      "Zmením ju na nebezpečný odpad"
+    ],
+    "answer": "Vrátim ju do vratného systému",
+    "explanation": "Vratná fľaša môže byť po spracovaní znovu naplnená.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-130",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Obec zbiera iba plasty do žltej nádoby. Kam patrí prázdny nezálohovaný plastový obal zo šampónu, ak ho miestny systém prijíma?",
+    "options": [
+      "Do žltej nádoby",
+      "Do modrej nádoby",
+      "Do zelenej nádoby na sklo",
+      "Na odberné miesto zálohovaných nápojových obalov"
+    ],
+    "answer": "Do žltej nádoby",
+    "explanation": "Bežný plastový obal drogérie nie je automaticky zálohovanou nápojovou fľašou.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.minzp.sk/zalohovanie/najcastejsie-otazky.html"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-131",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "V obci je spoločná žltá nádoba označená PLASTY + KOVY + NÁPOJOVÉ KARTÓNY. Kam dáš vyprázdnený kartón od džúsu?",
+    "options": [
+      "Do tejto spoločnej žltej nádoby",
+      "Do modrého papiera len preto, že má kartón v názve",
+      "Medzi čisté sklo",
+      "Do koša na použité batérie"
+    ],
+    "answer": "Do tejto spoločnej žltej nádoby",
+    "explanation": "Konkrétne označenie spoločnej nádoby rozhoduje o prijímanej komodite.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-132",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "V obci sú samostatné červené nádoby na kovové obaly. Kam dáš prázdnu konzervu bez hrubých zvyškov jedla?",
+    "options": [
+      "Do červenej nádoby na kovové obaly",
+      "Do zelenej nádoby",
+      "Do modrej nádoby",
+      "Do zberu čistých textílií"
+    ],
+    "answer": "Do červenej nádoby na kovové obaly",
+    "explanation": "Otázka výslovne určuje miestny systém samostatného zberu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-133",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Kam patrí nezálohovaná kovová konzerva v obci so žltým zberom plastov a kovov spolu?",
+    "options": [
+      "Do označenej spoločnej žltej nádoby",
+      "Vždy do modrého papiera",
+      "Povinne do odberu zálohovaných nápojových obalov",
+      "Do kompostu"
+    ],
+    "answer": "Do označenej spoločnej žltej nádoby",
+    "explanation": "Rovnaký materiál môže byť zbieraný iným systémom než v susednej obci.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.minzp.sk/zalohovanie/najcastejsie-otazky.html"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-134",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Prečo nezamieňame hliníkové viečko z jogurtu s papierom?",
+    "options": [
+      "Je to kovový obalový materiál",
+      "Má vždy rovnaké zloženie ako zošit",
+      "Je prírodné drevo",
+      "Značka jogurtu určuje farbu zberu papiera"
+    ],
+    "answer": "Je to kovový obalový materiál",
+    "explanation": "Oddelené viečko sa triedi podľa miestneho zberu kovových obalov.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-135",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Čo urobíš s prázdnym obalom od nebezpečnej chemikálie so zvyškami látky?",
+    "options": [
+      "Riadim sa označením a pokynmi určeného zberu",
+      "Bez posúdenia ho vhodím medzi potravinové obaly",
+      "Zvyšky vylejem do pôdy",
+      "Obal dám dieťaťu ako hračku"
+    ],
+    "answer": "Riadim sa označením a pokynmi určeného zberu",
+    "explanation": "Nebezpečný zvyšok môže meniť spôsob nakladania aj s inak bežným obalom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-136",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Kam odovzdáš nepoužiteľné lieky z domácnosti podľa pokynov príslušného systému?",
+    "options": [
+      "Do lekárne prijímajúcej nespotrebované lieky",
+      "Do umývadla",
+      "Do zberu skla aj s liekmi",
+      "Do kompostu"
+    ],
+    "answer": "Do lekárne prijímajúcej nespotrebované lieky",
+    "explanation": "Lieky sa nezamieňajú s bežným komunálnym obalovým odpadom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.sukl.sk/slovenska-verzia/informacie-pre-verejnost/oznamenie-pre-obcanov-o-potrebe-racionalizacie-v-zasobovani-sa-liekmi-a-zaobchadzani-s-liekovym-odpadom"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-137",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Čo má byť rozhodujúce pri odovzdaní starého oblečenia do textilnej nádoby?",
+    "options": [
+      "Pokyny prevádzkovateľa, prijímaný stav a druh textilu",
+      "Iba náhodná farba vreca",
+      "Predpoklad, že prijíma úplne všetko vrátane mokrých handier",
+      "Hmotnosť kontajnera"
+    ],
+    "answer": "Pokyny prevádzkovateľa, prijímaný stav a druh textilu",
+    "explanation": "Zber na ďalšie používanie a zber textilného odpadu môžu mať rozdielne podmienky.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-138",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Prečo sa čistý textil určený na ďalšie používanie odovzdáva suchý a chránený pred vlhkosťou?",
+    "options": [
+      "Vlhkosť podporuje plesne a znehodnotenie",
+      "Vlhkosť vždy zvýši jeho cenu",
+      "Mokrý textil sa vždy zmení na plast",
+      "Farba vreca nahradí čistotu"
+    ],
+    "answer": "Vlhkosť podporuje plesne a znehodnotenie",
+    "explanation": "Spôsob zabalenia sa riadi pokynmi príjemcu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-139",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Kam patrí stavebná suť z rozbitých tehál pri väčšej oprave?",
+    "options": [
+      "Do systému zberu stavebného odpadu podľa miestnych podmienok",
+      "Do kontajnera na obalové sklo",
+      "Do modrého papiera",
+      "Do nádoby na kuchynský bioodpad"
+    ],
+    "answer": "Do systému zberu stavebného odpadu podľa miestnych podmienok",
+    "explanation": "Stavebný materiál nie je bežným obalovým sklom ani papierom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-140",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Čo je rozumný postup, ak na nádobe nenájdeš jasný pokyn pre neobvyklý kompozitný obal?",
+    "options": [
+      "Overiť pokyny obce, zberovej spoločnosti alebo triediaci návod",
+      "Vybrať nádobu iba podľa farby obrázka na obale",
+      "Zahrabať ho do pôdy",
+      "Všetky kompozity automaticky označiť ako papier"
+    ],
+    "answer": "Overiť pokyny obce, zberovej spoločnosti alebo triediaci návod",
+    "explanation": "Viacvrstvové a zmiešané obaly sa nedajú spoľahlivo triediť len podľa vzhľadu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-141",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Ktorá drevina má typicky žalude v čiaške?",
+    "options": [
+      "Dub",
+      "Buk",
+      "Lipa",
+      "Breza"
+    ],
+    "answer": "Dub",
+    "explanation": "Žaluď s čiaškou je dobre rozpoznateľný plod dubov.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-142",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Ktorá drevina má bukvice uložené v ostnitej čiaške?",
+    "options": [
+      "Buk",
+      "Dub",
+      "Javor",
+      "Lipa"
+    ],
+    "answer": "Buk",
+    "explanation": "Bukvice sú hranaté nažky; čiaška sa po dozretí otvára.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-143",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Ktorý strom má typicky srdcovité listy a plody nesené s podlhovastým listeňom?",
+    "options": [
+      "Lipa",
+      "Borovica",
+      "Smrek",
+      "Buk"
+    ],
+    "answer": "Lipa",
+    "explanation": "Srdcovitý list a sprievodný listeň sú spoločným rozpoznávacím vodidlom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-144",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "S ktorým rodom drevín sa spájajú párové krídlaté plody často nazývané vrtuľky?",
+    "options": [
+      "Javor",
+      "Dub",
+      "Buk",
+      "Smrek"
+    ],
+    "answer": "Javor",
+    "explanation": "Javory vytvárajú dvojnažky s krídlami.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-145",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Ktorý strom sa často pozná podľa bielej kôry a drobnejších zúbkatých listov?",
+    "options": [
+      "Breza",
+      "Dub",
+      "Jedľa",
+      "Smrek"
+    ],
+    "answer": "Breza",
+    "explanation": "Pri určovaní sa spája viac znakov, pretože samotná farba kôry nemusí stačiť.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-146",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Ktorá drevina má veľké dlaňovito zložené listy a ostnitú tobolku s lesklým hnedým semenom?",
+    "options": [
+      "Pagaštan konský",
+      "Lipa",
+      "Buk",
+      "Jaseň"
+    ],
+    "answer": "Pagaštan konský",
+    "explanation": "Pagaštanové semená sa nesmú zamieňať s jedlými gaštanmi.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-147",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Čo je typické pre ihlice borovice lesnej?",
+    "options": [
+      "Vyrastajú spravidla po dvoch vo zväzku",
+      "Sú vždy široké srdcovité listy",
+      "Vyrastajú v pároch z čiašky žaluďa",
+      "Sú vždy ploché ako list lipy"
+    ],
+    "answer": "Vyrastajú spravidla po dvoch vo zväzku",
+    "explanation": "Počet ihlíc vo zväzku pomáha odlíšiť druhy borovíc.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-148",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Ako sa na vetve smreka obyčajného spravidla nachádzajú ihlice?",
+    "options": [
+      "Jednotlivo a okolo konárika",
+      "Vo veľkých mäkkých ružiciach ako pri smrekovci",
+      "Vždy po dvoch v spoločnom zväzku",
+      "Ako sedem širokých lístkov na stopke"
+    ],
+    "answer": "Jednotlivo a okolo konárika",
+    "explanation": "Smrekové ihlice sú typicky hranaté a pichľavé.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-149",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Aké šišky má na strome jedľa biela?",
+    "options": [
+      "Vzpriamené a pri dozrievaní sa rozpadajú na strome",
+      "Vždy dlhé previsnuté šišky padajúce celé",
+      "Žalude s čiaškou",
+      "Červené dužinaté malvice"
+    ],
+    "answer": "Vzpriamené a pri dozrievaní sa rozpadajú na strome",
+    "explanation": "Smer šišiek a spôsob ich rozpadu pomáha odlíšiť jedľu od smreka.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-150",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Ktorá z bežných ihličnatých drevín na jeseň zhadzuje ihlice?",
+    "options": [
+      "Smrekovec opadavý",
+      "Smrek obyčajný",
+      "Jedľa biela",
+      "Borovica lesná"
+    ],
+    "answer": "Smrekovec opadavý",
+    "explanation": "Smrekovec má mäkké ihlice v početných zväzočkoch na krátkych výhonkoch.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-151",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Čo je letokruh v dreve mierneho pásma v základnom školskom modeli?",
+    "options": [
+      "Vrstva dreva vytvorená počas jedného rastového obdobia",
+      "Každý otvor po hmyze",
+      "Vždy iba vonkajšia kôra",
+      "Kovová výstuž kmeňa"
+    ],
+    "answer": "Vrstva dreva vytvorená počas jedného rastového obdobia",
+    "explanation": "Letokruhy sa dajú sledovať najmä na priečnom reze kmeňa.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-152",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Ktorá časť kmeňa je ochrannou vonkajšou vrstvou?",
+    "options": [
+      "Kôra",
+      "Dreň",
+      "Jadro ocele",
+      "Glazúra"
+    ],
+    "answer": "Kôra",
+    "explanation": "Kôra chráni živé časti stromu pred pôsobením prostredia.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-153",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Čo sa pri výbere dreva rozumie hrčou?",
+    "options": [
+      "Miestom súvisiacim so zarastenou vetvou",
+      "Vždy nalepenou kovovou maticou",
+      "Dutinou po vrtáku každého druhu",
+      "Vrchnou vrstvou laku"
+    ],
+    "answer": "Miestom súvisiacim so zarastenou vetvou",
+    "explanation": "Hrče ovplyvňujú vzhľad aj mechanické správanie konkrétneho dielu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-154",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Prečo môže byť veľká vypadavá hrča problémom v nosnej latke?",
+    "options": [
+      "Oslabuje alebo narušuje súvislosť materiálu",
+      "Zaručuje vždy väčšiu pevnosť",
+      "Zmení drevo na keramiku",
+      "Nemôže mať vplyv na diel"
+    ],
+    "answer": "Oslabuje alebo narušuje súvislosť materiálu",
+    "explanation": "Drevo sa pred výrobou kontroluje podľa účelu a požadovanej kvality.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-155",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Ktoré drevo patrí medzi bežne používané mäkké ihličnaté drevá?",
+    "options": [
+      "Smrekové",
+      "Dubové",
+      "Bukové",
+      "Hrabové"
+    ],
+    "answer": "Smrekové",
+    "explanation": "Druh dreviny vplýva na hustotu, tvrdosť a vhodné použitie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-156",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Ktorá dvojica obsahuje bežné tvrdé listnaté drevá?",
+    "options": [
+      "Buk a dub",
+      "Smrek a jedľa",
+      "Borovica a smrekovec",
+      "Lipa a smrek"
+    ],
+    "answer": "Buk a dub",
+    "explanation": "Botanické členenie a technická tvrdosť nie sú úplne rovnaké systémy.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-157",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Prečo neplatí, že každé listnaté drevo je tvrdšie než každé ihličnaté?",
+    "options": [
+      "Tvrdosť závisí od druhu a vlastností dreva, nie iba od listov",
+      "Listnaté dreviny nemajú drevo",
+      "Všetky drevá sú presne rovnako tvrdé",
+      "Ihličnaté drevo je vždy kov"
+    ],
+    "answer": "Tvrdosť závisí od druhu a vlastností dreva, nie iba od listov",
+    "explanation": "Rozdelenie drevín podľa listov samo nevystihuje všetky technické vlastnosti.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-158",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Čo je pri určovaní neznámej dreviny spoľahlivejšie než jediný znak?",
+    "options": [
+      "Kombinácia listu, plodu, kôry a usporiadania vetiev",
+      "Iba veľkosť tieňa",
+      "Len aktuálny dátum",
+      "Výhradne farba náteru lavičky pod stromom"
+    ],
+    "answer": "Kombinácia listu, plodu, kôry a usporiadania vetiev",
+    "explanation": "Viaceré zhodné znaky znižujú riziko zámeny.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-159",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Prečo sa samotný počet letokruhov na náhodnej doske nerovná vždy veku celého stromu?",
+    "options": [
+      "Doska nemusí obsahovať celý priečny rez ani dreň",
+      "Stromy netvoria letokruhy",
+      "Každá doska má vždy presne desať rokov",
+      "Lak automaticky pridáva letokruhy"
+    ],
+    "answer": "Doska nemusí obsahovať celý priečny rez ani dreň",
+    "explanation": "Úplné počítanie vyžaduje vhodný rez a posúdenie rastových zvláštností.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-160",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Čo je vhodné pri školskom určovaní stromov podľa plodov?",
+    "options": [
+      "Pozorovať znaky a nepovažovať neznámy plod automaticky za jedlý",
+      "Každý nájdený plod ochutnať",
+      "Všetky červené plody označiť za bezpečné",
+      "Ochutnávaním určovať druh dreva"
+    ],
+    "answer": "Pozorovať znaky a nepovažovať neznámy plod automaticky za jedlý",
+    "explanation": "Poznávanie materiálových zdrojov nevyžaduje ochutnávanie neznámych rastlín.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-161",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Laločnatý list s oblými lalokmi.)",
+    "options": [
+      "Dub",
+      "Buk",
+      "Lipa",
+      "Javor"
+    ],
+    "answer": "Dub",
+    "explanation": "Ide o drevinu dub. Rozpoznávacie znaky: laločnatý list s oblými lalokmi; žalude s čiaškami. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/oak-leaf.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: laločnatý list s oblými lalokmi.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: laločnatý list s oblými lalokmi."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-162",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Žalude s čiaškami.)",
+    "options": [
+      "Dub",
+      "Buk",
+      "Lipa",
+      "Javor"
+    ],
+    "answer": "Dub",
+    "explanation": "Ide o drevinu dub. Rozpoznávacie znaky: laločnatý list s oblými lalokmi; žalude s čiaškami. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/oak-fruit.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: žalude s čiaškami.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: žalude s čiaškami."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-163",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Oválny list so zvlneným okrajom a výraznou žilnatinou.)",
+    "options": [
+      "Buk",
+      "Dub",
+      "Lipa",
+      "Javor"
+    ],
+    "answer": "Buk",
+    "explanation": "Ide o drevinu buk. Rozpoznávacie znaky: oválny list so zvlneným okrajom a výraznou žilnatinou; bukvice a ich otvorená ostnitá čiaška. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/beech-leaf.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: oválny list so zvlneným okrajom a výraznou žilnatinou.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: oválny list so zvlneným okrajom a výraznou žilnatinou."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-164",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Bukvice a ich otvorená ostnitá čiaška.)",
+    "options": [
+      "Buk",
+      "Dub",
+      "Lipa",
+      "Javor"
+    ],
+    "answer": "Buk",
+    "explanation": "Ide o drevinu buk. Rozpoznávacie znaky: oválny list so zvlneným okrajom a výraznou žilnatinou; bukvice a ich otvorená ostnitá čiaška. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/beech-fruit.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: bukvice a ich otvorená ostnitá čiaška.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: bukvice a ich otvorená ostnitá čiaška."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-165",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Srdcovitý list.)",
+    "options": [
+      "Lipa",
+      "Buk",
+      "Javor",
+      "Breza"
+    ],
+    "answer": "Lipa",
+    "explanation": "Ide o drevinu lipa. Rozpoznávacie znaky: srdcovitý list; okrúhle plody nesené s podlhovastým listeňom. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/linden-leaf.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: srdcovitý list.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: srdcovitý list."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-166",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Okrúhle plody nesené s podlhovastým listeňom.)",
+    "options": [
+      "Lipa",
+      "Buk",
+      "Javor",
+      "Breza"
+    ],
+    "answer": "Lipa",
+    "explanation": "Ide o drevinu lipa. Rozpoznávacie znaky: srdcovitý list; okrúhle plody nesené s podlhovastým listeňom. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/linden-fruit.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: okrúhle plody nesené s podlhovastým listeňom.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: okrúhle plody nesené s podlhovastým listeňom."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-167",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Dlaňovito laločnatý list.)",
+    "options": [
+      "Javor",
+      "Dub",
+      "Lipa",
+      "Buk"
+    ],
+    "answer": "Javor",
+    "explanation": "Ide o drevinu javor. Rozpoznávacie znaky: dlaňovito laločnatý list; párové krídlaté plody. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/maple-leaf.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: dlaňovito laločnatý list.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: dlaňovito laločnatý list."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-168",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Párové krídlaté plody.)",
+    "options": [
+      "Javor",
+      "Dub",
+      "Lipa",
+      "Buk"
+    ],
+    "answer": "Javor",
+    "explanation": "Ide o drevinu javor. Rozpoznávacie znaky: dlaňovito laločnatý list; párové krídlaté plody. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/maple-fruit.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: párové krídlaté plody.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: párové krídlaté plody."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-169",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Trojuholníkovitý zúbkatý list.)",
+    "options": [
+      "Breza",
+      "Buk",
+      "Dub",
+      "Lipa"
+    ],
+    "answer": "Breza",
+    "explanation": "Ide o drevinu breza. Rozpoznávacie znaky: trojuholníkovitý zúbkatý list; previsnuté plodné jahňady. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/birch-leaf.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: trojuholníkovitý zúbkatý list.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: trojuholníkovitý zúbkatý list."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-170",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Previsnuté plodné jahňady.)",
+    "options": [
+      "Breza",
+      "Buk",
+      "Dub",
+      "Lipa"
+    ],
+    "answer": "Breza",
+    "explanation": "Ide o drevinu breza. Rozpoznávacie znaky: trojuholníkovitý zúbkatý list; previsnuté plodné jahňady. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/birch-fruit.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: previsnuté plodné jahňady.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: previsnuté plodné jahňady."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-171",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Dlaňovito zložený list.)",
+    "options": [
+      "Pagaštan konský",
+      "Javor",
+      "Dub",
+      "Lipa"
+    ],
+    "answer": "Pagaštan konský",
+    "explanation": "Ide o drevinu pagaštan konský. Rozpoznávacie znaky: dlaňovito zložený list; ostnitá tobolka s lesklým hnedým semenom. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/horse-leaf.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: dlaňovito zložený list.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: dlaňovito zložený list."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-172",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa plodu a semena: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Ostnitá tobolka s lesklým hnedým semenom.)",
+    "options": [
+      "Pagaštan konský",
+      "Javor",
+      "Dub",
+      "Lipa"
+    ],
+    "answer": "Pagaštan konský",
+    "explanation": "Ide o drevinu pagaštan konský. Rozpoznávacie znaky: dlaňovito zložený list; ostnitá tobolka s lesklým hnedým semenom. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/horse-fruit.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: ostnitá tobolka s lesklým hnedým semenom.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: ostnitá tobolka s lesklým hnedým semenom."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-173",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa ihličia: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Jednotlivé ihlice usporiadané okolo konárika.)",
+    "options": [
+      "Smrek",
+      "Jedľa",
+      "Borovica lesná",
+      "Smrekovec opadavý"
+    ],
+    "answer": "Smrek",
+    "explanation": "Ide o drevinu smrek. Rozpoznávacie znaky: jednotlivé ihlice usporiadané okolo konárika; dlhá šiška visiaca nadol. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/spruce-leaf.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: jednotlivé ihlice usporiadané okolo konárika.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: jednotlivé ihlice usporiadané okolo konárika."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-174",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Dlhá šiška visiaca nadol.)",
+    "options": [
+      "Smrek",
+      "Jedľa",
+      "Borovica lesná",
+      "Smrekovec opadavý"
+    ],
+    "answer": "Smrek",
+    "explanation": "Ide o drevinu smrek. Rozpoznávacie znaky: jednotlivé ihlice usporiadané okolo konárika; dlhá šiška visiaca nadol. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/spruce-fruit.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: dlhá šiška visiaca nadol.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: dlhá šiška visiaca nadol."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-175",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa ihličia: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Ploché ihlice a zväčšená spodná strana s dvoma svetlými pásikmi.)",
+    "options": [
+      "Jedľa",
+      "Smrek",
+      "Borovica lesná",
+      "Smrekovec opadavý"
+    ],
+    "answer": "Jedľa",
+    "explanation": "Ide o drevinu jedľa. Rozpoznávacie znaky: ploché ihlice a zväčšená spodná strana s dvoma svetlými pásikmi; šiška vyrastajúca vzpriamene na konári. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/fir-leaf.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: ploché ihlice a zväčšená spodná strana s dvoma svetlými pásikmi.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: ploché ihlice a zväčšená spodná strana s dvoma svetlými pásikmi."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-176",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Šiška vyrastajúca vzpriamene na konári.)",
+    "options": [
+      "Jedľa",
+      "Smrek",
+      "Borovica lesná",
+      "Smrekovec opadavý"
+    ],
+    "answer": "Jedľa",
+    "explanation": "Ide o drevinu jedľa. Rozpoznávacie znaky: ploché ihlice a zväčšená spodná strana s dvoma svetlými pásikmi; šiška vyrastajúca vzpriamene na konári. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/fir-fruit.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: šiška vyrastajúca vzpriamene na konári.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: šiška vyrastajúca vzpriamene na konári."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-177",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa ihličia: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Dlhšie ihlice vo zväzkoch po dvoch.)",
+    "options": [
+      "Borovica lesná",
+      "Smrek",
+      "Jedľa",
+      "Javor"
+    ],
+    "answer": "Borovica lesná",
+    "explanation": "Ide o drevinu borovica lesná. Rozpoznávacie znaky: dlhšie ihlice vo zväzkoch po dvoch; drevnatá vajcovitá šiška. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/pine-leaf.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: dlhšie ihlice vo zväzkoch po dvoch.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: dlhšie ihlice vo zväzkoch po dvoch."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-178",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Drevnatá vajcovitá šiška.)",
+    "options": [
+      "Borovica lesná",
+      "Smrek",
+      "Jedľa",
+      "Javor"
+    ],
+    "answer": "Borovica lesná",
+    "explanation": "Ide o drevinu borovica lesná. Rozpoznávacie znaky: dlhšie ihlice vo zväzkoch po dvoch; drevnatá vajcovitá šiška. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/pine-fruit.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: drevnatá vajcovitá šiška.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: drevnatá vajcovitá šiška."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-179",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa ihličia: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Mäkké ihlice v početných ružicovitých zväzočkoch.)",
+    "options": [
+      "Smrekovec opadavý",
+      "Smrek",
+      "Jedľa",
+      "Dub"
+    ],
+    "answer": "Smrekovec opadavý",
+    "explanation": "Ide o drevinu smrekovec opadavý. Rozpoznávacie znaky: mäkké ihlice v početných ružicovitých zväzočkoch; drobné vzpriamené šišky na krátkych stopkách. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/larch-leaf.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: mäkké ihlice v početných ružicovitých zväzočkoch.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: mäkké ihlice v početných ružicovitých zväzočkoch."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-180",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Drobné vzpriamené šišky na krátkych stopkách.)",
+    "options": [
+      "Smrekovec opadavý",
+      "Smrek",
+      "Jedľa",
+      "Dub"
+    ],
+    "answer": "Smrekovec opadavý",
+    "explanation": "Ide o drevinu smrekovec opadavý. Rozpoznávacie znaky: mäkké ihlice v početných ružicovitých zväzočkoch; drobné vzpriamené šišky na krátkych stopkách. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/larch-fruit.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: drobné vzpriamené šišky na krátkych stopkách.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: drobné vzpriamené šišky na krátkych stopkách."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-181",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Nepárno perovito zložený list s menším počtom lístkov.)",
+    "options": [
+      "Jaseň",
+      "Dub",
+      "Lipa",
+      "Javor"
+    ],
+    "answer": "Jaseň",
+    "explanation": "Ide o drevinu jaseň. Rozpoznávacie znaky: nepárno perovito zložený list s menším počtom lístkov; zväzok samostatných pretiahnutých krídlatých nažiek. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/ash-leaf.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: nepárno perovito zložený list s menším počtom lístkov.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: nepárno perovito zložený list s menším počtom lístkov."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-182",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Zväzok samostatných pretiahnutých krídlatých nažiek.)",
+    "options": [
+      "Jaseň",
+      "Dub",
+      "Lipa",
+      "Javor"
+    ],
+    "answer": "Jaseň",
+    "explanation": "Ide o drevinu jaseň. Rozpoznávacie znaky: nepárno perovito zložený list s menším počtom lístkov; zväzok samostatných pretiahnutých krídlatých nažiek. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/ash-fruit.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: zväzok samostatných pretiahnutých krídlatých nažiek.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: zväzok samostatných pretiahnutých krídlatých nažiek."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-183",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Nepárno perovito zložený list s početnými lístkami.)",
+    "options": [
+      "Jarabina",
+      "Breza",
+      "Buk",
+      "Lipa"
+    ],
+    "answer": "Jarabina",
+    "explanation": "Ide o drevinu jarabina. Rozpoznávacie znaky: nepárno perovito zložený list s početnými lístkami; skupina červených drobných malvíc. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/rowan-leaf.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: nepárno perovito zložený list s početnými lístkami.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: nepárno perovito zložený list s početnými lístkami."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-184",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Skupina červených drobných malvíc.)",
+    "options": [
+      "Jarabina",
+      "Breza",
+      "Buk",
+      "Lipa"
+    ],
+    "answer": "Jarabina",
+    "explanation": "Ide o drevinu jarabina. Rozpoznávacie znaky: nepárno perovito zložený list s početnými lístkami; skupina červených drobných malvíc. Pri určovaní v prírode porovnávame viac znakov, nie iba jeden detail.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "botanical",
+      "image": "assets/trees/rowan-fruit.svg",
+      "alt": "Schematická ilustrácia na určovanie drevín: skupina červených drobných malvíc.",
+      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: skupina červených drobných malvíc."
+    },
+    "tags": [
+      "Obrázkové rozpoznávanie drevín"
+    ],
+    "referenceUrls": [
+      "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
+    ]
+  },
+  {
+    "id": "TO-EXT-185",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "fill",
+    "prompt": "Ako sa jedným odborným slovom nazýva tvárnosť vlhkej hliny pri modelovaní?",
+    "options": [],
+    "answer": [
+      "plasticita"
+    ],
+    "explanation": "Plasticita umožňuje vytvoriť tvar a zachovať ho po uvoľnení tlaku.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Terminológia materiálov a drevín"
+    ]
+  },
+  {
+    "id": "TO-EXT-186",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "fill",
+    "prompt": "Doplň názov: Pozdĺžna sústava nití v tkanine je …",
+    "options": [],
+    "answer": [
+      "osnova"
+    ],
+    "explanation": "Pri tkaní sa osnova preväzuje s priečnym útkom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Terminológia materiálov a drevín"
+    ]
+  },
+  {
+    "id": "TO-EXT-187",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "fill",
+    "prompt": "Doplň názov: Priečna sústava nití v tkanine je …",
+    "options": [],
+    "answer": [
+      "útok"
+    ],
+    "explanation": "Útok sa pri tkaní vedie medzi osnovnými niťami.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Terminológia materiálov a drevín"
+    ]
+  },
+  {
+    "id": "TO-EXT-188",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "fill",
+    "prompt": "Aká je bežná materiálová skratka polypropylénu?",
+    "options": [],
+    "answer": [
+      "PP"
+    ],
+    "explanation": "PP označuje polypropylén; značka sama neurčuje konkrétny zberný systém.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Terminológia materiálov a drevín"
+    ]
+  },
+  {
+    "id": "TO-EXT-189",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "fill",
+    "prompt": "Aká je bežná materiálová skratka polyetylénu?",
+    "options": [],
+    "answer": [
+      "PE"
+    ],
+    "explanation": "PE označuje polyetylén používaný na množstvo obalov a výrobkov.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Terminológia materiálov a drevín"
+    ]
+  },
+  {
+    "id": "TO-EXT-190",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "fill",
+    "prompt": "Ako sa nazýva spojitá zložka vláknového kompozitu spájajúca výstuž?",
+    "options": [],
+    "answer": [
+      "matrica"
+    ],
+    "explanation": "Matrica obklopuje vlákna, prenáša medzi nimi sily a chráni ich.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Terminológia materiálov a drevín"
+    ]
+  },
+  {
+    "id": "TO-EXT-191",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "fill",
+    "prompt": "Ako sa nazýva plod duba s čiaškou?",
+    "options": [],
+    "answer": [
+      "žaluď"
+    ],
+    "explanation": "Žalude spolu s listami a kôrou pomáhajú rozpoznávať duby.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Terminológia materiálov a drevín"
+    ]
+  },
+  {
+    "id": "TO-EXT-192",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "fill",
+    "prompt": "Ako sa nazývajú plody buka v ostnitej čiaške?",
+    "options": [],
+    "answer": [
+      "bukvice",
+      "bukvica"
+    ],
+    "explanation": "Bukvice sú hranaté nažky, ktoré vznikajú v otvárajúcej sa čiaške.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Terminológia materiálov a drevín"
+    ]
+  },
+  {
+    "id": "TO-EXT-193",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "match",
+    "prompt": "Priraď textilné vlákno k pôvodu.",
+    "options": [
+      "Bavlna",
+      "Vlna",
+      "Polyester"
+    ],
+    "answer": [
+      "Rastlinné semenné vlákno",
+      "Živočíšne vlákno",
+      "Syntetické polymérne vlákno"
+    ],
+    "explanation": "Pôvod vlákna ovplyvňuje jeho vlastnosti aj ďalšie spracovanie.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Súvislosti a priraďovanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-194",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "match",
+    "prompt": "Priraď materiál k typickému spracovaniu v školskej technike.",
+    "options": [
+      "Vlhká hlina",
+      "Plech",
+      "Textilná tkanina"
+    ],
+    "answer": [
+      "Modelovanie a následný odborný výpal",
+      "Strihanie nožnicami na plech",
+      "Strihanie a zošívanie"
+    ],
+    "explanation": "Spracovanie musí zodpovedať vlastnostiam konkrétneho materiálu.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Súvislosti a priraďovanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-195",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "match",
+    "prompt": "Priraď polymér k jeho skratke.",
+    "options": [
+      "Polypropylén",
+      "Polyetylén",
+      "Polyvinylchlorid"
+    ],
+    "answer": [
+      "PP",
+      "PE",
+      "PVC"
+    ],
+    "explanation": "Materiálové skratky pomáhajú identifikovať druh polyméru.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Súvislosti a priraďovanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-196",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "match",
+    "prompt": "Priraď súčasť kompozitu k úlohe.",
+    "options": [
+      "Výstuž",
+      "Matrica",
+      "Ochranná povrchová vrstva"
+    ],
+    "answer": [
+      "Zvyšovanie únosnosti v navrhnutých smeroch",
+      "Spájanie a obklopenie výstuže",
+      "Obmedzenie pôsobenia okolitého prostredia"
+    ],
+    "explanation": "Úlohy zložiek sa dopĺňajú, ale konkrétna konštrukcia môže byť zložitejšia.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Súvislosti a priraďovanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-197",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "match",
+    "prompt": "V škole sú oddelené modré, zelené a žlté nádoby na papier, sklo a plasty. Priraď prázdny vhodný nezálohovaný obal.",
+    "options": [
+      "Čistá papierová škatuľa",
+      "Sklenený pohár od kompótu",
+      "Plastový obal od šampónu"
+    ],
+    "answer": [
+      "Modrá – papier",
+      "Zelená – sklo",
+      "Žltá – plasty"
+    ],
+    "explanation": "Otázka určuje oddelený systém; v praxi sa overuje aj označenie nádoby.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Súvislosti a priraďovanie"
+    ],
+    "referenceUrls": [
+      "https://www.minzp.sk/zalohovanie/najcastejsie-otazky.html"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-198",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "match",
+    "prompt": "Priraď predmet k určenému spôsobu odovzdania.",
+    "options": [
+      "Nápojová PET fľaša s označením ZÁLOHOVANÉ",
+      "Použitá batéria",
+      "Pokazený elektrický mixér"
+    ],
+    "answer": [
+      "Odberné miesto zálohovaných obalov",
+      "Zber použitých batérií",
+      "Spätný zber elektroodpadu"
+    ],
+    "explanation": "Tieto výrobky sa neodovzdávajú spoločne do bežného zberu papierových obalov.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Súvislosti a priraďovanie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-199",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "match",
+    "prompt": "Priraď drevinu k výraznému znaku.",
+    "options": [
+      "Dub",
+      "Lipa",
+      "Javor"
+    ],
+    "answer": [
+      "Žalude s čiaškou",
+      "Srdcovitý list a plody s listeňom",
+      "Párové krídlaté nažky"
+    ],
+    "explanation": "Kombinácia listov a plodov pomáha predísť zámene.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Súvislosti a priraďovanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-200",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "match",
+    "prompt": "Priraď ihličnatú drevinu k typickému znaku.",
+    "options": [
+      "Borovica lesná",
+      "Smrekovec opadavý",
+      "Jedľa biela"
+    ],
+    "answer": [
+      "Ihlice spravidla po dvoch vo zväzku",
+      "Mäkké ihlice vo zväzočkoch, na jeseň opadávajú",
+      "Vzpriamené šišky rozpadajúce sa na strome"
+    ],
+    "explanation": "Znaky ihlíc a šišiek sa používajú spoločne pri určovaní.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Súvislosti a priraďovanie"
+    ]
   }
 ]

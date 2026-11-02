@@ -1,6 +1,6 @@
 {
-  "questions": 500,
-  "tests": 151,
+  "questions": 700,
+  "tests": 215,
   "topics": {
     "Drevo a kovy": {
       "all": 49,
@@ -23,9 +23,9 @@
       "B": 20
     },
     "Materiály": {
-      "all": 44,
-      "A": 44,
-      "B": 36
+      "all": 154,
+      "A": 154,
+      "B": 142
     },
     "Bezpečnosť pri práci": {
       "all": 37,
@@ -66,13 +66,23 @@
       "all": 25,
       "A": 25,
       "B": 25
+    },
+    "Recyklácia a triedenie odpadu": {
+      "all": 42,
+      "A": 42,
+      "B": 42
+    },
+    "Dreviny a prírodné materiály": {
+      "all": 48,
+      "A": 48,
+      "B": 48
     }
   },
   "types": {
-    "mc": 353,
-    "fill": 38,
+    "mc": 537,
+    "fill": 46,
     "short": 75,
-    "match": 34
+    "match": 42
   },
   "projection": {
     "objects": 12,
@@ -83,5 +93,27 @@
       "top"
     ],
     "archivedQuestions": 40
+  },
+  "botanical": {
+    "illustrations": 24,
+    "trees": 12,
+    "imageQuestions": 24,
+    "style": "schematic"
+  },
+  "extension": {
+    "questions": 200,
+    "tags": [
+      "Hlina a keramika",
+      "Plasty",
+      "Kovy a zliatiny",
+      "Textílie a vlákna",
+      "Kompozity a porovnávanie",
+      "Triedenie – pravidlá a výnimky",
+      "Triedenie – praktické situácie",
+      "Dreviny a drevo",
+      "Obrázkové rozpoznávanie drevín",
+      "Terminológia materiálov a drevín",
+      "Súvislosti a priraďovanie"
+    ]
   }
 }

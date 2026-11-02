@@ -4,12 +4,12 @@ Interaktívny vzdelávací portál na prípravu z Techniky pre kategórie A a B 
 
 ## Obsah
 
-- 500 vlastných cvičných otázok v 13 okruhoch; A: 500, B: 389 (B je podmnožinou spoločných základov).
-- 151 hotových zostáv: súhrnné testy a tematické bloky používajú rovnakú databázu.
+- 700 vlastných cvičných otázok v 15 okruhoch; A: 700, B: 585 (B je podmnožinou spoločných základov).
+- 215 hotových zostáv: súhrnné testy a tematické bloky používajú rovnakú databázu.
 - 25 otázok v okruhu vynálezcov a dejín techniky.
 - 58 otázok v pravouhlom premietaní, vrátane 36 obrázkových úloh s 12 priestorovými technickými dielmi.
 - Elektrotechnika, domové rozvody, voda, kúrenie, energia, materiály, remeslá, automatizácia a meranie.
-- 353 výberových otázok, 38 doplňovačiek, 75 krátkych odpovedí, 34 priraďovaní.
+- 537 výberových otázok, 46 doplňovačiek, 75 krátkych odpovedí, 42 priraďovaní.
 - Tréning s vysvetlením, časovaný test, opakovanie chýb a lokálna história.
 
 Zostavy sa dajú hľadať podľa názvu a typu. Vlastný test filtruje kategóriu, okruh, počet otázok a náročnosť. Pôvodných 120 otázok a pôvodných 33 zostáv zostalo zachovaných.
@@ -34,3 +34,6 @@ Profily fungujú bez hesla iba v danom prehliadači. Nie sú autentifikovanými 
 
 ## Prepracované premietanie
 Žiak vyberá kreslený nárys, ľavý bokorys alebo pôdorys k priestorovému dielu. V assets/projection je 48 SVG obrázkov. Staré úlohy sú dostupné iba v archíve výsledkov, nové úlohy majú nové ID. Priamo do tréningu vedie tlačidlo Obrázkové premietanie.
+
+## Materiály a dreviny
+Rozšírenie o 200 otázok zahŕňa hlinu, keramiku, plasty, kovy, textílie, kompozity, triedenie odpadu a zdroje dreva. Obsahuje 24 schematických obrázkových úloh k 12 drevinám. Rozpoznávanie drevín sa dá spustiť samostatne. Pri triedení sa rešpektuje označenie nádoby a pokyny obce; zálohovanie je samostatný systém. Pôvodných 500 otázok a 151 zostáv zostalo nezmenených.
