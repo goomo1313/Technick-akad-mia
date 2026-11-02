@@ -1,0 +1,77 @@
+{
+  "questions": 500,
+  "tests": 151,
+  "topics": {
+    "Drevo a kovy": {
+      "all": 49,
+      "A": 49,
+      "B": 44
+    },
+    "Technická dokumentácia": {
+      "all": 49,
+      "A": 49,
+      "B": 39
+    },
+    "Stroje a mechanizmy": {
+      "all": 54,
+      "A": 54,
+      "B": 27
+    },
+    "Elektrotechnika": {
+      "all": 59,
+      "A": 59,
+      "B": 20
+    },
+    "Materiály": {
+      "all": 44,
+      "A": 44,
+      "B": 36
+    },
+    "Bezpečnosť pri práci": {
+      "all": 37,
+      "A": 37,
+      "B": 37
+    },
+    "Domové inštalácie": {
+      "all": 24,
+      "A": 24,
+      "B": 21
+    },
+    "Energetika a doprava": {
+      "all": 28,
+      "A": 28,
+      "B": 20
+    },
+    "Automatizácia a digitálna technika": {
+      "all": 24,
+      "A": 24,
+      "B": 21
+    },
+    "Meranie a technické výpočty": {
+      "all": 27,
+      "A": 27,
+      "B": 24
+    },
+    "Výroba a remeslá": {
+      "all": 22,
+      "A": 22,
+      "B": 20
+    },
+    "Pravouhlé premietanie": {
+      "all": 58,
+      "A": 58,
+      "B": 55
+    },
+    "Vynálezcovia a dejiny techniky": {
+      "all": 25,
+      "A": 25,
+      "B": 25
+    }
+  },
+  "types": {
+    "mc": 341,
+    "fill": 38,
+    "short": 87,
+    "match": 34
+  }
+}

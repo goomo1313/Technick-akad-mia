@@ -1,6 +1,6 @@
 # Technická akadémia — architektúra
 
-Funkčný statický SPA prototyp: index.html (sémantická štruktúra), style.css (responzívny vzhľad), app.js (profily, navigácia, časovač, vyhodnotenie, história, export), questions.json (120 vlastných cvičných otázok), tests.json (33 hotových testových zostáv).
+Funkčný statický SPA prototyp: index.html (sémantická štruktúra), style.css (responzívny vzhľad), app.js (profily, navigácia, časovač, vyhodnotenie, história, export), questions.json (500 vlastných cvičných otázok), tests.json (33 hotových testových zostáv).
 
 ## Ukladanie a profily
 Žiacka prezývka a kategória, bez e-mailu a hesla. localStorage pod kľúčom tech-academy-v1. Na zdieľanom zariadení sú profily dostupné všetkým jeho používateľom. Nejde o autentifikáciu ani cloudové účty. Vymazanie dát prehliadača vymaže históriu. Export výsledkov je JSON. Na začiatku nie sú generované fiktívne výsledky.
@@ -28,7 +28,11 @@ CREATE INDEX attempts_by_student ON attempts(profile_id, started_at);
 API návrh: GET /api/questions (bez riešení), POST /api/attempts, POST /api/attempts/:id/submit (serverové hodnotenie), GET /api/me/history. Každý prístup musí overiť vlastníka profilu; správne riešenia sa poskytujú až podľa režimu. Verzie otázok zachovajú reprodukovateľnosť starších výsledkov.
 
 ## Zdroje a pôvod
-Všetkých 120 otázok je vlastných, typovo zameraných na predmet Technika; nie sú prevzaté z konkrétneho ročníka. Oficiálne zadania a pravidlá: https://nivam.sk/olympiady-a-sutaze/technicka-olympiada/ a https://nivam.sk/olympiady-a-sutaze/technicka-olympiada/sutazne-ulohy-a-autorske-riesenia/ . Materiály NIVaM sa tu nerepublikujú.
+Všetkých 500 otázok je vlastných, typovo zameraných na predmet Technika; nie sú prevzaté z konkrétneho ročníka. Oficiálne zadania a pravidlá: https://nivam.sk/olympiady-a-sutaze/technicka-olympiada/ a https://nivam.sk/olympiady-a-sutaze/technicka-olympiada/sutazne-ulohy-a-autorske-riesenia/ . Materiály NIVaM sa tu nerepublikujú.
 
-## Rozšírenie obsahu
-120 otázok: 120 pre A, z toho 85 aj pre B. tests.json obsahuje 33 hotových zostáv: 12 súhrnných A, 9 súhrnných B a 12 tematických (6 pre každú kategóriu). Súhrnné zostavy v rámci kategórie tvoria rozdelenie databázy bez opakovania. Tematické zostavy sú alternatívnym usporiadaním rovnakého obsahu. 30 otázok rozvíja šesť početných postupov na konkrétnych hodnotách. Pôvodných 18 ID aj localStorage sú zachované.
+## Rozšírenie na 500 otázok
+questions.json je zdrojom pravdy, content-report.json obsahuje počty podľa typu, okruhu a kategórie. 13 okruhov, 500 otázok pre A (z toho 389 aj pre B), 151 testových zostáv. Pôvodných 33 zostáv sa nemení; nové súhrnné zostavy pokrývajú rozšírenie a nové tematické bloky majú najviac 20 otázok. Celkovo sú otázky v súhrnných testoch danej kategórie pokryté presne raz. Tematické bloky sú iným usporiadaním rovnakých otázok.
+
+Voliteľná položka diagram: {kind: heightmap, heights: number[][], label: string}. Riadky sú od zadnej strany k prednej, stĺpce zľava doprava. Kockové stĺpce sú plné, nula znamená prázdne miesto. Frontálny obrys je maximum každej stĺpcovej pozície; bočný obrys v poradí odzadu dopredu je maximum každého riadka. Diagram sa zobrazuje v otázke, učebnici aj rozbore výsledkov.
+
+Nové výpočtové otázky majú concept a calculation s operandmi pre nezávislé overenie aritmetiky. Výber náročnosti filtruje otázky; katalóg má hľadanie, druh zostavy a postupné načítanie. Zdroje a pedagogická metodika sú v sources.html.

@@ -1,22 +1,33 @@
 # Technická akadémia
 
-Interaktívna príprava na Technickú olympiádu pre kategórie A a B.
+Interaktívny vzdelávací portál na prípravu z Techniky pre kategórie A a B Technickej olympiády.
 
-120 autorských cvičných otázok, 33 testových zostáv, tréning s vysvetleniami, časované testy a lokálne profily s históriou. Profily nepredstavujú serverové prihlasovanie; dáta sa ukladajú v prehliadači.
+## Obsah
+
+- 500 vlastných cvičných otázok v 13 okruhoch; A: 500, B: 389 (B je podmnožinou spoločných základov).
+- 151 hotových zostáv: súhrnné testy a tematické bloky používajú rovnakú databázu.
+- 25 otázok v okruhu vynálezcov a dejín techniky.
+- 58 otázok v pravouhlom premietaní, vrátane 36 obrázkových úloh na 12 mapách kockových stavieb.
+- Elektrotechnika, domové rozvody, voda, kúrenie, energia, materiály, remeslá, automatizácia a meranie.
+- 341 výberových otázok, 38 doplňovačiek, 87 krátkych odpovedí, 34 priraďovaní.
+- Tréning s vysvetlením, časovaný test, opakovanie chýb a lokálna história.
+
+Zostavy sa dajú hľadať podľa názvu a typu. Vlastný test filtruje kategóriu, okruh, počet otázok a náročnosť. Pôvodných 120 otázok a pôvodných 33 zostáv zostalo zachovaných.
 
 ## Spustenie
 
-Statický web bez zostavovania. V koreňovom priečinku spustite `python3 -m http.server 8000` a otvorte `http://localhost:8000`. Súbory JSON sa načítavajú cez HTTP.
+V koreňovom priečinku spustite `python3 -m http.server 8000`, potom otvorte `http://localhost:8000`. Nie je potrebné zostavovanie ani balíčky. JSON sa načítava cez HTTP.
 
-## Publikovanie
+GitHub Pages je nastavený z vetvy main, koreňového priečinka. Nasadenie nájdete na https://goomo1313.github.io/Technick-akad-mia/.
 
-GitHub Settings → Pages → Build and deployment → Source: Deploy from a branch → main → / (root). Po publikovaní bude web na https://goomo1313.github.io/Technick-akad-mia/.
+## Overenie obsahu
 
-## Súbory
+Spustite `node tools/verify-content.cjs`. Kontroluje schému, jednoznačné ID, odpovede, kategórie, pokrytie zostáv, aritmetiku nových výpočtov a výsledky diagramov.
 
-- index.html, style.css, app.js: rozhranie a logika
-- questions.json: 120 otázok
-- tests.json: 33 zostáv
-- architecture.md: architektúra a návrh rozšírenia
+## Dáta a zdroje
 
-Otázky sú vlastné cvičenia z učiva Techniky, nie oficiálne zadania olympiády. Odkazy na oficiálny archív NIVaM sú súčasťou webu.
+questions.json je databáza, tests.json definuje pevné zostavy, content-report.json uvádza počty. sources.html opisuje metodiku a odkazuje na primárne historické a technické podklady. architecture.md obsahuje návrh rozšírenia na serverovú aplikáciu.
+
+Otázky sú vlastné cvičenia, nie oficiálne zadania ani predpoveď ďalšieho ročníka. Pôvodné testy NIVaM sa otvárajú cez odkazy. Číselné varianty precvičujú rovnaké princípy a tematické testy opätovne používajú rovnaké otázky. Učenie o domových rozvodoch nie je návodom na zásahy do elektriny alebo plynu.
+
+Profily fungujú bez hesla iba v danom prehliadači. Nie sú autentifikovanými serverovými účtami. Vymazanie dát prehliadača vymaže históriu; výsledky možno exportovať.
