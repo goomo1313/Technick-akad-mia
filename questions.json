@@ -1376,28 +1376,32 @@
     "version": 1
   },
   {
-    "id": "TO-059",
+    "id": "TO-REVIEW-096",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Elektrotechnika",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Čo je skrat v elektrickom obvode?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Prenos pohybu priamym záberom zubov kolies“?",
     "options": [
-      "Nežiaduca vodivá cesta s veľmi malým odporom",
-      "Skrátený názov žiarovky",
-      "Vypnutý zdroj bez vodičov",
-      "Bežný spôsob šetrenia batérie"
+      "Ozubený prevod",
+      "Brzda",
+      "Páka",
+      "Remeňový prevod"
     ],
-    "answer": "Nežiaduca vodivá cesta s veľmi malým odporom",
-    "explanation": "Skrat môže vyvolať veľký prúd, prehrievanie a poškodenie zdroja.",
-    "difficulty": 1,
+    "answer": "Ozubený prevod",
+    "explanation": "Ozubený prevod: prenos pohybu priamym záberom zubov kolies.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-060",
@@ -1590,51 +1594,60 @@
     "version": 1
   },
   {
-    "id": "TO-068",
-    "categories": [
-      "A"
-    ],
-    "topic": "Materiály",
-    "type": "mc",
-    "prompt": "Čo označuje húževnatosť materiálu?",
-    "options": [
-      "Schopnosť odolávať porušeniu a pohlcovať energiu pri deformácii",
-      "Schopnosť vždy viesť prúd",
-      "Schopnosť rozpustiť sa v studenej vode",
-      "Hmotnosť presne jedného litra"
-    ],
-    "answer": "Schopnosť odolávať porušeniu a pohlcovať energiu pri deformácii",
-    "explanation": "Húževnaté materiály sa pred porušením môžu výraznejšie deformovať.",
-    "difficulty": 2,
-    "source": {
-      "kind": "original",
-      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
-    },
-    "version": 1
-  },
-  {
-    "id": "TO-069",
+    "id": "TO-REVIEW-033",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo je zliatina?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Prírodné textilné vlákno získavané zo semien bavlníka“?",
     "options": [
-      "Kovový materiál zložený z viacerých prvkov",
-      "Iba čistá destilovaná voda",
-      "Každý brúsený povrch",
-      "Výhradne prírodné drevo"
+      "Bavlna",
+      "Preglejka",
+      "Elastomér",
+      "Ľan"
     ],
-    "answer": "Kovový materiál zložený z viacerých prvkov",
-    "explanation": "Zliatina obsahuje viac prvkov, z ktorých aspoň jeden je kov; vlastnosti sa líšia od čistých zložiek.",
-    "difficulty": 1,
+    "answer": "Bavlna",
+    "explanation": "Bavlna: prírodné textilné vlákno získavané zo semien bavlníka.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
+  },
+  {
+    "id": "TO-REVIEW-083",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Prvok umožňujúci spájať a rozpájať prenos momentu“?",
+    "options": [
+      "Spojka",
+      "Vačka",
+      "Pevná kladka",
+      "Páka"
+    ],
+    "answer": "Spojka",
+    "explanation": "Spojka: prvok umožňujúci spájať a rozpájať prenos momentu.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-070",
@@ -1898,28 +1911,32 @@
     "version": 1
   },
   {
-    "id": "TO-081",
+    "id": "TO-REVIEW-097",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Bezpečnosť pri práci",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Čo spravíš pred výmenou vrtáka podľa pokynov učiteľa?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Technika prenosu sily a riadenia pohybu tlakom kvapaliny“?",
     "options": [
-      "Zastavím a bezpečne odpojím stroj od zdroja",
-      "Pridržím vrták za chodu",
-      "Vypnem len svetlo nad stolom",
-      "Zvýšim tlak na vreteno"
+      "Hydraulika",
+      "Ozubený prevod",
+      "Spätný ventil",
+      "Spojka"
     ],
-    "answer": "Zastavím a bezpečne odpojím stroj od zdroja",
-    "explanation": "Odpojenie zdroja bráni nechcenému rozbehu stroja pri manipulácii.",
-    "difficulty": 1,
+    "answer": "Hydraulika",
+    "explanation": "Hydraulika: technika prenosu sily a riadenia pohybu tlakom kvapaliny.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-082",
@@ -1946,52 +1963,60 @@
     "version": 1
   },
   {
-    "id": "TO-083",
+    "id": "TO-REVIEW-020",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Bezpečnosť pri práci",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Ako máš prenášať ostrý nástroj?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Doska z navzájom zlepených dýh so striedaným smerom vlákien“?",
     "options": [
-      "Za rukoväť, s ostrím bezpečne od tela a ostatných",
-      "Za ostrie",
-      "Hádzať ho spolužiakovi",
-      "Skrytý voľne vo vrecku"
+      "Preglejka",
+      "Kaolín",
+      "Kujnosť",
+      "Nasiakavosť"
     ],
-    "answer": "Za rukoväť, s ostrím bezpečne od tela a ostatných",
-    "explanation": "Ostrie sa pri prenášaní orientuje bezpečne; podľa nástroja sa používa ochranný kryt.",
-    "difficulty": 1,
+    "answer": "Preglejka",
+    "explanation": "Preglejka: doska z navzájom zlepených dýh so striedaným smerom vlákien.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-084",
+    "id": "TO-REVIEW-054",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Bezpečnosť pri práci",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Čo urobíš pri rozliatí kvapaliny v blízkosti elektrického zariadenia?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Nadprúdový ochranný prvok s tavnou časťou“?",
     "options": [
-      "Upozorním učiteľa a nedotýkam sa ohrozeného zariadenia",
-      "Utriem ju rukou za chodu",
-      "Vylejem na zariadenie ďalšiu vodu",
-      "Pokračujem bez upozornenia"
+      "Poistka",
+      "Uzol",
+      "Generátor",
+      "Dióda"
     ],
-    "answer": "Upozorním učiteľa a nedotýkam sa ohrozeného zariadenia",
-    "explanation": "Kvapalina môže vytvoriť nebezpečnú vodivú cestu. Bezpečné riešenie riadi učiteľ.",
-    "difficulty": 1,
+    "answer": "Poistka",
+    "explanation": "Poistka: nadprúdový ochranný prvok s tavnou časťou.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-085",
@@ -2820,28 +2845,32 @@
     "version": 1
   },
   {
-    "id": "TO-122",
+    "id": "TO-REVIEW-073",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Drevo a kovy",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Čo je obrysovanie polotovaru?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Vzdialenosť stredu kružnice od jej bodu“?",
     "options": [
-      "Vyznačenie tvaru a rozmerov pred opracovaním",
-      "Lak na hotovom výrobku",
-      "Tavenie kovu",
-      "Skúška elektrického odporu"
+      "Polomer",
+      "Rez",
+      "Pravý uhol",
+      "Kóta"
     ],
-    "answer": "Vyznačenie tvaru a rozmerov pred opracovaním",
-    "explanation": "Obrysovanie prenáša údaje z výkresu na materiál.",
-    "difficulty": 1,
+    "answer": "Polomer",
+    "explanation": "Polomer: vzdialenosť stredu kružnice od jej bodu.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-123",
@@ -2988,28 +3017,32 @@
     "version": 1
   },
   {
-    "id": "TO-129",
+    "id": "TO-REVIEW-034",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Drevo a kovy",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Na čo je vhodná drevená alebo gumová palička?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Rastlinné textilné vlákno získavané zo stonky ľanu“?",
     "options": [
-      "Na údery, pri ktorých nechceme povrch ľahko poškodiť",
-      "Na meranie prúdu",
-      "Na rezanie závitu",
-      "Na kontrolu drsnosti číslom"
+      "Ľan",
+      "Elektrická vodivosť",
+      "Elastan",
+      "Pletenina"
     ],
-    "answer": "Na údery, pri ktorých nechceme povrch ľahko poškodiť",
-    "explanation": "Mäkšia pracovná časť obmedzuje otlačenie citlivého povrchu.",
-    "difficulty": 1,
+    "answer": "Ľan",
+    "explanation": "Ľan: rastlinné textilné vlákno získavané zo stonky ľanu.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-130",
@@ -3107,28 +3140,32 @@
     "version": 1
   },
   {
-    "id": "TO-134",
+    "id": "TO-REVIEW-060",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Drevo a kovy",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Ktorý postup dáva zmysel pred lepením drevených dielov?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Miesto elektrického spojenia vetiev obvodu“?",
     "options": [
-      "Skúsiť spoj nasucho a pripraviť čisté styčné plochy",
-      "Plochy natrieť mastným olejom",
-      "Nechať medzi nimi hrubé triesky",
-      "Lepiť cez obalový papier"
+      "Uzol",
+      "Ampérmeter",
+      "Ochranný vodič PE",
+      "Voltmeter"
     ],
-    "answer": "Skúsiť spoj nasucho a pripraviť čisté styčné plochy",
-    "explanation": "Priliehanie a čistota plôch ovplyvňujú kvalitu lepeného spoja.",
-    "difficulty": 1,
+    "answer": "Uzol",
+    "explanation": "Uzol: miesto elektrického spojenia vetiev obvodu.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-135",
@@ -3203,27 +3240,32 @@
     "version": 1
   },
   {
-    "id": "TO-138",
+    "id": "TO-REVIEW-041",
     "categories": [
-      "A"
+      "A",
+      "B"
     ],
-    "topic": "Drevo a kovy",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Čo je pri spájkovaní typické v porovnaní s tavným zváraním?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Súčiastka určená na vytváranie elektrického odporu“?",
     "options": [
-      "Taví sa spájka, základné diely sa nemusia roztaviť",
-      "Vždy sa taví celý diel",
-      "Spoj nemôže viesť elektrinu",
-      "Spájka je vždy drevená"
+      "Rezistor",
+      "Dióda",
+      "LED",
+      "Termistor"
     ],
-    "answer": "Taví sa spájka, základné diely sa nemusia roztaviť",
-    "explanation": "Spájka má nižšiu teplotu tavenia než spájané základné materiály.",
+    "answer": "Rezistor",
+    "explanation": "Rezistor: súčiastka určená na vytváranie elektrického odporu.",
     "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-139",
@@ -3394,28 +3436,32 @@
     "version": 1
   },
   {
-    "id": "TO-146",
+    "id": "TO-REVIEW-049",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Technická dokumentácia",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Aká je výhoda súmernosti súčiastky pri jej zobrazovaní?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Zariadenie premieňajúce mechanickú energiu na elektrickú“?",
     "options": [
-      "Možno využiť os súmernosti a prehľadnejšie kótovanie",
-      "Diel už nemá rozmery",
-      "Každý otvor musí zmiznúť",
-      "Nie sú potrebné žiadne pohľady"
+      "Generátor",
+      "Skrat",
+      "Transformátor",
+      "Elektromotor"
     ],
-    "answer": "Možno využiť os súmernosti a prehľadnejšie kótovanie",
-    "explanation": "Os súmernosti pomáha opisovať rovnaké časti tvaru.",
-    "difficulty": 1,
+    "answer": "Generátor",
+    "explanation": "Generátor: zariadenie premieňajúce mechanickú energiu na elektrickú.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-147",
@@ -3584,28 +3630,32 @@
     "version": 1
   },
   {
-    "id": "TO-154",
+    "id": "TO-REVIEW-068",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Ako sa má na výkrese zapisovať kóta, aby bola použiteľná?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Čiara používaná napríklad na vyznačenie osi súmernosti otvoru“?",
     "options": [
-      "Čitateľne a bez nejasného priradenia k rozmeru",
-      "Čo najmenšie a cez obrys",
-      "Bez číselnej hodnoty",
-      "Iba na zadnú stranu papiera"
+      "Osová čiara",
+      "Popisové pole",
+      "Revízia výkresu",
+      "Nárys"
     ],
-    "answer": "Čitateľne a bez nejasného priradenia k rozmeru",
-    "explanation": "Jednoznačné umiestnenie kót predchádza chybám výroby.",
-    "difficulty": 1,
+    "answer": "Osová čiara",
+    "explanation": "Osová čiara: čiara používaná napríklad na vyznačenie osi súmernosti otvoru.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-155",
@@ -3632,27 +3682,32 @@
     "version": 1
   },
   {
-    "id": "TO-156",
+    "id": "TO-REVIEW-098",
     "categories": [
-      "A"
+      "A",
+      "B"
     ],
-    "topic": "Technická dokumentácia",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Aký všeobecný význam má označenie M6 na spojovacom prvku?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Technika využívajúca stlačený plyn na činnosť mechanizmov“?",
     "options": [
-      "Metrický závit s menovitým priemerom 6 mm",
-      "Dĺžka vždy presne 6 cm",
-      "Materiál s hmotnosťou 6 kg",
-      "Mierka šesť ku jednej"
+      "Pneumatika",
+      "Vačka",
+      "Pružina",
+      "Ozubený hrebeň"
     ],
-    "answer": "Metrický závit s menovitým priemerom 6 mm",
-    "explanation": "M označuje metrický závit a číslo jeho menovitý priemer.",
+    "answer": "Pneumatika",
+    "explanation": "Pneumatika: technika využívajúca stlačený plyn na činnosť mechanizmov.",
     "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-157",
@@ -3774,28 +3829,32 @@
     "version": 1
   },
   {
-    "id": "TO-162",
+    "id": "TO-REVIEW-050",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Stroje a mechanizmy",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Prečo majú stroje ochranné kryty nad prevodmi?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Elektrochemický zdroj určený na opakované nabíjanie“?",
     "options": [
-      "Obmedzujú prístup k nebezpečným pohyblivým častiam",
-      "Zabezpečujú chod bez energie",
-      "Nahrádzajú brzdu vozidla",
-      "Zvyšujú počet zubov"
+      "Akumulátor",
+      "Dióda",
+      "Transformátor",
+      "Istič"
     ],
-    "answer": "Obmedzujú prístup k nebezpečným pohyblivým častiam",
-    "explanation": "Ozubené kolesá, remene a reťaze môžu zachytiť telo alebo odev.",
-    "difficulty": 1,
+    "answer": "Akumulátor",
+    "explanation": "Akumulátor: elektrochemický zdroj určený na opakované nabíjanie.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-163",
@@ -3822,27 +3881,32 @@
     "version": 1
   },
   {
-    "id": "TO-164",
+    "id": "TO-REVIEW-074",
     "categories": [
-      "A"
+      "A",
+      "B"
     ],
-    "topic": "Stroje a mechanizmy",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Čo robí kľukový mechanizmus v piestovom motore?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Dĺžka úsečky prechádzajúcej stredom kružnice medzi jej protiľahlými bodmi“?",
     "options": [
-      "Premieňa priamočiary vratný pohyb na otáčavý",
-      "Premieňa drevo na kov",
-      "Mení iba farbu paliva",
-      "Odstraňuje všetky vibrácie"
+      "Priemer",
+      "Kóta",
+      "Revízia výkresu",
+      "Šrafovanie"
     ],
-    "answer": "Premieňa priamočiary vratný pohyb na otáčavý",
-    "explanation": "Piest, ojnica a kľuka spájajú vratný a otáčavý pohyb.",
+    "answer": "Priemer",
+    "explanation": "Priemer: dĺžka úsečky prechádzajúcej stredom kružnice medzi jej protiľahlými bodmi.",
     "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-165",
@@ -3869,27 +3933,32 @@
     "version": 1
   },
   {
-    "id": "TO-166",
+    "id": "TO-REVIEW-075",
     "categories": [
-      "A"
+      "A",
+      "B"
     ],
-    "topic": "Stroje a mechanizmy",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Čo je vačka v mechanizme?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Uhol s veľkosťou 90 stupňov“?",
     "options": [
-      "Tvarovaný prvok riadiaci pohyb sledovača",
-      "Ochranná zásuvka",
-      "Elektrická jednotka",
-      "Otvor na odpadovú vodu"
+      "Pravý uhol",
+      "Ľavý bokorys",
+      "Pôdorys",
+      "Kusovník"
     ],
-    "answer": "Tvarovaný prvok riadiaci pohyb sledovača",
-    "explanation": "Tvar vačky určuje zdvih a priebeh pohybu ovládaného dielu.",
+    "answer": "Pravý uhol",
+    "explanation": "Pravý uhol: uhol s veľkosťou 90 stupňov.",
     "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-167",
@@ -3986,28 +4055,32 @@
     "version": 1
   },
   {
-    "id": "TO-171",
+    "id": "TO-REVIEW-021",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Stroje a mechanizmy",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo je klin ako jednoduchý stroj?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Tenká vrstva dreva získaná lúpaním alebo krájaním“?",
     "options": [
-      "Dve spojené naklonené roviny oddeľujúce materiál",
-      "Elektrická poistka",
-      "Kruhové ložisko",
-      "Dutá izolovaná hadica"
+      "Dyha",
+      "Drevotrieska",
+      "Výstuž",
+      "Tvrdosť"
     ],
-    "answer": "Dve spojené naklonené roviny oddeľujúce materiál",
-    "explanation": "Klin premieňa pôsobiacu silu na bočné oddeľovanie materiálu.",
-    "difficulty": 1,
+    "answer": "Dyha",
+    "explanation": "Dyha: tenká vrstva dreva získaná lúpaním alebo krájaním.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-172",
@@ -4105,51 +4178,60 @@
     "version": 1
   },
   {
-    "id": "TO-176",
+    "id": "TO-REVIEW-004",
     "categories": [
-      "A"
+      "A",
+      "B"
     ],
-    "topic": "Stroje a mechanizmy",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo označuje účinnosť mechanizmu?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Odpor povrchu proti vnikaniu iného telesa“?",
     "options": [
-      "Podiel užitočného výstupu a dodaného vstupu energie alebo výkonu",
-      "Počet skrutiek bez jednotky",
-      "Farbu krytu",
-      "Hmotnosť výkresu"
+      "Tvrdosť",
+      "Pletenina",
+      "Útok",
+      "Šliker"
     ],
-    "answer": "Podiel užitočného výstupu a dodaného vstupu energie alebo výkonu",
-    "explanation": "Straty trením a ďalšími javmi znižujú užitočný výstup.",
+    "answer": "Tvrdosť",
+    "explanation": "Tvrdosť: odpor povrchu proti vnikaniu iného telesa.",
     "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-177",
+    "id": "TO-REVIEW-076",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Stroje a mechanizmy",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Akú funkciu má spätný ventil v potrubí?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Voľnoručné technické zobrazenie bez povinného použitia rysovacích pomôcok“?",
     "options": [
-      "Umožní prietok prednostne jedným smerom",
-      "Vždy vyrába elektrinu",
-      "Zväčšuje objem nádrže",
-      "Meria čas rezania"
+      "Náčrt",
+      "Revízia výkresu",
+      "Tolerancia",
+      "Rez"
     ],
-    "answer": "Umožní prietok prednostne jedným smerom",
-    "explanation": "Spätný ventil obmedzuje nežiaduci spätný tok.",
-    "difficulty": 1,
+    "answer": "Náčrt",
+    "explanation": "Náčrt: voľnoručné technické zobrazenie bez povinného použitia rysovacích pomôcok.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-178",
@@ -4200,27 +4282,32 @@
     "version": 1
   },
   {
-    "id": "TO-180",
+    "id": "TO-REVIEW-055",
     "categories": [
-      "A"
+      "A",
+      "B"
     ],
-    "topic": "Stroje a mechanizmy",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Čo je trecí prevod?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Nadprúdový ochranný prístroj, ktorý sa po odstránení poruchy dá znovu zapnúť“?",
     "options": [
-      "Prenos pohybu vzájomným trením dotýkajúcich sa telies",
-      "Prenos výhradne rádiovými vlnami",
-      "Každý spoj bez dotyku",
-      "Samotná izolácia vodiča"
+      "Istič",
+      "Rezistor",
+      "Ohmmeter",
+      "Ochranný vodič PE"
     ],
-    "answer": "Prenos pohybu vzájomným trením dotýkajúcich sa telies",
-    "explanation": "Pri trecom prevode rozhoduje prítlak a vlastnosti dotykových povrchov.",
+    "answer": "Istič",
+    "explanation": "Istič: nadprúdový ochranný prístroj, ktorý sa po odstránení poruchy dá znovu zapnúť.",
     "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-181",
@@ -4411,28 +4498,32 @@
     "version": 1
   },
   {
-    "id": "TO-189",
+    "id": "TO-REVIEW-079",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Elektrotechnika",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Čím sa dá v jednoduchom pokuse vytvoriť elektromagnet?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Časť výkresu obsahujúca jeho identifikačné a ďalšie základné údaje“?",
     "options": [
-      "Cievkou s prúdom, prípadne so železným jadrom",
-      "Samotným gumovým pásom",
-      "Vypnutým plastovým vypínačom",
-      "Prázdnym dreveným rámom"
+      "Popisové pole",
+      "Revízia výkresu",
+      "Zostavný výkres",
+      "Kusovník"
     ],
-    "answer": "Cievkou s prúdom, prípadne so železným jadrom",
-    "explanation": "Prúd v cievke vytvára magnetické pole, jadro ho môže zosilniť.",
-    "difficulty": 1,
+    "answer": "Popisové pole",
+    "explanation": "Popisové pole: časť výkresu obsahujúca jeho identifikačné a ďalšie základné údaje.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-190",
@@ -4504,28 +4595,32 @@
     "version": 1
   },
   {
-    "id": "TO-193",
+    "id": "TO-REVIEW-038",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Elektrotechnika",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo je elektrická schéma?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Kompozit so sklenenými vláknami v matrici“?",
     "options": [
-      "Zjednodušené znázornenie zapojenia dohodnutými značkami",
-      "Fotografia obalu",
-      "Zoznam cien výrobku",
-      "Náčrt pôdorysu školy bez obvodu"
+      "Sklolaminát",
+      "Matrica",
+      "Pružnosť",
+      "Dyha"
     ],
-    "answer": "Zjednodušené znázornenie zapojenia dohodnutými značkami",
-    "explanation": "Schéma ukazuje elektrické väzby, nie nevyhnutne fyzické rozmiestnenie.",
-    "difficulty": 1,
+    "answer": "Sklolaminát",
+    "explanation": "Sklolaminát: kompozit so sklenenými vláknami v matrici.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-194",
@@ -4669,27 +4764,32 @@
     "version": 1
   },
   {
-    "id": "TO-200",
+    "id": "TO-REVIEW-084",
     "categories": [
-      "A"
+      "A",
+      "B"
     ],
-    "topic": "Elektrotechnika",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Čo je potrebné overiť pred meraním multimetrom?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Zariadenie určené na spomaľovanie alebo zastavenie pohybu“?",
     "options": [
-      "Režim, rozsah a správne vstupné svorky",
-      "Iba farbu prístroja",
-      "Počet písmen názvu",
-      "Len hlasitosť bzučiaka"
+      "Brzda",
+      "Pneumatika",
+      "Spätný ventil",
+      "Ozubený hrebeň"
     ],
-    "answer": "Režim, rozsah a správne vstupné svorky",
-    "explanation": "Nesprávne nastavenie môže poškodiť meradlo alebo vytvoriť skrat.",
+    "answer": "Brzda",
+    "explanation": "Brzda: zariadenie určené na spomaľovanie alebo zastavenie pohybu.",
     "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-201",
@@ -4956,28 +5056,32 @@
     "version": 1
   },
   {
-    "id": "TO-212",
+    "id": "TO-REVIEW-069",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Materiály",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Prečo sa na keramické výrobky nanáša glazúra?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Dovolená odchýlka skutočného rozmeru od predpísaného rozmeru“?",
     "options": [
-      "Môže znížiť nasiakavosť a upraviť povrch",
-      "Zmení keramiku na kov",
-      "Vždy nahradí výpal",
-      "Zruší krehkosť úplne"
+      "Tolerancia",
+      "Priemer",
+      "Revízia výkresu",
+      "Kóta"
     ],
-    "answer": "Môže znížiť nasiakavosť a upraviť povrch",
-    "explanation": "Glazúra vytvorí po vhodnom výpale súvislú povrchovú vrstvu.",
-    "difficulty": 1,
+    "answer": "Tolerancia",
+    "explanation": "Tolerancia: dovolená odchýlka skutočného rozmeru od predpísaného rozmeru.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-213",
@@ -5028,28 +5132,32 @@
     "version": 1
   },
   {
-    "id": "TO-215",
+    "id": "TO-REVIEW-085",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Materiály",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Čo je drevotriesková doska?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Rotujúci prvok ukladajúci kinetickú energiu a vyrovnávajúci chod“?",
     "options": [
-      "Doska z drevných triesok spojených spojivom",
-      "Jediný neporušený kus kmeňa",
-      "Čistá oceľ s náterom",
-      "Tenká tabuľa skla"
+      "Zotrvačník",
+      "Ložisko",
+      "Hriadeľ",
+      "Spojka"
     ],
-    "answer": "Doska z drevných triesok spojených spojivom",
-    "explanation": "Drevné častice sa zlisujú so spojivom do doskového materiálu.",
-    "difficulty": 1,
+    "answer": "Zotrvačník",
+    "explanation": "Zotrvačník: rotujúci prvok ukladajúci kinetickú energiu a vyrovnávajúci chod.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-216",
@@ -5171,28 +5279,32 @@
     "version": 1
   },
   {
-    "id": "TO-221",
+    "id": "TO-REVIEW-080",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Bezpečnosť pri práci",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Čo má žiak urobiť, keď nerozumie bezpečnému postupu práce?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Označená zmena alebo verzia technického dokumentu“?",
     "options": [
-      "Zastaviť sa a požiadať učiteľa o vysvetlenie",
-      "Vyskúšať náhodný postup",
-      "Spustiť všetky stroje naraz",
-      "Skopírovať nebezpečný pokus"
+      "Revízia výkresu",
+      "Kusovník",
+      "Nárys",
+      "Náčrt"
     ],
-    "answer": "Zastaviť sa a požiadať učiteľa o vysvetlenie",
-    "explanation": "Nejasnosť treba vyriešiť pred začatím rizikovej operácie.",
-    "difficulty": 1,
+    "answer": "Revízia výkresu",
+    "explanation": "Revízia výkresu: označená zmena alebo verzia technického dokumentu.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-222",
@@ -5219,28 +5331,32 @@
     "version": 1
   },
   {
-    "id": "TO-223",
+    "id": "TO-REVIEW-051",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Bezpečnosť pri práci",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Kam patria odrezky a nepotrebné náradie počas práce?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Prístroj na meranie prúdu zapájaný do meranej vetvy sériovo“?",
     "options": [
-      "Na určené miesto mimo nebezpečnej pracovnej dráhy",
-      "Pod chodidlá obsluhy",
-      "Na rotujúci kotúč",
-      "Na okraj, odkiaľ môžu padať"
+      "Ampérmeter",
+      "Rezistor",
+      "Voltmeter",
+      "Kondenzátor"
     ],
-    "answer": "Na určené miesto mimo nebezpečnej pracovnej dráhy",
-    "explanation": "Poriadok znižuje riziko zakopnutia a nechceného kontaktu s nástrojom.",
-    "difficulty": 1,
+    "answer": "Ampérmeter",
+    "explanation": "Ampérmeter: prístroj na meranie prúdu zapájaný do meranej vetvy sériovo.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-224",
@@ -5339,28 +5455,32 @@
     "version": 1
   },
   {
-    "id": "TO-228",
+    "id": "TO-REVIEW-070",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Bezpečnosť pri práci",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Prečo sa nesmie odstraňovať ochranný kryt funkčného stroja kvôli pohodliu?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Súpis identifikácií a počtov súčiastok zostavy“?",
     "options": [
-      "Zvyšuje sa riziko kontaktu s nebezpečnou časťou",
-      "Kryt je len ozdoba bez účelu",
-      "Stroj sa tým vždy vypne",
-      "Všetky ďalšie riziká zmiznú"
+      "Kusovník",
+      "Ľavý bokorys",
+      "Kóta",
+      "Polomer"
     ],
-    "answer": "Zvyšuje sa riziko kontaktu s nebezpečnou časťou",
-    "explanation": "Kryty sú súčasťou navrhnutých ochranných opatrení.",
-    "difficulty": 1,
+    "answer": "Kusovník",
+    "explanation": "Kusovník: súpis identifikácií a počtov súčiastok zostavy.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-229",
@@ -5435,28 +5555,32 @@
     "version": 1
   },
   {
-    "id": "TO-232",
+    "id": "TO-REVIEW-061",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Bezpečnosť pri práci",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Kedy sa dotýkaš horúcej pracovnej časti spájkovačky?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Údaj vyjadrujúci skutočný rozmer zobrazeného prvku“?",
     "options": [
-      "Nikdy holou rukou počas práce ani chladnutia",
-      "Len keď sa leskne",
-      "Vždy po vypnutí okamžite",
-      "Ak má tenký hrot"
+      "Kóta",
+      "Náčrt",
+      "Nárys",
+      "Zakrytá hrana"
     ],
-    "answer": "Nikdy holou rukou počas práce ani chladnutia",
-    "explanation": "Hrot zostáva horúci aj určitý čas po odpojení.",
-    "difficulty": 1,
+    "answer": "Kóta",
+    "explanation": "Kóta: údaj vyjadrujúci skutočný rozmer zobrazeného prvku.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-233",
@@ -5483,28 +5607,32 @@
     "version": 1
   },
   {
-    "id": "TO-234",
+    "id": "TO-REVIEW-042",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Bezpečnosť pri práci",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Čo je vhodné pred prácou ručnou pílou?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Súčiastka schopná uchovať elektrický náboj“?",
     "options": [
-      "Skontrolovať stav nástroja a upevnenie obrobku",
-      "Zatvoriť oči",
-      "Odstrániť rukoväť",
-      "Uvoľniť všetky upínadlá"
+      "Kondenzátor",
+      "Prúdový chránič",
+      "Istič",
+      "Relé"
     ],
-    "answer": "Skontrolovať stav nástroja a upevnenie obrobku",
-    "explanation": "Poškodený nástroj alebo nestabilný diel zvyšuje riziko úrazu.",
-    "difficulty": 1,
+    "answer": "Kondenzátor",
+    "explanation": "Kondenzátor: súčiastka schopná uchovať elektrický náboj.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-235",
@@ -5531,28 +5659,32 @@
     "version": 1
   },
   {
-    "id": "TO-236",
+    "id": "TO-REVIEW-086",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Bezpečnosť pri práci",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Ako bezpečne podáš dláto spolužiakovi?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Prvok ukladajúci pri pružnej deformácii energiu“?",
     "options": [
-      "Ponúknem rukoväť a kontrolujem polohu ostria",
-      "Hodím mu ho",
-      "Podám ostrie priamo do dlane",
-      "Posuniem ho po podlahe"
+      "Pružina",
+      "Spojka",
+      "Vačka",
+      "Páka"
     ],
-    "answer": "Ponúknem rukoväť a kontrolujem polohu ostria",
-    "explanation": "Ostrá pracovná časť musí zostať pod kontrolou.",
-    "difficulty": 1,
+    "answer": "Pružina",
+    "explanation": "Pružina: prvok ukladajúci pri pružnej deformácii energiu.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-237",
@@ -5579,76 +5711,88 @@
     "version": 1
   },
   {
-    "id": "TO-238",
+    "id": "TO-REVIEW-056",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Bezpečnosť pri práci",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Čo označuje značka zeleného kríža v bezpečnostnom kontexte?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Prístroj reagujúci na rozdiel prúdov v pracovných vodičoch“?",
     "options": [
-      "Miesto alebo prostriedky prvej pomoci",
-      "Zákaz vstupu",
-      "Horľavý materiál",
-      "Povinné rezanie"
+      "Prúdový chránič",
+      "Ampérmeter",
+      "Termistor",
+      "Uzol"
     ],
-    "answer": "Miesto alebo prostriedky prvej pomoci",
-    "explanation": "Zelená farba sa používa pre bezpečné podmienky a prvú pomoc.",
-    "difficulty": 1,
+    "answer": "Prúdový chránič",
+    "explanation": "Prúdový chránič: prístroj reagujúci na rozdiel prúdov v pracovných vodičoch.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-239",
+    "id": "TO-REVIEW-077",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Bezpečnosť pri práci",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Prečo sa pri prenášaní dlhých dosiek sleduje celé okolie?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Hrana bežne zobrazovaná súvislou hrubou čiarou“?",
     "options": [
-      "Konce môžu zasiahnuť iných ľudí alebo predmety",
-      "Doska sa tým skráti",
-      "Zmení sa jej hustota",
-      "Zaručí sa dokonale rovný rez"
+      "Viditeľná hrana",
+      "Popisové pole",
+      "Kusovník",
+      "Polomer"
     ],
-    "answer": "Konce môžu zasiahnuť iných ľudí alebo predmety",
-    "explanation": "Dlhý predmet zasahuje aj mimo bezprostredného priestoru rúk.",
-    "difficulty": 1,
+    "answer": "Viditeľná hrana",
+    "explanation": "Viditeľná hrana: hrana bežne zobrazovaná súvislou hrubou čiarou.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-240",
+    "id": "TO-REVIEW-014",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Bezpečnosť pri práci",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Kedy môže žiak použiť dielenský stroj?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Spojitá zložka kompozitu obklopujúca a spájajúca výstuž“?",
     "options": [
-      "Po poučení a so súhlasom a dohľadom podľa pravidiel školy",
-      "Keď ho náhodou nájde zapnutý",
-      "Kedykoľvek bez dovolenia",
-      "Iba ak nepozná vypínač"
+      "Matrica",
+      "Nasiakavosť",
+      "Bavlna",
+      "Šliker"
     ],
-    "answer": "Po poučení a so súhlasom a dohľadom podľa pravidiel školy",
-    "explanation": "Použitie stroja závisí od veku, poučenia a pravidiel pracoviska.",
-    "difficulty": 1,
+    "answer": "Matrica",
+    "explanation": "Matrica: spojitá zložka kompozitu obklopujúca a spájajúca výstuž.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-241",
@@ -5777,30 +5921,32 @@
     "referenceUrls": []
   },
   {
-    "id": "TO-246",
+    "id": "TO-REVIEW-018",
     "categories": [
-      "A"
+      "A",
+      "B"
     ],
-    "topic": "Domové inštalácie",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Je obyčajný samostatný RCD automaticky aj ochranou proti preťaženiu?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Zliatina so základom zo železa a menším podielom uhlíka než bežná liatina“?",
     "options": [
-      "Nie, pokiaľ nemá aj integrovanú nadprúdovú ochranu",
-      "Áno, každý bez výnimky",
-      "Áno, ak je modrý",
-      "Áno, ak je v kuchyni"
+      "Oceľ",
+      "Vlna",
+      "Pružnosť",
+      "Matrica"
     ],
-    "answer": "Nie, pokiaľ nemá aj integrovanú nadprúdovú ochranu",
-    "explanation": "Kombinovaný prístroj RCBO má aj nadprúdovú ochranu, samostatný RCD ju mať nemusí.",
+    "answer": "Oceľ",
+    "explanation": "Oceľ: zliatina so základom zo železa a menším podielom uhlíka než bežná liatina.",
     "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
     "version": 1,
-    "referenceUrls": [
-      "https://www.se.com/nz/en/faqs/FAQ000210095/"
-    ]
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-247",
@@ -5878,29 +6024,32 @@
     "referenceUrls": []
   },
   {
-    "id": "TO-250",
+    "id": "TO-REVIEW-005",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Domové inštalácie",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo robí zápachová uzávierka, napríklad sifón pod umývadlom?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Hmotnosť pripadajúca na jednotku objemu“?",
     "options": [
-      "Vodnou prekážkou obmedzuje prenikanie zápachu z kanalizácie",
-      "Vyrába elektrický prúd",
-      "Zvyšuje teplotu vody",
-      "Meria hladinu plynu"
+      "Hustota",
+      "Šliker",
+      "Kaolín",
+      "Nasiakavosť"
     ],
-    "answer": "Vodnou prekážkou obmedzuje prenikanie zápachu z kanalizácie",
-    "explanation": "Vodná náplň sifónu vytvára bariéru medzi miestnosťou a kanalizáciou.",
-    "difficulty": 1,
+    "answer": "Hustota",
+    "explanation": "Hustota: hmotnosť pripadajúca na jednotku objemu.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
     "version": 1,
-    "referenceUrls": []
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-251",
@@ -6053,29 +6202,32 @@
     "referenceUrls": []
   },
   {
-    "id": "TO-257",
+    "id": "TO-REVIEW-003",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Domové inštalácie",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo urobí žiak pri podozrení na únik plynu v budove?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Porušenie lomom bez veľkej plastickej deformácie“?",
     "options": [
-      "Opustí nebezpečný priestor a upozorní dospelého bez vytvárania iskier",
-      "Skúsi únik zapálenou zápalkou",
-      "Opakovane zapína vypínače",
-      "Hľadá dieru otvoreným plameňom"
+      "Krehkosť",
+      "Tepelná vodivosť",
+      "Termoplast",
+      "Dyha"
     ],
-    "answer": "Opustí nebezpečný priestor a upozorní dospelého bez vytvárania iskier",
-    "explanation": "Únik plynu môže vytvoriť výbušnú atmosféru. Nevykonávajú sa pokusy o opravu.",
-    "difficulty": 1,
+    "answer": "Krehkosť",
+    "explanation": "Krehkosť: porušenie lomom bez veľkej plastickej deformácie.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
     "version": 1,
-    "referenceUrls": []
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-258",
@@ -6128,28 +6280,32 @@
     "referenceUrls": []
   },
   {
-    "id": "TO-260",
+    "id": "TO-REVIEW-035",
     "categories": [
-      "A"
+      "A",
+      "B"
     ],
-    "topic": "Domové inštalácie",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Načo slúži ochranné pospájanie určených vodivých častí?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Prírodné textilné vlákno zo srsti oviec“?",
     "options": [
-      "Na zníženie nebezpečných rozdielov potenciálov pri poruche",
-      "Na nahradenie kanalizačného spádu",
-      "Na zvýšenie počtu zásuviek",
-      "Na meranie spotreby vody"
+      "Vlna",
+      "Hustota",
+      "Hodváb",
+      "Mosadz"
     ],
-    "answer": "Na zníženie nebezpečných rozdielov potenciálov pri poruche",
-    "explanation": "Pospájanie je súčasť ochrannej sústavy; jeho návrh a overenie patria odborníkom.",
+    "answer": "Vlna",
+    "explanation": "Vlna: prírodné textilné vlákno zo srsti oviec.",
     "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
     "version": 1,
-    "referenceUrls": []
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-261",
@@ -6272,75 +6428,88 @@
     "version": 1
   },
   {
-    "id": "TO-266",
+    "id": "TO-REVIEW-081",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Energetika a doprava",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Prečo sa uhlie označuje ako neobnoviteľný zdroj?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Prvok vedúci pohybujúci sa diel a obmedzujúci trenie“?",
     "options": [
-      "Vzniká omnoho pomalšie, než ho spotrebúvame",
-      "Nemôže horieť",
-      "Nikdy neobsahuje energiu",
-      "Vzniká každý deň v zásuvke"
+      "Ložisko",
+      "Pružina",
+      "Pevná kladka",
+      "Zotrvačník"
     ],
-    "answer": "Vzniká omnoho pomalšie, než ho spotrebúvame",
-    "explanation": "Fosílne zdroje sa tvoria počas geologicky dlhých období.",
-    "difficulty": 1,
-    "source": {
-      "kind": "original",
-      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
-    },
-    "version": 1
-  },
-  {
-    "id": "TO-267",
-    "categories": [
-      "A"
-    ],
-    "topic": "Energetika a doprava",
-    "type": "mc",
-    "prompt": "Čo robí tepelné čerpadlo pri vykurovaní?",
-    "options": [
-      "Prenáša teplo z chladnejšieho zdroja pomocou dodanej práce",
-      "Vyrába energiu bez vstupu",
-      "Mení všetku elektrinu priamo na benzín",
-      "Nepotrebuje nikdy žiadny pohon"
-    ],
-    "answer": "Prenáša teplo z chladnejšieho zdroja pomocou dodanej práce",
-    "explanation": "Dodaná elektrina umožňuje presunúť aj teplo z okolitého prostredia.",
+    "answer": "Ložisko",
+    "explanation": "Ložisko: prvok vedúci pohybujúci sa diel a obmedzujúci trenie.",
     "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-268",
+    "id": "TO-REVIEW-062",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Energetika a doprava",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Čo je tepelná strata domu?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Pomer rozmeru obrazu ku skutočnému rozmeru“?",
     "options": [
-      "Teplo unikajúce z vykurovaného priestoru do okolia",
-      "Elektrická kapacita batérie",
-      "Počet dverí bez jednotky",
-      "Celá hmotnosť stavby"
+      "Mierka",
+      "Ľavý bokorys",
+      "Priemer",
+      "Polomer"
     ],
-    "answer": "Teplo unikajúce z vykurovaného priestoru do okolia",
-    "explanation": "Prestup tepla a vetranie ovplyvňujú potrebu vykurovania.",
-    "difficulty": 1,
+    "answer": "Mierka",
+    "explanation": "Mierka: pomer rozmeru obrazu ku skutočnému rozmeru.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
+  },
+  {
+    "id": "TO-REVIEW-043",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Polovodičová súčiastka vedúca prúd prednostne jedným smerom“?",
+    "options": [
+      "Dióda",
+      "Akumulátor",
+      "Poistka",
+      "Ochranný vodič PE"
+    ],
+    "answer": "Dióda",
+    "explanation": "Dióda: polovodičová súčiastka vedúca prúd prednostne jedným smerom.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-269",
@@ -6486,52 +6655,60 @@
     "version": 1
   },
   {
-    "id": "TO-275",
+    "id": "TO-REVIEW-063",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Energetika a doprava",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Čo robí prevodovka automobilu?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Pravouhlý priemet predmetu pri dohodnutom pohľade spredu“?",
     "options": [
-      "Prispôsobuje otáčky a moment podmienkam jazdy",
-      "Meria hladinu vody v dome",
-      "Nahrádza všetky kolesá",
-      "Vždy vyrába elektrinu"
+      "Nárys",
+      "Zakrytá hrana",
+      "Popisové pole",
+      "Viditeľná hrana"
     ],
-    "answer": "Prispôsobuje otáčky a moment podmienkam jazdy",
-    "explanation": "Rôzne prevody pomáhajú pri rozjazde aj rýchlejšej jazde.",
-    "difficulty": 1,
+    "answer": "Nárys",
+    "explanation": "Nárys: pravouhlý priemet predmetu pri dohodnutom pohľade spredu.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-276",
+    "id": "TO-REVIEW-008",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Energetika a doprava",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo umožňuje spojka v bežnom manuálnom aute?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Schopnosť viesť elektrický prúd“?",
     "options": [
-      "Dočasne prerušiť prenos momentu medzi motorom a prevodovkou",
-      "Zmeniť benzín na plyn",
-      "Zväčšiť nádrž",
-      "Otvárať prívod pitnej vody"
+      "Elektrická vodivosť",
+      "Pružnosť",
+      "Termoplast",
+      "Reaktoplast"
     ],
-    "answer": "Dočasne prerušiť prenos momentu medzi motorom a prevodovkou",
-    "explanation": "Rozpojenie pohonu uľahčuje radenie a rozjazd.",
-    "difficulty": 1,
+    "answer": "Elektrická vodivosť",
+    "explanation": "Elektrická vodivosť: schopnosť viesť elektrický prúd.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-277",
@@ -6557,52 +6734,60 @@
     "version": 1
   },
   {
-    "id": "TO-278",
+    "id": "TO-REVIEW-026",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Energetika a doprava",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo znamená výhoda verejnej dopravy pri dobrom obsadení?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Ílová surovina významná pri výrobe porcelánu“?",
     "options": [
-      "Preprava viacerých ľudí jedným vozidlom môže znížiť spotrebu na osobu",
-      "Každý autobus vždy potrebuje nulovú energiu",
-      "Vozidlá nepotrebujú údržbu",
-      "Každý spoj je vždy plný"
+      "Kaolín",
+      "Pružnosť",
+      "Termoplast",
+      "Výstuž"
     ],
-    "answer": "Preprava viacerých ľudí jedným vozidlom môže znížiť spotrebu na osobu",
-    "explanation": "Výsledok závisí od obsadenosti, vozidla a podmienok.",
-    "difficulty": 1,
+    "answer": "Kaolín",
+    "explanation": "Kaolín: ílová surovina významná pri výrobe porcelánu.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-279",
+    "id": "TO-REVIEW-057",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Energetika a doprava",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Čo je batéria v ostrovnom solárnom systéme?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Vodič s ochrannou funkciou pripájaný k určeným neživým vodivým častiam“?",
     "options": [
-      "Zásobník elektrickej energie získanej nabíjaním",
-      "Zdroj neobmedzenej energie",
-      "Náhrada všetkých poistiek",
-      "Meradlo zrážok"
+      "Ochranný vodič PE",
+      "Poistka",
+      "Istič",
+      "Uzol"
     ],
-    "answer": "Zásobník elektrickej energie získanej nabíjaním",
-    "explanation": "Akumulácia umožňuje používať časť získanej energie neskôr.",
-    "difficulty": 1,
+    "answer": "Ochranný vodič PE",
+    "explanation": "Ochranný vodič PE: vodič s ochrannou funkciou pripájaný k určeným neživým vodivým častiam.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-280",
@@ -6629,28 +6814,32 @@
     "version": 1
   },
   {
-    "id": "TO-281",
+    "id": "TO-REVIEW-058",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Automatizácia a digitálna technika",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Čo je senzor v technickom zariadení?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Pracovný vodič pripojený k neutrálnemu bodu sústavy“?",
     "options": [
-      "Prvok zisťujúci stav alebo fyzikálnu veličinu",
-      "Výhradne motor",
-      "Každá mechanická skrutka",
-      "Len ochranný náter"
+      "Neutrálny vodič N",
+      "Kondenzátor",
+      "Istič",
+      "Ampérmeter"
     ],
-    "answer": "Prvok zisťujúci stav alebo fyzikálnu veličinu",
-    "explanation": "Senzor poskytuje informáciu pre riadenie alebo zobrazenie.",
-    "difficulty": 1,
+    "answer": "Neutrálny vodič N",
+    "explanation": "Neutrálny vodič N: pracovný vodič pripojený k neutrálnemu bodu sústavy.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-282",
@@ -6677,52 +6866,60 @@
     "version": 1
   },
   {
-    "id": "TO-283",
+    "id": "TO-REVIEW-071",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Automatizácia a digitálna technika",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Čo je spätná väzba v regulácii?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Výkres ukazujúci vzájomné usporiadanie dielov výrobku“?",
     "options": [
-      "Informácia o skutočnom výsledku použitá na riadenie",
-      "Iba príkaz bez kontroly výsledku",
-      "Náhodný ozdobný zvuk",
-      "Zmena názvu súčiastky"
+      "Zostavný výkres",
+      "Viditeľná hrana",
+      "Rez",
+      "Náčrt"
     ],
-    "answer": "Informácia o skutočnom výsledku použitá na riadenie",
-    "explanation": "Regulátor môže porovnať skutočný a požadovaný stav.",
-    "difficulty": 1,
+    "answer": "Zostavný výkres",
+    "explanation": "Zostavný výkres: výkres ukazujúci vzájomné usporiadanie dielov výrobku.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-284",
+    "id": "TO-REVIEW-044",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Automatizácia a digitálna technika",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Čím sa časovač odlišuje od termostatu?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Polovodičová dióda vyžarujúca pri vhodnom prúde svetlo“?",
     "options": [
-      "Riadi podľa času, nie priamo podľa nameranej teploty",
-      "Vždy meria teplotu presnejšie",
-      "Nikdy nepotrebuje napájanie",
-      "Je to názov kladky"
+      "LED",
+      "Akumulátor",
+      "Prúdový chránič",
+      "Ochranný vodič PE"
     ],
-    "answer": "Riadi podľa času, nie priamo podľa nameranej teploty",
-    "explanation": "Časové ovládanie bez snímača teploty nesleduje skutočné tepelné podmienky.",
-    "difficulty": 1,
+    "answer": "LED",
+    "explanation": "LED: polovodičová dióda vyžarujúca pri vhodnom prúde svetlo.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-285",
@@ -6749,28 +6946,32 @@
     "version": 1
   },
   {
-    "id": "TO-286",
+    "id": "TO-REVIEW-052",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Automatizácia a digitálna technika",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Na čo slúži podmienka v programe riadenia?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Prístroj na meranie napätia zapájaný medzi merané body paralelne“?",
     "options": [
-      "Vyberá ďalší postup podľa splnenia kritéria",
-      "Vždy ukončí napájanie",
-      "Určuje tvrdosť skla",
-      "Mení iba farbu vodiča"
+      "Voltmeter",
+      "Prúdový chránič",
+      "Skrat",
+      "Uzol"
     ],
-    "answer": "Vyberá ďalší postup podľa splnenia kritéria",
-    "explanation": "Príklad: ak je pôda suchá, zapni závlahu.",
-    "difficulty": 1,
+    "answer": "Voltmeter",
+    "explanation": "Voltmeter: prístroj na meranie napätia zapájaný medzi merané body paralelne.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-287",
@@ -6821,28 +7022,32 @@
     "version": 1
   },
   {
-    "id": "TO-289",
+    "id": "TO-REVIEW-022",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Automatizácia a digitálna technika",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo je mikroprocesor alebo mikrokontrolér v školskom modeli?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Doska vyrábaná z drevných vlákien a spojiva“?",
     "options": [
-      "Elektronická časť spracúvajúca program a signály",
-      "Výhradne zdroj vody",
-      "Mechanická prevodovka",
-      "Stojan na vrtáky"
+      "MDF",
+      "Pletenina",
+      "Tepelná vodivosť",
+      "Výstuž"
     ],
-    "answer": "Elektronická časť spracúvajúca program a signály",
-    "explanation": "Programovateľná elektronika môže čítať vstupy a riadiť výstupy.",
-    "difficulty": 1,
+    "answer": "MDF",
+    "explanation": "MDF: doska vyrábaná z drevných vlákien a spojiva.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-290",
@@ -6915,28 +7120,32 @@
     "version": 1
   },
   {
-    "id": "TO-293",
+    "id": "TO-REVIEW-064",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Automatizácia a digitálna technika",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Prečo je pri automatizovanom zariadení dôležitá kontrola snímača?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Pravouhlý priemet predmetu pri pohľade zhora“?",
     "options": [
-      "Chybná informácia môže viesť k nesprávnemu zásahu",
-      "Snímač nemôže nikdy zlyhať",
-      "Snímače sú len ozdoba",
-      "Meranie neovplyvňuje riadenie"
+      "Pôdorys",
+      "Zostavný výkres",
+      "Tolerancia",
+      "Šrafovanie"
     ],
-    "answer": "Chybná informácia môže viesť k nesprávnemu zásahu",
-    "explanation": "Spoľahlivosť vstupov ovplyvňuje funkciu celého systému.",
-    "difficulty": 1,
+    "answer": "Pôdorys",
+    "explanation": "Pôdorys: pravouhlý priemet predmetu pri pohľade zhora.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-294",
@@ -7059,51 +7268,60 @@
     "version": 1
   },
   {
-    "id": "TO-299",
+    "id": "TO-REVIEW-099",
     "categories": [
-      "A"
+      "A",
+      "B"
     ],
-    "topic": "Automatizácia a digitálna technika",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Čo robí prevodník A/D?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Látka používaná na zníženie trenia a opotrebovania pohyblivých častí“?",
     "options": [
-      "Prevádza analógový signál na číselné údaje",
-      "Mení hmotnosť na drevo",
-      "Spája iba mechanické závity",
-      "Vytvára parný pohon"
+      "Mazivo",
+      "Pevná kladka",
+      "Ložisko",
+      "Pneumatika"
     ],
-    "answer": "Prevádza analógový signál na číselné údaje",
-    "explanation": "Digitalizácia umožňuje spracovať nameranú veličinu programom.",
+    "answer": "Mazivo",
+    "explanation": "Mazivo: látka používaná na zníženie trenia a opotrebovania pohyblivých častí.",
     "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-300",
+    "id": "TO-REVIEW-027",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Automatizácia a digitálna technika",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Aký princíp má automatická závlaha podľa vlhkosti substrátu?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Pozdĺžna sústava nití pri tkaní“?",
     "options": [
-      "Snímač poskytne údaj a riadenie podľa neho ovláda čerpadlo",
-      "Čerpadlo beží vždy bez podmienky",
-      "Vlhkosť sa meria farbou kábla",
-      "Voda sa tvorí v programe"
+      "Osnova",
+      "Tvrdosť",
+      "Viskóza",
+      "Pletenina"
     ],
-    "answer": "Snímač poskytne údaj a riadenie podľa neho ovláda čerpadlo",
-    "explanation": "Vstup, rozhodovanie a výstup tvoria funkčný riadiaci reťazec.",
-    "difficulty": 1,
+    "answer": "Osnova",
+    "explanation": "Osnova: pozdĺžna sústava nití pri tkaní.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-301",
@@ -7703,28 +7921,32 @@
     "version": 1
   },
   {
-    "id": "TO-326",
+    "id": "TO-REVIEW-100",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Výroba a remeslá",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Čo je sústruženie v základnom modeli?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Prvok umožňujúci prietok prednostne jedným smerom“?",
     "options": [
-      "Obrábanie rotujúceho obrobku rezným nástrojom",
-      "Iba ručné lepenie dvoch dosiek",
-      "Premena tepla na farbu",
-      "Výhradne meranie tlaku"
+      "Spätný ventil",
+      "Ojnica",
+      "Mazivo",
+      "Naklonená rovina"
     ],
-    "answer": "Obrábanie rotujúceho obrobku rezným nástrojom",
-    "explanation": "Sústruženie sa používa najmä na rotačné plochy.",
-    "difficulty": 1,
+    "answer": "Spätný ventil",
+    "explanation": "Spätný ventil: prvok umožňujúci prietok prednostne jedným smerom.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-327",
@@ -7775,28 +7997,32 @@
     "version": 1
   },
   {
-    "id": "TO-329",
+    "id": "TO-REVIEW-015",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Výroba a remeslá",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo je lisovanie?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Zložka kompozitu určená na zvýšenie jeho mechanickej únosnosti“?",
     "options": [
-      "Tvarovanie alebo spájanie pôsobením tlaku v nástroji",
-      "Meranie rýchlosti vetra",
-      "Náhodné miešanie farieb",
-      "Vždy vyparovanie kovu"
+      "Výstuž",
+      "Elastan",
+      "WPC",
+      "Sklolaminát"
     ],
-    "answer": "Tvarovanie alebo spájanie pôsobením tlaku v nástroji",
-    "explanation": "Lis prenáša silu cez nástroj na spracúvaný materiál.",
-    "difficulty": 1,
+    "answer": "Výstuž",
+    "explanation": "Výstuž: zložka kompozitu určená na zvýšenie jeho mechanickej únosnosti.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-330",
@@ -7871,28 +8097,32 @@
     "version": 1
   },
   {
-    "id": "TO-333",
+    "id": "TO-REVIEW-016",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Výroba a remeslá",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo je kusová výroba?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Zliatina medi so zinkom“?",
     "options": [
-      "Výroba jednotlivých výrobkov alebo malého počtu osobitých kusov",
-      "Vždy milión rovnakých dielov denne",
-      "Iba recyklovanie vody",
-      "Výhradne výroba elektriny"
+      "Mosadz",
+      "Dyha",
+      "Tepelná vodivosť",
+      "Tvrdosť"
     ],
-    "answer": "Výroba jednotlivých výrobkov alebo malého počtu osobitých kusov",
-    "explanation": "Kusová výroba sa prispôsobuje konkrétnemu zadaniu.",
-    "difficulty": 1,
+    "answer": "Mosadz",
+    "explanation": "Mosadz: zliatina medi so zinkom.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-334",
@@ -7943,27 +8173,32 @@
     "version": 1
   },
   {
-    "id": "TO-336",
+    "id": "TO-REVIEW-019",
     "categories": [
-      "A"
+      "A",
+      "B"
     ],
-    "topic": "Výroba a remeslá",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo je kalenie ocele v základnom školskom opise?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Železná zliatina s vyšším obsahom uhlíka než bežná oceľ“?",
     "options": [
-      "Tepelné spracovanie na zvýšenie tvrdosti vhodnej ocele",
-      "Natieranie vodovou farbou",
-      "Pridanie drevených vlákien",
-      "Zmeranie odporu batérie"
+      "Liatina",
+      "Kaolín",
+      "Cínový bronz",
+      "Tkanina"
     ],
-    "answer": "Tepelné spracovanie na zvýšenie tvrdosti vhodnej ocele",
-    "explanation": "Pri kalení sa používa riadený ohrev a ochladzovanie podľa druhu ocele.",
+    "answer": "Liatina",
+    "explanation": "Liatina: železná zliatina s vyšším obsahom uhlíka než bežná oceľ.",
     "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-337",
@@ -8037,28 +8272,32 @@
     "version": 1
   },
   {
-    "id": "TO-340",
+    "id": "TO-REVIEW-059",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Výroba a remeslá",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Čo je hospodárne rozloženie dielov na polotovare?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Nežiaduca cesta s veľmi malým odporom medzi bodmi obvodu“?",
     "options": [
-      "Také, ktoré rešpektuje výrobu a obmedzuje odpad",
-      "Náhodné kreslenie cez seba",
-      "Zámerne najväčší odpad",
-      "Ignorovanie šírky rezu"
+      "Skrat",
+      "Relé",
+      "Kondenzátor",
+      "Generátor"
     ],
-    "answer": "Také, ktoré rešpektuje výrobu a obmedzuje odpad",
-    "explanation": "Pri rozmiestnení sa počíta s prídavkami, rezom a smerom materiálu.",
-    "difficulty": 1,
+    "answer": "Skrat",
+    "explanation": "Skrat: nežiaduca cesta s veľmi malým odporom medzi bodmi obvodu.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-341",
@@ -8490,52 +8729,60 @@
     "version": 1
   },
   {
-    "id": "TO-PROJ-T03",
+    "id": "TO-REVIEW-087",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Pravouhlé premietanie",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Prečo môže byť v náryse viditeľná vodorovná čiara nad základňou konzoly?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Tvarovaný prvok určujúci zdvih a pohyb sledovača“?",
     "options": [
-      "Je to viditeľná hrana stupňa alebo zmeny hĺbky",
-      "Každá čiara označuje rez",
-      "Vždy označuje elektrický vodič",
-      "Je to mierka výkresu"
+      "Vačka",
+      "Naklonená rovina",
+      "Spätný ventil",
+      "Mazivo"
     ],
-    "answer": "Je to viditeľná hrana stupňa alebo zmeny hĺbky",
-    "explanation": "Priemet obsahuje aj viditeľné vnútorné hrany; nie je iba vyfarbeným vonkajším obrysom.",
-    "difficulty": 1,
+    "answer": "Vačka",
+    "explanation": "Vačka: tvarovaný prvok určujúci zdvih a pohyb sledovača.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-PROJ-T04",
+    "id": "TO-REVIEW-009",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Pravouhlé premietanie",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Ako postupovať pri výbere správneho priemetu technického dielu?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Vhodnosť meniť tvar kovu tlakom alebo údermi“?",
     "options": [
-      "Najprv určiť smer pohľadu a potom obrys aj viditeľné hrany",
-      "Vybrať najväčší obrázok",
-      "Vybrať obrázok podľa farby",
-      "Ignorovať šípku smeru"
+      "Kujnosť",
+      "Osnova",
+      "Oceľ",
+      "Vlna"
     ],
-    "answer": "Najprv určiť smer pohľadu a potom obrys aj viditeľné hrany",
-    "explanation": "Rovnaký diel má z rôznych smerov odlišné priemety. Porovnáva sa tvar aj poloha jeho hrán.",
-    "difficulty": 1,
+    "answer": "Kujnosť",
+    "explanation": "Kujnosť: vhodnosť meniť tvar kovu tlakom alebo údermi.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
-    "version": 1
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-361",
@@ -9264,7 +9511,7 @@
     ],
     "answer": "part-01-left",
     "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -9378,7 +9625,7 @@
     ],
     "answer": "part-02-left",
     "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -9492,7 +9739,7 @@
     ],
     "answer": "part-03-left",
     "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -9606,7 +9853,7 @@
     ],
     "answer": "part-04-left",
     "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -9720,7 +9967,7 @@
     ],
     "answer": "part-05-left",
     "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -9834,7 +10081,7 @@
     ],
     "answer": "part-06-left",
     "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -9948,7 +10195,7 @@
     ],
     "answer": "part-07-left",
     "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10062,7 +10309,7 @@
     ],
     "answer": "part-08-left",
     "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10176,7 +10423,7 @@
     ],
     "answer": "part-09-left",
     "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10290,7 +10537,7 @@
     ],
     "answer": "part-10-left",
     "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10404,7 +10651,7 @@
     ],
     "answer": "part-11-left",
     "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10518,7 +10765,7 @@
     ],
     "answer": "part-12-left",
     "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10591,7 +10838,7 @@
       "30 Ω"
     ],
     "explanation": "V sérii sa odpory sčítajú: 12 + 18 = 30 Ω.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10617,7 +10864,7 @@
       "40 Ω"
     ],
     "explanation": "V sérii sa odpory sčítajú: 15 + 25 = 40 Ω.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10643,7 +10890,7 @@
       "55 Ω"
     ],
     "explanation": "V sérii sa odpory sčítajú: 22 + 33 = 55 Ω.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10669,7 +10916,7 @@
       "100 Ω"
     ],
     "explanation": "V sérii sa odpory sčítajú: 40 + 60 = 100 Ω.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10695,7 +10942,7 @@
       "100 Ω"
     ],
     "explanation": "V sérii sa odpory sčítajú: 75 + 25 = 100 Ω.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10721,7 +10968,7 @@
       "6 Ω"
     ],
     "explanation": "Dva rovnaké paralelné odpory majú výsledok R/2 = 12/2 = 6 Ω.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10746,7 +10993,7 @@
       "9 Ω"
     ],
     "explanation": "Dva rovnaké paralelné odpory majú výsledok R/2 = 18/2 = 9 Ω.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10771,7 +11018,7 @@
       "12 Ω"
     ],
     "explanation": "Dva rovnaké paralelné odpory majú výsledok R/2 = 24/2 = 12 Ω.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10796,7 +11043,7 @@
       "20 Ω"
     ],
     "explanation": "Dva rovnaké paralelné odpory majú výsledok R/2 = 40/2 = 20 Ω.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10821,7 +11068,7 @@
       "50 Ω"
     ],
     "explanation": "Dva rovnaké paralelné odpory majú výsledok R/2 = 100/2 = 50 Ω.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10848,7 +11095,7 @@
       "0,3 kWh"
     ],
     "explanation": "E = P × t; príkon premeníme na kW: 60/1000 × 5 = 0.3 kWh.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10876,7 +11123,7 @@
       "0,3 kWh"
     ],
     "explanation": "E = P × t; príkon premeníme na kW: 100/1000 × 3 = 0.3 kWh.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10904,7 +11151,7 @@
       "0,8 kWh"
     ],
     "explanation": "E = P × t; príkon premeníme na kW: 200/1000 × 4 = 0.8 kWh.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10930,7 +11177,7 @@
       "1 kWh"
     ],
     "explanation": "E = P × t; príkon premeníme na kW: 500/1000 × 2 = 1 kWh.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10956,7 +11203,7 @@
       "3 kWh"
     ],
     "explanation": "E = P × t; príkon premeníme na kW: 1500/1000 × 2 = 3 kWh.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -10982,7 +11229,7 @@
       "80 %"
     ],
     "explanation": "η = P výstup / P vstup × 100 = 80/100 × 100 = 80 %.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11008,7 +11255,7 @@
       "75 %"
     ],
     "explanation": "η = P výstup / P vstup × 100 = 150/200 × 100 = 75 %.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11034,7 +11281,7 @@
       "80 %"
     ],
     "explanation": "η = P výstup / P vstup × 100 = 400/500 × 100 = 80 %.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11060,7 +11307,7 @@
       "90 %"
     ],
     "explanation": "η = P výstup / P vstup × 100 = 900/1000 × 100 = 90 %.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11086,7 +11333,7 @@
       "80 %"
     ],
     "explanation": "η = P výstup / P vstup × 100 = 200/250 × 100 = 80 %.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11112,7 +11359,7 @@
       "60 N"
     ],
     "explanation": "Rovnováha momentov: F₂ = 20 × 30 / 10 = 60 N.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11139,7 +11386,7 @@
       "60 N"
     ],
     "explanation": "Rovnováha momentov: F₂ = 15 × 40 / 10 = 60 N.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11166,7 +11413,7 @@
       "100 N"
     ],
     "explanation": "Rovnováha momentov: F₂ = 10 × 50 / 5 = 100 N.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11193,7 +11440,7 @@
       "50 N"
     ],
     "explanation": "Rovnováha momentov: F₂ = 25 × 20 / 10 = 50 N.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11220,7 +11467,7 @@
       "90 N"
     ],
     "explanation": "Rovnováha momentov: F₂ = 30 × 15 / 5 = 90 N.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11248,7 +11495,7 @@
       "180 cm³"
     ],
     "explanation": "V = dĺžka × šírka × výška = 12 × 5 × 3 = 180 cm³.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11276,7 +11523,7 @@
       "192 cm³"
     ],
     "explanation": "V = dĺžka × šírka × výška = 8 × 6 × 4 = 192 cm³.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11304,7 +11551,7 @@
       "120 cm³"
     ],
     "explanation": "V = dĺžka × šírka × výška = 15 × 4 × 2 = 120 cm³.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11332,7 +11579,7 @@
       "300 cm³"
     ],
     "explanation": "V = dĺžka × šírka × výška = 20 × 3 × 5 = 300 cm³.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11360,7 +11607,7 @@
       "144 cm³"
     ],
     "explanation": "V = dĺžka × šírka × výška = 9 × 8 × 2 = 144 cm³.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11389,7 +11636,7 @@
       "30,2 mm"
     ],
     "explanation": "Horná hranica = menovitý rozmer + horná odchýlka = 30,2 mm.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11417,7 +11664,7 @@
       "40,5 mm"
     ],
     "explanation": "Horná hranica = menovitý rozmer + horná odchýlka = 40,5 mm.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11445,7 +11692,7 @@
       "50,1 mm"
     ],
     "explanation": "Horná hranica = menovitý rozmer + horná odchýlka = 50,1 mm.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11473,7 +11720,7 @@
       "60,3 mm"
     ],
     "explanation": "Horná hranica = menovitý rozmer + horná odchýlka = 60,3 mm.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11501,7 +11748,7 @@
       "80,4 mm"
     ],
     "explanation": "Horná hranica = menovitý rozmer + horná odchýlka = 80,4 mm.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11527,7 +11774,7 @@
       "11"
     ],
     "explanation": "Použiteľná dĺžka je 990 mm. Podiel (1000 − 10) / 90 zaokrúhlime nadol: 11 dielov.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11554,7 +11801,7 @@
       "11"
     ],
     "explanation": "Použiteľná dĺžka je 1180 mm. Podiel (1200 − 20) / 100 zaokrúhlime nadol: 11 dielov.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11581,7 +11828,7 @@
       "13"
     ],
     "explanation": "Použiteľná dĺžka je 780 mm. Podiel (800 − 20) / 60 zaokrúhlime nadol: 13 dielov.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11608,7 +11855,7 @@
       "12"
     ],
     "explanation": "Použiteľná dĺžka je 1470 mm. Podiel (1500 − 30) / 120 zaokrúhlime nadol: 12 dielov.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -11635,7 +11882,7 @@
       "24"
     ],
     "explanation": "Použiteľná dĺžka je 1960 mm. Podiel (2000 − 40) / 80 zaokrúhlime nadol: 24 dielov.",
-    "difficulty": 2,
+    "difficulty": 3,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
@@ -12904,31 +13151,32 @@
     ]
   },
   {
-    "id": "TO-EXT-010",
+    "id": "TO-REVIEW-023",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Materiály",
     "type": "mc",
-    "prompt": "Na čo slúži keramický výpal?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Doskový materiál z drevných triesok spojených spojivom“?",
     "options": [
-      "Na spevnenie a premenu keramickej hmoty vysokou teplotou",
-      "Len na označenie mena výrobcu",
-      "Na výrobu bavlnených vlákien",
-      "Na opätovné zvlhčenie výrobku"
+      "Drevotrieska",
+      "Termoplast",
+      "Tkanina",
+      "Reaktoplast"
     ],
-    "answer": "Na spevnenie a premenu keramickej hmoty vysokou teplotou",
-    "explanation": "Teplota a priebeh výpalu sa volia podľa konkrétnej hmoty.",
-    "difficulty": 1,
+    "answer": "Drevotrieska",
+    "explanation": "Drevotrieska: doskový materiál z drevných triesok spojených spojivom.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Hlina a keramika"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-011",
@@ -13092,58 +13340,60 @@
     ]
   },
   {
-    "id": "TO-EXT-017",
+    "id": "TO-REVIEW-007",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo je vhodné pri upratovaní jemného keramického prachu v škole?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Schopnosť prenášať teplo cez materiál“?",
     "options": [
-      "Obmedziť vírenie a postupovať podľa učiteľa vhodným vlhkým čistením",
-      "Rozfúkať prach do priestoru",
-      "Ometávať odev spolužiaka do tváre",
-      "Zámerne skúšať vôňu prachu"
+      "Tepelná vodivosť",
+      "Nasiakavosť",
+      "Hodváb",
+      "Matrica"
     ],
-    "answer": "Obmedziť vírenie a postupovať podľa učiteľa vhodným vlhkým čistením",
-    "explanation": "Jemný minerálny prach sa nemá vdychovať ani zbytočne víriť.",
-    "difficulty": 1,
+    "answer": "Tepelná vodivosť",
+    "explanation": "Tepelná vodivosť: schopnosť prenášať teplo cez materiál.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Hlina a keramika"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-EXT-018",
+    "id": "TO-REVIEW-082",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Materiály",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Čím sa keramická modelovacia hlina líši od plastelíny?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Rotačná súčiastka určená na prenos krútiaceho momentu“?",
     "options": [
-      "Keramická hlina je určená aj na odborný výpal, plastelína nie",
-      "Obe sú vždy rovnaké minerálne hmoty",
-      "Plastelína sa musí vypáliť v keramickej peci",
-      "Hlina nikdy neobsahuje minerály"
+      "Hriadeľ",
+      "Pevná kladka",
+      "Spojka",
+      "Vačka"
     ],
-    "answer": "Keramická hlina je určená aj na odborný výpal, plastelína nie",
-    "explanation": "S modelovacími hmotami sa pracuje podľa ich zloženia a návodu.",
-    "difficulty": 1,
+    "answer": "Hriadeľ",
+    "explanation": "Hriadeľ: rotačná súčiastka určená na prenos krútiaceho momentu.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Hlina a keramika"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-019",
@@ -13416,58 +13666,60 @@
     ]
   },
   {
-    "id": "TO-EXT-029",
+    "id": "TO-REVIEW-024",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Materiály",
     "type": "mc",
-    "prompt": "Ktorý výrok o plastoch je presný?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Vrstva vytvárajúca na keramike po vhodnom výpale sklovitý povrch“?",
     "options": [
-      "Ich vlastnosti závisia od druhu polyméru, prísad a výroby",
-      "Všetky sú pružné ako guma",
-      "Všetky sa rozkladajú za týždeň",
-      "Všetky sú dokonale priehľadné"
+      "Glazúra",
+      "Preglejka",
+      "Liatina",
+      "Oceľ"
     ],
-    "answer": "Ich vlastnosti závisia od druhu polyméru, prísad a výroby",
-    "explanation": "Plasty tvoria širokú skupinu rozdielnych materiálov.",
-    "difficulty": 1,
+    "answer": "Glazúra",
+    "explanation": "Glazúra: vrstva vytvárajúca na keramike po vhodnom výpale sklovitý povrch.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Plasty"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-EXT-030",
+    "id": "TO-REVIEW-045",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Materiály",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Čo je elastomér?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Rezistor s výraznou závislosťou odporu od teploty“?",
     "options": [
-      "Polymér s výraznou vratnou pružnou deformáciou",
-      "Každý veľmi tvrdý kov",
-      "Druh keramickej pece",
-      "Názov uhlíkového vlákna"
+      "Termistor",
+      "Ampérmeter",
+      "LED",
+      "Skrat"
     ],
-    "answer": "Polymér s výraznou vratnou pružnou deformáciou",
-    "explanation": "Guma je typickým príkladom elastomérneho materiálu.",
-    "difficulty": 1,
+    "answer": "Termistor",
+    "explanation": "Termistor: rezistor s výraznou závislosťou odporu od teploty.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Plasty"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-031",
@@ -13496,31 +13748,32 @@
     ]
   },
   {
-    "id": "TO-EXT-032",
+    "id": "TO-REVIEW-012",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo sa pri vstrekovaní termoplastu deje vo forme?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Polymér, ktorého vytvrdená zosieťovaná štruktúra bráni bežnému pretaveniu“?",
     "options": [
-      "Roztavený materiál ju vyplní a po ochladení vytvorí diel",
-      "Vždy sa iba ručne tká",
-      "Kov sa mení na bavlnu",
-      "Materiál nemôže meniť tvar"
+      "Reaktoplast",
+      "Pletenina",
+      "Krehkosť",
+      "Tepelná vodivosť"
     ],
-    "answer": "Roztavený materiál ju vyplní a po ochladení vytvorí diel",
-    "explanation": "Vstrekovanie umožňuje opakovanú výrobu tvarovaných plastových súčiastok.",
-    "difficulty": 1,
+    "answer": "Reaktoplast",
+    "explanation": "Reaktoplast: polymér, ktorého vytvrdená zosieťovaná štruktúra bráni bežnému pretaveniu.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Plasty"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-033",
@@ -13658,31 +13911,32 @@
     ]
   },
   {
-    "id": "TO-EXT-038",
+    "id": "TO-REVIEW-065",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Materiály",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Čo treba preveriť pri obale označenom ako kompostovateľný?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Pravouhlý priemet predmetu pri pohľade zľava“?",
     "options": [
-      "Podmienky kompostovania a pravidlá miestneho zberu",
-      "Len farbu potlače",
-      "Či ho možno ľubovoľne spaľovať",
-      "Iba hmotnosť vrchnáka"
+      "Ľavý bokorys",
+      "Zakrytá hrana",
+      "Mierka",
+      "Výrobný výkres"
     ],
-    "answer": "Podmienky kompostovania a pravidlá miestneho zberu",
-    "explanation": "Priemyselná a domáca kompostovateľnosť nie sú totožné.",
-    "difficulty": 1,
+    "answer": "Ľavý bokorys",
+    "explanation": "Ľavý bokorys: pravouhlý priemet predmetu pri pohľade zľava.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Plasty"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-039",
@@ -13766,58 +14020,60 @@
     ]
   },
   {
-    "id": "TO-EXT-042",
+    "id": "TO-REVIEW-013",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo znamená kujnosť kovu?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Polymér schopný veľkých vratných pružných deformácií“?",
     "options": [
-      "Schopnosť meniť tvar tlakom alebo údermi bez porušenia",
-      "Vždy vysokú nasiakavosť",
-      "Trvalú tekutosť v chlade",
-      "Nemožnosť deformácie"
+      "Elastomér",
+      "MDF",
+      "Pružnosť",
+      "Termoplast"
     ],
-    "answer": "Schopnosť meniť tvar tlakom alebo údermi bez porušenia",
-    "explanation": "Tvárnosť umožňuje procesy ako kovanie alebo valcovanie.",
-    "difficulty": 1,
+    "answer": "Elastomér",
+    "explanation": "Elastomér: polymér schopný veľkých vratných pružných deformácií.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Kovy a zliatiny"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-EXT-043",
+    "id": "TO-REVIEW-088",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Materiály",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Prečo sa elektrické vodiče často vyrábajú z medi?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Člen prenášajúci pohyb medzi piestom a kľukou“?",
     "options": [
-      "Má dobrú elektrickú vodivosť a dá sa ťahať na drôt",
-      "Je elektrický izolant",
-      "Nedá sa opracovať",
-      "Musí sa vždy používať bez izolácie"
+      "Ojnica",
+      "Naklonená rovina",
+      "Spätný ventil",
+      "Brzda"
     ],
-    "answer": "Má dobrú elektrickú vodivosť a dá sa ťahať na drôt",
-    "explanation": "Vhodná vodivosť aj spracovateľnosť sú dôležité pre výrobu vodiča.",
-    "difficulty": 1,
+    "answer": "Ojnica",
+    "explanation": "Ojnica: člen prenášajúci pohyb medzi piestom a kľukou.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Kovy a zliatiny"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-044",
@@ -13847,31 +14103,32 @@
     ]
   },
   {
-    "id": "TO-EXT-045",
+    "id": "TO-REVIEW-053",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Materiály",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Ktorý materiál označujeme ako liatinu?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Prístroj na meranie elektrického odporu v bezpečne odpojenom obvode“?",
     "options": [
-      "Zliatinu železa s vyšším obsahom uhlíka než bežná oceľ",
-      "Každý plast určený na odlievanie",
-      "Čistú meď",
-      "Vypálenú glazúru"
+      "Ohmmeter",
+      "Termistor",
+      "Poistka",
+      "LED"
     ],
-    "answer": "Zliatinu železa s vyšším obsahom uhlíka než bežná oceľ",
-    "explanation": "Liatiny tvoria skupinu železných zliatin s dobrými zlievarenskými vlastnosťami.",
-    "difficulty": 1,
+    "answer": "Ohmmeter",
+    "explanation": "Ohmmeter: prístroj na meranie elektrického odporu v bezpečne odpojenom obvode.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Kovy a zliatiny"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-046",
@@ -13928,75 +14185,22 @@
     ]
   },
   {
-    "id": "TO-EXT-048",
+    "id": "TO-REVIEW-089",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Materiály",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Čo opisuje zlievateľnosť kovu?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Jednoduchý stroj využívajúci otáčanie okolo oporného bodu“?",
     "options": [
-      "Vhodnosť vytvoriť kvalitný odliatok z taveniny",
-      "Schopnosť sať vodu ako špongia",
-      "Vždy priehľadnosť",
-      "Výhradne farbu kovu"
+      "Páka",
+      "Ojnica",
+      "Hydraulika",
+      "Reťazový prevod"
     ],
-    "answer": "Vhodnosť vytvoriť kvalitný odliatok z taveniny",
-    "explanation": "Tekutosť a správanie pri tuhnutí ovplyvňujú výsledok odlievania.",
-    "difficulty": 1,
-    "source": {
-      "kind": "original",
-      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
-    },
-    "version": 1,
-    "tags": [
-      "Kovy a zliatiny"
-    ]
-  },
-  {
-    "id": "TO-EXT-049",
-    "categories": [
-      "A",
-      "B"
-    ],
-    "topic": "Materiály",
-    "type": "mc",
-    "prompt": "Prečo sa korózia netýka iba červenej hrdze na železe?",
-    "options": [
-      "Korodovať môžu aj iné kovy, no produkty vyzerajú inak",
-      "Všetky kovy majú iba červenú hrdzu",
-      "Korózia je vždy druh lepidla",
-      "Meď a hliník nemôžu chemicky reagovať"
-    ],
-    "answer": "Korodovať môžu aj iné kovy, no produkty vyzerajú inak",
-    "explanation": "Korózia zahŕňa rôzne procesy poškodzovania kovov prostredím.",
-    "difficulty": 1,
-    "source": {
-      "kind": "original",
-      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
-    },
-    "version": 1,
-    "tags": [
-      "Kovy a zliatiny"
-    ]
-  },
-  {
-    "id": "TO-EXT-050",
-    "categories": [
-      "A"
-    ],
-    "topic": "Materiály",
-    "type": "mc",
-    "prompt": "Čo je medenka v bežnom školskom opise?",
-    "options": [
-      "Zelenkastá korózna vrstva na medi alebo jej zliatinách",
-      "Červená hrdza výhradne na oceli",
-      "Druh plastového vlákna",
-      "Prášková hlina"
-    ],
-    "answer": "Zelenkastá korózna vrstva na medi alebo jej zliatinách",
-    "explanation": "Medené povrchy môžu časom meniť vzhľad pôsobením prostredia.",
+    "answer": "Páka",
+    "explanation": "Páka: jednoduchý stroj využívajúci otáčanie okolo oporného bodu.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -14004,8 +14208,65 @@
     },
     "version": 1,
     "tags": [
-      "Kovy a zliatiny"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
+  },
+  {
+    "id": "TO-REVIEW-090",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Jednoduchý stroj meniaci v ideálnom prípade smer sily bez jej zmenšenia“?",
+    "options": [
+      "Pevná kladka",
+      "Remeňový prevod",
+      "Brzda",
+      "Páka"
+    ],
+    "answer": "Pevná kladka",
+    "explanation": "Pevná kladka: jednoduchý stroj meniaci v ideálnom prípade smer sily bez jej zmenšenia.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
+  },
+  {
+    "id": "TO-REVIEW-046",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Prístroj umožňujúci elektrickým signálom spínať kontakty iného obvodu“?",
+    "options": [
+      "Relé",
+      "Transformátor",
+      "Ochranný vodič PE",
+      "LED"
+    ],
+    "answer": "Relé",
+    "explanation": "Relé: prístroj umožňujúci elektrickým signálom spínať kontakty iného obvodu.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-051",
@@ -14304,31 +14565,32 @@
     ]
   },
   {
-    "id": "TO-EXT-062",
+    "id": "TO-REVIEW-047",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Materiály",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Čo je pletenina?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Elektrický stroj meniaci striedavé napätie elektromagnetickou indukciou“?",
     "options": [
-      "Textília vytvorená zo vzájomne previazaných očiek",
-      "Materiál vždy bez priadze",
-      "Výhradne tenká tabuľa skla",
-      "Každá zliatina medi"
+      "Transformátor",
+      "LED",
+      "Skrat",
+      "Kondenzátor"
     ],
-    "answer": "Textília vytvorená zo vzájomne previazaných očiek",
-    "explanation": "Očková štruktúra býva poddajnejšia a rozťažnejšia než bežná tkanina.",
-    "difficulty": 1,
+    "answer": "Transformátor",
+    "explanation": "Transformátor: elektrický stroj meniaci striedavé napätie elektromagnetickou indukciou.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Textílie a vlákna"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-063",
@@ -14493,31 +14755,32 @@
     ]
   },
   {
-    "id": "TO-EXT-069",
+    "id": "TO-REVIEW-078",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Materiály",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Aký pôvod má viskózové vlákno?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Hrana bežne zobrazovaná čiarkovanou čiarou“?",
     "options": [
-      "Regenerovaná celulóza spracovaná priemyselne",
-      "Ovčia srsť bez úpravy",
-      "Výhradne sklenená tavenina",
-      "Čistý oceľový drôt"
+      "Zakrytá hrana",
+      "Viditeľná hrana",
+      "Rez",
+      "Pravý uhol"
     ],
-    "answer": "Regenerovaná celulóza spracovaná priemyselne",
-    "explanation": "Viskóza je umelé celulózové vlákno, nie syntetický polyester.",
-    "difficulty": 1,
+    "answer": "Zakrytá hrana",
+    "explanation": "Zakrytá hrana: hrana bežne zobrazovaná čiarkovanou čiarou.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Textílie a vlákna"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-070",
@@ -14547,31 +14810,32 @@
     ]
   },
   {
-    "id": "TO-EXT-071",
+    "id": "TO-REVIEW-036",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo označuje priadza?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Prírodné vlákno získavané z kokónov priadky“?",
     "options": [
-      "Súvislý útvar z vlákien vhodný na výrobu textílií",
-      "Len hotový kovový výkres",
-      "Každý list dreviny",
-      "Výhradne plastovú dosku"
+      "Hodváb",
+      "Ľan",
+      "Útok",
+      "Vlna"
     ],
-    "answer": "Súvislý útvar z vlákien vhodný na výrobu textílií",
-    "explanation": "Priadza môže byť vytvorená z krátkych vlákien alebo nekonečných filamentov.",
-    "difficulty": 1,
+    "answer": "Hodváb",
+    "explanation": "Hodváb: prírodné vlákno získavané z kokónov priadky.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Textílie a vlákna"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-072",
@@ -14655,58 +14919,60 @@
     ]
   },
   {
-    "id": "TO-EXT-075",
+    "id": "TO-REVIEW-025",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo označuje rub látky?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Riedka zmes keramickej hliny a vody“?",
     "options": [
-      "Zadnú alebo vnútornú stranu podľa konštrukcie a použitia",
-      "Vždy kovový povlak",
-      "Výhradne okraj každého vlákna",
-      "Iba smer tkania"
+      "Šliker",
+      "Hustota",
+      "Elektrická vodivosť",
+      "WPC"
     ],
-    "answer": "Zadnú alebo vnútornú stranu podľa konštrukcie a použitia",
-    "explanation": "Rozlíšenie líca a rubu pomáha pri strihaní a zošívaní.",
-    "difficulty": 1,
+    "answer": "Šliker",
+    "explanation": "Šliker: riedka zmes keramickej hliny a vody.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Textílie a vlákna"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-EXT-076",
+    "id": "TO-REVIEW-091",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Materiály",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Prečo sa pri údržbe textílie riadime štítkom výrobcu?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Plocha umožňujúca dopraviť bremeno do výšky menšou silou po dlhšej dráhe“?",
     "options": [
-      "Vlákna, farbenie a úpravy vyžadujú rozdielne podmienky",
-      "Všetky látky možno prať rovnako horúco",
-      "Každý symbol je len dekorácia",
-      "Žehlenie nemôže poškodiť textíliu"
+      "Naklonená rovina",
+      "Brzda",
+      "Ložisko",
+      "Pneumatika"
     ],
-    "answer": "Vlákna, farbenie a úpravy vyžadujú rozdielne podmienky",
-    "explanation": "Teplota a spôsob čistenia ovplyvňujú zrazenie, farbu aj pevnosť.",
-    "difficulty": 1,
+    "answer": "Naklonená rovina",
+    "explanation": "Naklonená rovina: plocha umožňujúca dopraviť bremeno do výšky menšou silou po dlhšej dráhe.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Textílie a vlákna"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-077",
@@ -14736,31 +15002,32 @@
     ]
   },
   {
-    "id": "TO-EXT-078",
+    "id": "TO-REVIEW-010",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo je netkaná textília?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Schopnosť kovu plasticky sa predlžovať napríklad pri výrobe drôtu“?",
     "options": [
-      "Textília spevnená z vlákien bez klasického tkania alebo pletenia",
-      "Každý oceľový plech",
-      "Výhradne osnova pre tkáčsky stav",
-      "Iba neopracované drevo"
+      "Ťažnosť",
+      "Liatina",
+      "Termoplast",
+      "Hodváb"
     ],
-    "answer": "Textília spevnená z vlákien bez klasického tkania alebo pletenia",
-    "explanation": "Vlákna možno spájať mechanicky, tepelne alebo spojivom.",
-    "difficulty": 1,
+    "answer": "Ťažnosť",
+    "explanation": "Ťažnosť: schopnosť kovu plasticky sa predlžovať napríklad pri výrobe drôtu.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Textílie a vlákna"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-079",
@@ -14790,31 +15057,32 @@
     ]
   },
   {
-    "id": "TO-EXT-080",
+    "id": "TO-REVIEW-028",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Materiály",
     "type": "mc",
-    "prompt": "Ktoré porovnanie je primerané?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Priečna sústava nití pri tkaní“?",
     "options": [
-      "Vlna môže dobre izolovať vďaka štruktúre vlákien a zadržanému vzduchu",
-      "Každá bavlna je úplne vodotesná",
-      "Každý polyester sa rozloží v záhrade za deň",
-      "Hodváb je kovová zliatina"
+      "Útok",
+      "Sklolaminát",
+      "Drevotrieska",
+      "MDF"
     ],
-    "answer": "Vlna môže dobre izolovať vďaka štruktúre vlákien a zadržanému vzduchu",
-    "explanation": "Vlastnosti látky ovplyvňuje druh vlákna, väzba, hrúbka aj úprava.",
-    "difficulty": 1,
+    "answer": "Útok",
+    "explanation": "Útok: priečna sústava nití pri tkaní.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Textílie a vlákna"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-081",
@@ -14925,31 +15193,32 @@
     ]
   },
   {
-    "id": "TO-EXT-085",
+    "id": "TO-REVIEW-066",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Materiály",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Prečo môže smer vlákien meniť pevnosť kompozitného dielu?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Zobrazenie vnútorného tvaru po myslenom prerezaní predmetu“?",
     "options": [
-      "Výstuž účinkuje odlišne v rôznych smeroch zaťaženia",
-      "Vlákna nemajú mechanický význam",
-      "Na smere nikdy nezáleží",
-      "Matricu možno vždy vynechať"
+      "Rez",
+      "Osová čiara",
+      "Šrafovanie",
+      "Výrobný výkres"
     ],
-    "answer": "Výstuž účinkuje odlišne v rôznych smeroch zaťaženia",
-    "explanation": "Návrh vrstiev sa prispôsobuje predpokladanému zaťaženiu.",
-    "difficulty": 1,
+    "answer": "Rez",
+    "explanation": "Rez: zobrazenie vnútorného tvaru po myslenom prerezaní predmetu.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Kompozity a porovnávanie"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-086",
@@ -15006,31 +15275,32 @@
     ]
   },
   {
-    "id": "TO-EXT-088",
+    "id": "TO-REVIEW-029",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo je príkladom sendvičovej konštrukcie?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Textília vytvorená zo vzájomne previazaných očiek“?",
     "options": [
-      "Ľahké jadro medzi pevnejšími povrchovými vrstvami",
-      "Jediná plná medená guľa",
-      "Čistá voda vo vedre",
-      "Samotná vlnená niť"
+      "Pletenina",
+      "Glazúra",
+      "Viskóza",
+      "Tkanina"
     ],
-    "answer": "Ľahké jadro medzi pevnejšími povrchovými vrstvami",
-    "explanation": "Oddelenie pevných vrstiev ľahkým jadrom môže zvýšiť ohybovú tuhosť pri nízkej hmotnosti.",
-    "difficulty": 1,
+    "answer": "Pletenina",
+    "explanation": "Pletenina: textília vytvorená zo vzájomne previazaných očiek.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Kompozity a porovnávanie"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-089",
@@ -15087,58 +15357,60 @@
     ]
   },
   {
-    "id": "TO-EXT-091",
+    "id": "TO-REVIEW-030",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Materiály",
     "type": "mc",
-    "prompt": "Ktoré porovnanie ocele a skla vystihuje bežné správanie?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Textília vytvorená preväzovaním osnovy a útku“?",
     "options": [
-      "Vhodná oceľ sa môže plasticky deformovať, sklo je typicky krehké",
-      "Sklo je vždy kujnejšie než oceľ",
-      "Oceľ je vždy priehľadná",
-      "Oba materiály sa vždy správajú rovnako"
+      "Tkanina",
+      "Elastan",
+      "Bavlna",
+      "Kujnosť"
     ],
-    "answer": "Vhodná oceľ sa môže plasticky deformovať, sklo je typicky krehké",
-    "explanation": "Konkrétne vlastnosti závisia aj od úprav, ale základné rozdiely sú podstatné.",
-    "difficulty": 1,
+    "answer": "Tkanina",
+    "explanation": "Tkanina: textília vytvorená preväzovaním osnovy a útku.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Kompozity a porovnávanie"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-EXT-092",
+    "id": "TO-REVIEW-092",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Materiály",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Prečo sa pre elektrickú izoláciu volí vhodný plast alebo keramika namiesto medi?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Jednoduchý stroj oddeľujúci materiál bočnými účinkami naklonených plôch“?",
     "options": [
-      "Tieto materiály môžu mať veľký elektrický odpor",
-      "Meď je najlepší bežný izolant",
-      "Každá keramika je vodič ako meď",
-      "Farba izolácie vždy stačí"
+      "Klin",
+      "Hydraulika",
+      "Spätný ventil",
+      "Ozubený hrebeň"
     ],
-    "answer": "Tieto materiály môžu mať veľký elektrický odpor",
-    "explanation": "Izolačný materiál musí zvládnuť aj požadované teploty a prevádzkové podmienky.",
-    "difficulty": 1,
+    "answer": "Klin",
+    "explanation": "Klin: jednoduchý stroj oddeľujúci materiál bočnými účinkami naklonených plôch.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Kompozity a porovnávanie"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-093",
@@ -15249,58 +15521,60 @@
     ]
   },
   {
-    "id": "TO-EXT-097",
+    "id": "TO-REVIEW-039",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo je funkčná požiadavka na materiál pracovnej dosky?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Kompozit drevnej zložky a polyméru“?",
     "options": [
-      "Odolnosť voči predpokladanému zaťaženiu a používaniu",
-      "Iba príjemný názov materiálu",
-      "Výhradne najvyššia cena",
-      "Povinne nulová hrúbka"
+      "WPC",
+      "Termoplast",
+      "Viskóza",
+      "Mosadz"
     ],
-    "answer": "Odolnosť voči predpokladanému zaťaženiu a používaniu",
-    "explanation": "Rozhoduje skutočný účel, napríklad nárazy, vlhkosť a čistenie.",
-    "difficulty": 1,
+    "answer": "WPC",
+    "explanation": "WPC: kompozit drevnej zložky a polyméru.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Kompozity a porovnávanie"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-EXT-098",
+    "id": "TO-REVIEW-093",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Materiály",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Prečo sa pri porovnaní materiálov používa rovnaký objem alebo rozmer vzoriek?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Priamy rad zubov premieňajúci s ozubeným kolesom otáčanie na posuv“?",
     "options": [
-      "Aby porovnanie vlastnosti nebolo skreslené veľkosťou",
-      "Aby mali všetky vzorky rovnakú farbu",
-      "Lebo rôzne materiály nemajú objem",
-      "Aby sa zrušila hmotnosť"
+      "Ozubený hrebeň",
+      "Ojnica",
+      "Mazivo",
+      "Páka"
     ],
-    "answer": "Aby porovnanie vlastnosti nebolo skreslené veľkosťou",
-    "explanation": "Hmotnosť rovnako veľkých vzoriek napríklad súvisí s hustotou.",
-    "difficulty": 1,
+    "answer": "Ozubený hrebeň",
+    "explanation": "Ozubený hrebeň: priamy rad zubov premieňajúci s ozubeným kolesom otáčanie na posuv.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Kompozity a porovnávanie"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-099",
@@ -15330,60 +15604,58 @@
     ]
   },
   {
-    "id": "TO-EXT-100",
+    "id": "TO-REVIEW-001",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo najlepšie vystihuje zodpovedný výber materiálu?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Schopnosť vlhkej hliny udržať tvar po modelovaní“?",
     "options": [
-      "Vhodná funkcia spolu s životnosťou, opraviteľnosťou a koncom použitia",
-      "Iba najvýraznejšia farba",
-      "Výhradne jednorazovosť",
-      "Ignorovanie odpadu a opráv"
+      "Plasticita",
+      "WPC",
+      "Tvrdosť",
+      "Elastomér"
     ],
-    "answer": "Vhodná funkcia spolu s životnosťou, opraviteľnosťou a koncom použitia",
-    "explanation": "Rozhodnutie ovplyvňuje výrobu, používanie aj odpadový tok.",
-    "difficulty": 1,
+    "answer": "Plasticita",
+    "explanation": "Plasticita: schopnosť vlhkej hliny udržať tvar po modelovaní.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Kompozity a porovnávanie"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
-    "id": "TO-EXT-101",
+    "id": "TO-REVIEW-067",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Recyklácia a triedenie odpadu",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Čo treba čítať na zbernej nádobe okrem jej farby?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Čiary označujúce plochu materiálu zasiahnutú rovinou rezu“?",
     "options": [
-      "Označenie prijímaného odpadu a miestne pokyny",
-      "Iba číslo domu oproti",
-      "Výhradne meno vodiča auta",
-      "Len dátum výroby koša"
+      "Šrafovanie",
+      "Kusovník",
+      "Výrobný výkres",
+      "Polomer"
     ],
-    "answer": "Označenie prijímaného odpadu a miestne pokyny",
-    "explanation": "Farby sú orientačné; konkrétne komodity môžu mať spoločný alebo oddelený zber.",
-    "difficulty": 1,
+    "answer": "Šrafovanie",
+    "explanation": "Šrafovanie: čiary označujúce plochu materiálu zasiahnutú rovinou rezu.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Triedenie – pravidlá a výnimky"
-    ],
-    "referenceUrls": [
-      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+      "Revidované pojmy a rozlišovanie"
     ],
     "reviewedAt": "2026-11-02",
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
@@ -15517,33 +15789,30 @@
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
   },
   {
-    "id": "TO-EXT-106",
+    "id": "TO-REVIEW-094",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Recyklácia a triedenie odpadu",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Prečo otázka „Kam s kovovou konzervou?“ nemusí mať všade rovnakú farebnú odpoveď?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Prenos pohybu pomocou reťaze a reťazových kolies“?",
     "options": [
-      "Systém spoločného zberu sa môže medzi obcami líšiť",
-      "Konzerva nemá žiadny materiál",
-      "Farba vždy nahrádza všetky pokyny",
-      "Každá konzerva je nebezpečný odpad"
+      "Reťazový prevod",
+      "Pevná kladka",
+      "Pneumatika",
+      "Hriadeľ"
     ],
-    "answer": "Systém spoločného zberu sa môže medzi obcami líšiť",
-    "explanation": "Najprv identifikujeme materiál a potom overíme miestny spôsob jeho zberu.",
-    "difficulty": 1,
+    "answer": "Reťazový prevod",
+    "explanation": "Reťazový prevod: prenos pohybu pomocou reťaze a reťazových kolies.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Triedenie – pravidlá a výnimky"
-    ],
-    "referenceUrls": [
-      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+      "Revidované pojmy a rozlišovanie"
     ],
     "reviewedAt": "2026-11-02",
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
@@ -15581,33 +15850,30 @@
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
   },
   {
-    "id": "TO-EXT-108",
+    "id": "TO-REVIEW-040",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Recyklácia a triedenie odpadu",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Ako pripravíme riadne označenú zálohovanú PET fľašu na vrátenie?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Betón s navrhnutou oceľovou výstužou“?",
     "options": [
-      "Vyprázdnenú, nestlačenú a s čitateľným označením",
-      "Rozstrihanú na kúsky",
-      "Spálenú",
-      "Naplnenú použitým olejom"
+      "Železobetón",
+      "Tvrdosť",
+      "Elektrická vodivosť",
+      "Bavlna"
     ],
-    "answer": "Vyprázdnenú, nestlačenú a s čitateľným označením",
-    "explanation": "Rozpoznanie obalu vyžaduje zachované identifikačné údaje a tvar podľa systému.",
-    "difficulty": 1,
+    "answer": "Železobetón",
+    "explanation": "Železobetón: betón s navrhnutou oceľovou výstužou.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Triedenie – pravidlá a výnimky"
-    ],
-    "referenceUrls": [
-      "https://www.minzp.sk/zalohovanie/najcastejsie-otazky.html"
+      "Revidované pojmy a rozlišovanie"
     ],
     "reviewedAt": "2026-11-02",
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
@@ -15645,33 +15911,30 @@
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
   },
   {
-    "id": "TO-EXT-110",
+    "id": "TO-REVIEW-095",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Recyklácia a triedenie odpadu",
+    "topic": "Stroje a mechanizmy",
     "type": "mc",
-    "prompt": "Prečo bežný nápojový kartón automaticky nepatrí do modrej nádoby na papier?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Prenos pohybu pomocou remeňa a remeníc“?",
     "options": [
-      "Je to viacvrstvový obal s určeným zberom",
-      "Vždy je z čistého skla",
-      "Obsahuje iba bavlnu",
-      "Nemožno ho nikde zbierať"
+      "Remeňový prevod",
+      "Ojnica",
+      "Vačka",
+      "Reťazový prevod"
     ],
-    "answer": "Je to viacvrstvový obal s určeným zberom",
-    "explanation": "Pri nápojových kartónoch sa riadime ich označením a pokynmi obce.",
-    "difficulty": 1,
+    "answer": "Remeňový prevod",
+    "explanation": "Remeňový prevod: prenos pohybu pomocou remeňa a remeníc.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Triedenie – pravidlá a výnimky"
-    ],
-    "referenceUrls": [
-      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+      "Revidované pojmy a rozlišovanie"
     ],
     "reviewedAt": "2026-11-02",
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
@@ -15773,33 +16036,30 @@
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
   },
   {
-    "id": "TO-EXT-114",
+    "id": "TO-REVIEW-031",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Recyklácia a triedenie odpadu",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Je potrebné každý mierne znečistený plastový obal drhnúť horúcou vodou do sterility?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Priemyselne vyrábané vlákno z regenerovanej celulózy“?",
     "options": [
-      "Nie, dôležité je vyprázdnenie a odstránenie hrubých zvyškov podľa pokynov",
-      "Áno, musí byť sterilný ako zdravotnícka pomôcka",
-      "Áno, vždy s množstvom chemikálií",
-      "Nie, obal môže zostať naplnený jedlom"
+      "Viskóza",
+      "Mosadz",
+      "Termoplast",
+      "Dyha"
     ],
-    "answer": "Nie, dôležité je vyprázdnenie a odstránenie hrubých zvyškov podľa pokynov",
-    "explanation": "Pri triedení nemrháme zbytočne vodou, no obaly nemajú obsahovať veľké zvyšky.",
-    "difficulty": 1,
+    "answer": "Viskóza",
+    "explanation": "Viskóza: priemyselne vyrábané vlákno z regenerovanej celulózy.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Triedenie – pravidlá a výnimky"
-    ],
-    "referenceUrls": [
-      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+      "Revidované pojmy a rozlišovanie"
     ],
     "reviewedAt": "2026-11-02",
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
@@ -15869,33 +16129,30 @@
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
   },
   {
-    "id": "TO-EXT-117",
+    "id": "TO-REVIEW-002",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Recyklácia a triedenie odpadu",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Kam patrí pokazený elektrický spotrebič?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Schopnosť vrátiť sa po odľahčení do pôvodného tvaru“?",
     "options": [
-      "Do určeného spätného zberu elektroodpadu alebo zberného miesta",
-      "Do koša na papier",
-      "Do nádoby na potraviny",
-      "Do lesa"
+      "Pružnosť",
+      "Osnova",
+      "Nasiakavosť",
+      "Železobetón"
     ],
-    "answer": "Do určeného spätného zberu elektroodpadu alebo zberného miesta",
-    "explanation": "Elektroodpad má osobitný zber pre materiály aj možné rizikové zložky.",
-    "difficulty": 1,
+    "answer": "Pružnosť",
+    "explanation": "Pružnosť: schopnosť vrátiť sa po odľahčení do pôvodného tvaru.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Triedenie – pravidlá a výnimky"
-    ],
-    "referenceUrls": [
-      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+      "Revidované pojmy a rozlišovanie"
     ],
     "reviewedAt": "2026-11-02",
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
@@ -16061,33 +16318,30 @@
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
   },
   {
-    "id": "TO-EXT-123",
+    "id": "TO-REVIEW-032",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Recyklácia a triedenie odpadu",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo urobíš s prázdnym papierovým obalom, ktorý má ľahko oddeliteľnú plastovú vložku?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Syntetické textilné vlákno z polyméru“?",
     "options": [
-      "Oddelím materiály a roztriedim ich podľa miestnych pokynov",
-      "Vždy ich musím navždy zlepiť",
-      "Všetko automaticky patrí do skla",
-      "Obal povinne spálim"
+      "Polyester",
+      "Kujnosť",
+      "Sklolaminát",
+      "Tepelná vodivosť"
     ],
-    "answer": "Oddelím materiály a roztriedim ich podľa miestnych pokynov",
-    "explanation": "Jednoducho oddeliteľné zložky majú vlastné odpadové toky.",
-    "difficulty": 1,
+    "answer": "Polyester",
+    "explanation": "Polyester: syntetické textilné vlákno z polyméru.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Triedenie – praktické situácie"
-    ],
-    "referenceUrls": [
-      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+      "Revidované pojmy a rozlišovanie"
     ],
     "reviewedAt": "2026-11-02",
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
@@ -16189,33 +16443,30 @@
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
   },
   {
-    "id": "TO-EXT-127",
+    "id": "TO-REVIEW-006",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Recyklácia a triedenie odpadu",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Prečo do kontajnera na obalové sklo nedáme zrkadlo?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Schopnosť prijímať vodu do materiálu“?",
     "options": [
-      "Má odlišnú materiálovú úpravu a nie je bežným obalovým sklom",
-      "Je vždy vyrobené z bavlny",
-      "Vždy patrí do papiera",
-      "Nemá žiadny materiál"
+      "Nasiakavosť",
+      "Kujnosť",
+      "Osnova",
+      "Hustota"
     ],
-    "answer": "Má odlišnú materiálovú úpravu a nie je bežným obalovým sklom",
-    "explanation": "Postup pre zrkadlo určuje obec alebo príslušné zberné miesto.",
-    "difficulty": 1,
+    "answer": "Nasiakavosť",
+    "explanation": "Nasiakavosť: schopnosť prijímať vodu do materiálu.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Triedenie – praktické situácie"
-    ],
-    "referenceUrls": [
-      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+      "Revidované pojmy a rozlišovanie"
     ],
     "reviewedAt": "2026-11-02",
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
@@ -16477,33 +16728,30 @@
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
   },
   {
-    "id": "TO-EXT-136",
+    "id": "TO-REVIEW-072",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Recyklácia a triedenie odpadu",
+    "topic": "Technická dokumentácia",
     "type": "mc",
-    "prompt": "Kam odovzdáš nepoužiteľné lieky z domácnosti podľa pokynov príslušného systému?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Dokument s údajmi potrebnými na výrobu konkrétnej súčiastky“?",
     "options": [
-      "Do lekárne prijímajúcej nespotrebované lieky",
-      "Do umývadla",
-      "Do zberu skla aj s liekmi",
-      "Do kompostu"
+      "Výrobný výkres",
+      "Priemer",
+      "Náčrt",
+      "Šrafovanie"
     ],
-    "answer": "Do lekárne prijímajúcej nespotrebované lieky",
-    "explanation": "Lieky sa nezamieňajú s bežným komunálnym obalovým odpadom.",
-    "difficulty": 1,
+    "answer": "Výrobný výkres",
+    "explanation": "Výrobný výkres: dokument s údajmi potrebnými na výrobu konkrétnej súčiastky.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Triedenie – praktické situácie"
-    ],
-    "referenceUrls": [
-      "https://www.sukl.sk/slovenska-verzia/informacie-pre-verejnost/oznamenie-pre-obcanov-o-potrebe-racionalizacie-v-zasobovani-sa-liekmi-a-zaobchadzani-s-liekovym-odpadom"
+      "Revidované pojmy a rozlišovanie"
     ],
     "reviewedAt": "2026-11-02",
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
@@ -16573,33 +16821,30 @@
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
   },
   {
-    "id": "TO-EXT-139",
+    "id": "TO-REVIEW-017",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Recyklácia a triedenie odpadu",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Kam patrí stavebná suť z rozbitých tehál pri väčšej oprave?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Zliatina medi s cínom“?",
     "options": [
-      "Do systému zberu stavebného odpadu podľa miestnych podmienok",
-      "Do kontajnera na obalové sklo",
-      "Do modrého papiera",
-      "Do nádoby na kuchynský bioodpad"
+      "Cínový bronz",
+      "Ťažnosť",
+      "Tepelná vodivosť",
+      "Glazúra"
     ],
-    "answer": "Do systému zberu stavebného odpadu podľa miestnych podmienok",
-    "explanation": "Stavebný materiál nie je bežným obalovým sklom ani papierom.",
-    "difficulty": 1,
+    "answer": "Cínový bronz",
+    "explanation": "Cínový bronz: zliatina medi s cínom.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Triedenie – praktické situácie"
-    ],
-    "referenceUrls": [
-      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+      "Revidované pojmy a rozlišovanie"
     ],
     "reviewedAt": "2026-11-02",
     "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
@@ -16907,31 +17152,32 @@
     ]
   },
   {
-    "id": "TO-EXT-151",
+    "id": "TO-REVIEW-011",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Dreviny a prírodné materiály",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Čo je letokruh v dreve mierneho pásma v základnom školskom modeli?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Polymér, ktorý možno v určených podmienkach opakovane tepelne tvarovať“?",
     "options": [
-      "Vrstva dreva vytvorená počas jedného rastového obdobia",
-      "Každý otvor po hmyze",
-      "Vždy iba vonkajšia kôra",
-      "Kovová výstuž kmeňa"
+      "Termoplast",
+      "Preglejka",
+      "Elektrická vodivosť",
+      "Šliker"
     ],
-    "answer": "Vrstva dreva vytvorená počas jedného rastového obdobia",
-    "explanation": "Letokruhy sa dajú sledovať najmä na priečnom reze kmeňa.",
-    "difficulty": 1,
+    "answer": "Termoplast",
+    "explanation": "Termoplast: polymér, ktorý možno v určených podmienkach opakovane tepelne tvarovať.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Dreviny a drevo"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-152",
@@ -17069,31 +17315,32 @@
     ]
   },
   {
-    "id": "TO-EXT-157",
+    "id": "TO-REVIEW-037",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Dreviny a prírodné materiály",
+    "topic": "Materiály",
     "type": "mc",
-    "prompt": "Prečo neplatí, že každé listnaté drevo je tvrdšie než každé ihličnaté?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Vlákno pridávané do textílií na zvýšenie rozťažnosti“?",
     "options": [
-      "Tvrdosť závisí od druhu a vlastností dreva, nie iba od listov",
-      "Listnaté dreviny nemajú drevo",
-      "Všetky drevá sú presne rovnako tvrdé",
-      "Ihličnaté drevo je vždy kov"
+      "Elastan",
+      "Viskóza",
+      "Drevotrieska",
+      "Cínový bronz"
     ],
-    "answer": "Tvrdosť závisí od druhu a vlastností dreva, nie iba od listov",
-    "explanation": "Rozdelenie drevín podľa listov samo nevystihuje všetky technické vlastnosti.",
-    "difficulty": 1,
+    "answer": "Elastan",
+    "explanation": "Elastan: vlákno pridávané do textílií na zvýšenie rozťažnosti.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Dreviny a drevo"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-158",
@@ -17150,31 +17397,32 @@
     ]
   },
   {
-    "id": "TO-EXT-160",
+    "id": "TO-REVIEW-048",
     "categories": [
       "A",
       "B"
     ],
-    "topic": "Dreviny a prírodné materiály",
+    "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Čo je vhodné pri školskom určovaní stromov podľa plodov?",
+    "prompt": "Ktorý odborný pojem zodpovedá opisu: „Zariadenie premieňajúce elektrickú energiu na mechanický pohyb“?",
     "options": [
-      "Pozorovať znaky a nepovažovať neznámy plod automaticky za jedlý",
-      "Každý nájdený plod ochutnať",
-      "Všetky červené plody označiť za bezpečné",
-      "Ochutnávaním určovať druh dreva"
+      "Elektromotor",
+      "Uzol",
+      "Rezistor",
+      "Istič"
     ],
-    "answer": "Pozorovať znaky a nepovažovať neznámy plod automaticky za jedlý",
-    "explanation": "Poznávanie materiálových zdrojov nevyžaduje ochutnávanie neznámych rastlín.",
-    "difficulty": 1,
+    "answer": "Elektromotor",
+    "explanation": "Elektromotor: zariadenie premieňajúce elektrickú energiu na mechanický pohyb.",
+    "difficulty": 2,
     "source": {
       "kind": "original",
       "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
     },
     "version": 1,
     "tags": [
-      "Dreviny a drevo"
-    ]
+      "Revidované pojmy a rozlišovanie"
+    ],
+    "reviewedAt": "2026-11-02"
   },
   {
     "id": "TO-EXT-161",
@@ -17184,7 +17432,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Laločnatý list s oblými lalokmi.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 161.",
     "options": [
       "Dub",
       "Buk",
@@ -17200,17 +17448,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/oak-leaf.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: laločnatý list s oblými lalokmi.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: laločnatý list s oblými lalokmi."
+      "kind": "photo",
+      "image": "assets/tree-photos/oak-fruit.jpg",
+      "author": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Quercus_robur.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: laločnatý list s oblými lalokmi."
   },
   {
     "id": "TO-EXT-162",
@@ -17220,7 +17472,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Žalude s čiaškami.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 162.",
     "options": [
       "Dub",
       "Buk",
@@ -17236,17 +17488,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/oak-fruit.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: žalude s čiaškami.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: žalude s čiaškami."
+      "kind": "photo",
+      "image": "assets/tree-photos/oak-fruit.jpg",
+      "author": "Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Quercus_robur.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: žalude s čiaškami."
   },
   {
     "id": "TO-EXT-163",
@@ -17256,7 +17512,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Oválny list so zvlneným okrajom a výraznou žilnatinou.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 163.",
     "options": [
       "Buk",
       "Dub",
@@ -17272,17 +17528,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/beech-leaf.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: oválny list so zvlneným okrajom a výraznou žilnatinou.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: oválny list so zvlneným okrajom a výraznou žilnatinou."
+      "kind": "photo",
+      "image": "assets/tree-photos/beech-leaf.jpg",
+      "author": "Eric Polk",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_single_leaf_-_HLABG.png",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: oválny list so zvlneným okrajom a výraznou žilnatinou."
   },
   {
     "id": "TO-EXT-164",
@@ -17292,7 +17552,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Bukvice a ich otvorená ostnitá čiaška.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 164.",
     "options": [
       "Buk",
       "Dub",
@@ -17308,17 +17568,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/beech-fruit.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: bukvice a ich otvorená ostnitá čiaška.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: bukvice a ich otvorená ostnitá čiaška."
+      "kind": "photo",
+      "image": "assets/tree-photos/beech-fruit.jpg",
+      "author": "Mirek256",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_seeds.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: bukvice a ich otvorená ostnitá čiaška."
   },
   {
     "id": "TO-EXT-165",
@@ -17328,7 +17592,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Srdcovitý list.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 165.",
     "options": [
       "Lipa",
       "Buk",
@@ -17344,17 +17608,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/linden-leaf.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: srdcovitý list.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: srdcovitý list."
+      "kind": "photo",
+      "image": "assets/tree-photos/linden-fruit.jpg",
+      "author": "Gustamons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tilia_cordata_fruit_leaves_under_a_microscope.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: srdcovitý list."
   },
   {
     "id": "TO-EXT-166",
@@ -17364,7 +17632,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Okrúhle plody nesené s podlhovastým listeňom.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 166.",
     "options": [
       "Lipa",
       "Buk",
@@ -17380,17 +17648,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/linden-fruit.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: okrúhle plody nesené s podlhovastým listeňom.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: okrúhle plody nesené s podlhovastým listeňom."
+      "kind": "photo",
+      "image": "assets/tree-photos/linden-fruit.jpg",
+      "author": "Gustamons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tilia_cordata_fruit_leaves_under_a_microscope.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: okrúhle plody nesené s podlhovastým listeňom."
   },
   {
     "id": "TO-EXT-167",
@@ -17400,7 +17672,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Dlaňovito laločnatý list.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 167.",
     "options": [
       "Javor",
       "Dub",
@@ -17416,17 +17688,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/maple-leaf.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: dlaňovito laločnatý list.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: dlaňovito laločnatý list."
+      "kind": "photo",
+      "image": "assets/tree-photos/maple-leaf.jpg",
+      "author": "Flocci Nivis",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:20210923_Acer_platanoides_Leave_01.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: dlaňovito laločnatý list."
   },
   {
     "id": "TO-EXT-168",
@@ -17436,7 +17712,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Párové krídlaté plody.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 168.",
     "options": [
       "Javor",
       "Dub",
@@ -17452,17 +17728,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/maple-fruit.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: párové krídlaté plody.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: párové krídlaté plody."
+      "kind": "photo",
+      "image": "assets/tree-photos/maple-fruit.jpg",
+      "author": "Krzysztof Ziarnek",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Acer_platanoides_fruit_kz.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: párové krídlaté plody."
   },
   {
     "id": "TO-EXT-169",
@@ -17472,7 +17752,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Trojuholníkovitý zúbkatý list.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 169.",
     "options": [
       "Breza",
       "Buk",
@@ -17488,17 +17768,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/birch-leaf.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: trojuholníkovitý zúbkatý list.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: trojuholníkovitý zúbkatý list."
+      "kind": "photo",
+      "image": "assets/tree-photos/birch-leaf.jpg",
+      "author": "SamiKullström",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Betula_pendula_laciniata_speciae_nova_2.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: trojuholníkovitý zúbkatý list."
   },
   {
     "id": "TO-EXT-170",
@@ -17508,7 +17792,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Previsnuté plodné jahňady.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 170.",
     "options": [
       "Breza",
       "Buk",
@@ -17524,17 +17808,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/birch-fruit.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: previsnuté plodné jahňady.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: previsnuté plodné jahňady."
+      "kind": "photo",
+      "image": "assets/tree-photos/birch-fruit.jpg",
+      "author": "Andrey Butko",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Betula_pendula_in_Sedovo_1.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: previsnuté plodné jahňady."
   },
   {
     "id": "TO-EXT-171",
@@ -17544,7 +17832,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Dlaňovito zložený list.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 171.",
     "options": [
       "Pagaštan konský",
       "Javor",
@@ -17560,17 +17848,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/horse-leaf.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: dlaňovito zložený list.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: dlaňovito zložený list."
+      "kind": "photo",
+      "image": "assets/tree-photos/horse-fruit.jpg",
+      "author": "Zeitblick",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Aesculus_hippocastanum_fruit_01.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: dlaňovito zložený list."
   },
   {
     "id": "TO-EXT-172",
@@ -17580,7 +17872,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa plodu a semena: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Ostnitá tobolka s lesklým hnedým semenom.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 172.",
     "options": [
       "Pagaštan konský",
       "Javor",
@@ -17596,17 +17888,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/horse-fruit.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: ostnitá tobolka s lesklým hnedým semenom.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: ostnitá tobolka s lesklým hnedým semenom."
+      "kind": "photo",
+      "image": "assets/tree-photos/horse-fruit.jpg",
+      "author": "Zeitblick",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Aesculus_hippocastanum_fruit_01.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: ostnitá tobolka s lesklým hnedým semenom."
   },
   {
     "id": "TO-EXT-173",
@@ -17616,7 +17912,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa ihličia: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Jednotlivé ihlice usporiadané okolo konárika.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 173.",
     "options": [
       "Smrek",
       "Jedľa",
@@ -17632,17 +17928,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/spruce-leaf.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: jednotlivé ihlice usporiadané okolo konárika.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: jednotlivé ihlice usporiadané okolo konárika."
+      "kind": "photo",
+      "image": "assets/tree-photos/spruce-leaf.jpg",
+      "author": "Forest and Kim Starr",
+      "license": "CC BY 3.0 us",
+      "source": "https://commons.wikimedia.org/wiki/File:Starr-141106-5361-Picea_abies-needles-8500_Ft_Grove_HNP-Maui_(25130476492).jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: jednotlivé ihlice usporiadané okolo konárika."
   },
   {
     "id": "TO-EXT-174",
@@ -17652,7 +17952,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Dlhá šiška visiaca nadol.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 174.",
     "options": [
       "Smrek",
       "Jedľa",
@@ -17668,17 +17968,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/spruce-fruit.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: dlhá šiška visiaca nadol.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: dlhá šiška visiaca nadol."
+      "kind": "photo",
+      "image": "assets/tree-photos/spruce-fruit.jpg",
+      "author": "Kritzolina",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Picea_abies_cones_at_Munich_Waldfriedhof.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: dlhá šiška visiaca nadol."
   },
   {
     "id": "TO-EXT-175",
@@ -17688,7 +17992,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa ihličia: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Ploché ihlice a zväčšená spodná strana s dvoma svetlými pásikmi.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 175.",
     "options": [
       "Jedľa",
       "Smrek",
@@ -17704,17 +18008,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/fir-leaf.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: ploché ihlice a zväčšená spodná strana s dvoma svetlými pásikmi.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: ploché ihlice a zväčšená spodná strana s dvoma svetlými pásikmi."
+      "kind": "photo",
+      "image": "assets/tree-photos/fir-fruit.jpg",
+      "author": "Moinats",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:C%C3%B4nes_d%C3%A9sarticul%C3%A9s_abies_alba.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: ploché ihlice a zväčšená spodná strana s dvoma svetlými pásikmi."
   },
   {
     "id": "TO-EXT-176",
@@ -17724,7 +18032,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Šiška vyrastajúca vzpriamene na konári.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 176.",
     "options": [
       "Jedľa",
       "Smrek",
@@ -17740,17 +18048,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/fir-fruit.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: šiška vyrastajúca vzpriamene na konári.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: šiška vyrastajúca vzpriamene na konári."
+      "kind": "photo",
+      "image": "assets/tree-photos/fir-fruit.jpg",
+      "author": "Moinats",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:C%C3%B4nes_d%C3%A9sarticul%C3%A9s_abies_alba.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: šiška vyrastajúca vzpriamene na konári."
   },
   {
     "id": "TO-EXT-177",
@@ -17760,7 +18072,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa ihličia: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Dlhšie ihlice vo zväzkoch po dvoch.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 177.",
     "options": [
       "Borovica lesná",
       "Smrek",
@@ -17776,17 +18088,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/pine-leaf.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: dlhšie ihlice vo zväzkoch po dvoch.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: dlhšie ihlice vo zväzkoch po dvoch."
+      "kind": "photo",
+      "image": "assets/tree-photos/pine-leaf.jpg",
+      "author": "George Chernilevsky",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pinus_sylvestris_2026_G3.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: dlhšie ihlice vo zväzkoch po dvoch."
   },
   {
     "id": "TO-EXT-178",
@@ -17796,7 +18112,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Drevnatá vajcovitá šiška.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 178.",
     "options": [
       "Borovica lesná",
       "Smrek",
@@ -17812,17 +18128,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/pine-fruit.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: drevnatá vajcovitá šiška.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: drevnatá vajcovitá šiška."
+      "kind": "photo",
+      "image": "assets/tree-photos/pine-fruit.jpg",
+      "author": "Tangopaso",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Cones_of_Pinus_sylvestris,_Parc_de_l%27Aulnaye.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": ""
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: drevnatá vajcovitá šiška."
   },
   {
     "id": "TO-EXT-179",
@@ -17832,7 +18152,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa ihličia: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Mäkké ihlice v početných ružicovitých zväzočkoch.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 179.",
     "options": [
       "Smrekovec opadavý",
       "Smrek",
@@ -17848,17 +18168,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/larch-leaf.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: mäkké ihlice v početných ružicovitých zväzočkoch.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: mäkké ihlice v početných ružicovitých zväzočkoch."
+      "kind": "photo",
+      "image": "assets/tree-photos/larch-leaf.jpg",
+      "author": "Rosser1954 Roger Griffith",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Larix_decidua_needles_and_male_cones.JPG",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": ""
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: mäkké ihlice v početných ružicovitých zväzočkoch."
   },
   {
     "id": "TO-EXT-180",
@@ -17868,7 +18192,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Drobné vzpriamené šišky na krátkych stopkách.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 180.",
     "options": [
       "Smrekovec opadavý",
       "Smrek",
@@ -17884,17 +18208,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/larch-fruit.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: drobné vzpriamené šišky na krátkych stopkách.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: drobné vzpriamené šišky na krátkych stopkách."
+      "kind": "photo",
+      "image": "assets/tree-photos/larch-fruit.jpg",
+      "author": "pleple2000",
+      "license": "CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Larix_decidua_cones_pl.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: drobné vzpriamené šišky na krátkych stopkách."
   },
   {
     "id": "TO-EXT-181",
@@ -17904,7 +18232,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Nepárno perovito zložený list s menším počtom lístkov.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 181.",
     "options": [
       "Jaseň",
       "Dub",
@@ -17920,17 +18248,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/ash-leaf.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: nepárno perovito zložený list s menším počtom lístkov.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: nepárno perovito zložený list s menším počtom lístkov."
+      "kind": "photo",
+      "image": "assets/tree-photos/ash-leaf.jpg",
+      "author": "Kieran Roy Powell",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fraxinus_excelsior_Lincolnshire_2026_Leaf.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: nepárno perovito zložený list s menším počtom lístkov."
   },
   {
     "id": "TO-EXT-182",
@@ -17940,7 +18272,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Zväzok samostatných pretiahnutých krídlatých nažiek.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 182.",
     "options": [
       "Jaseň",
       "Dub",
@@ -17956,17 +18288,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/ash-fruit.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: zväzok samostatných pretiahnutých krídlatých nažiek.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: zväzok samostatných pretiahnutých krídlatých nažiek."
+      "kind": "photo",
+      "image": "assets/tree-photos/ash-fruit.jpg",
+      "author": "Kieran Roy Powell",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fraxinus_excelsior_Lincolnshire_2026_Samara.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: zväzok samostatných pretiahnutých krídlatých nažiek."
   },
   {
     "id": "TO-EXT-183",
@@ -17976,7 +18312,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa listu: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Nepárno perovito zložený list s početnými lístkami.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 183.",
     "options": [
       "Jarabina",
       "Breza",
@@ -17992,17 +18328,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/rowan-leaf.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: nepárno perovito zložený list s početnými lístkami.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: nepárno perovito zložený list s početnými lístkami."
+      "kind": "photo",
+      "image": "assets/tree-photos/rowan-leaf.jpg",
+      "author": "Dmitry Makeev",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Autumn._Leaves_-_Sorbus_aucuparia.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: nepárno perovito zložený list s početnými lístkami."
   },
   {
     "id": "TO-EXT-184",
@@ -18012,7 +18352,7 @@
     ],
     "topic": "Dreviny a prírodné materiály",
     "type": "mc",
-    "prompt": "Rozpoznávanie drevín podľa plodov alebo šišiek: Ktorú drevinu znázorňuje táto schematická ilustrácia? (Skupina červených drobných malvíc.)",
+    "prompt": "Ktorá drevina je na fotografii? Úloha 184.",
     "options": [
       "Jarabina",
       "Breza",
@@ -18028,17 +18368,21 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "botanical",
-      "image": "assets/trees/rowan-fruit.svg",
-      "alt": "Schematická ilustrácia na určovanie drevín: skupina červených drobných malvíc.",
-      "caption": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: skupina červených drobných malvíc."
+      "kind": "photo",
+      "image": "assets/tree-photos/rowan-fruit.jpg",
+      "author": "Hekerui",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sorbus_aucuparia_fruit_comparison.jpg",
+      "alt": "Fotografia dreviny na rozpoznanie",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
     },
     "tags": [
       "Obrázkové rozpoznávanie drevín"
     ],
     "referenceUrls": [
       "https://kf.tuzvo.sk/sites/default/files/Sylaby_1.pdf"
-    ]
+    ],
+    "hint": "Schematická pomôcka, nie fotografia ani určenie presnej mierky. Pozoruj znak: skupina červených drobných malvíc."
   },
   {
     "id": "TO-EXT-185",
@@ -18481,6 +18825,486 @@
     "version": 1,
     "tags": [
       "Súvislosti a priraďovanie"
+    ]
+  },
+  {
+    "id": "TO-ADV-001",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Dva rezistory 2 Ω a 4 Ω sú v sérii na zdroji 12 V. Aký je ich spoločný elektrický príkon vo W? Najprv urči prúd.",
+    "options": [],
+    "answer": [
+      "24",
+      "24 W"
+    ],
+    "explanation": "R = 2+4 = 6 Ω. I = U/R = 12/6 = 2 A. P = U×I = 24 W.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-002",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Dva rezistory 3 Ω a 5 Ω sú v sérii na zdroji 16 V. Aký je ich spoločný elektrický príkon vo W? Najprv urči prúd.",
+    "options": [],
+    "answer": [
+      "32",
+      "32 W"
+    ],
+    "explanation": "R = 3+5 = 8 Ω. I = U/R = 16/8 = 2 A. P = U×I = 32 W.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-003",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Dva rezistory 4 Ω a 6 Ω sú v sérii na zdroji 20 V. Aký je ich spoločný elektrický príkon vo W? Najprv urči prúd.",
+    "options": [],
+    "answer": [
+      "40",
+      "40 W"
+    ],
+    "explanation": "R = 4+6 = 10 Ω. I = U/R = 20/10 = 2 A. P = U×I = 40 W.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-004",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Dva rezistory 5 Ω a 7 Ω sú v sérii na zdroji 24 V. Aký je ich spoločný elektrický príkon vo W? Najprv urči prúd.",
+    "options": [],
+    "answer": [
+      "48",
+      "48 W"
+    ],
+    "explanation": "R = 5+7 = 12 Ω. I = U/R = 24/12 = 2 A. P = U×I = 48 W.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-005",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Dva rezistory 6 Ω a 8 Ω sú v sérii na zdroji 28 V. Aký je ich spoločný elektrický príkon vo W? Najprv urči prúd.",
+    "options": [],
+    "answer": [
+      "56",
+      "56 W"
+    ],
+    "explanation": "R = 6+8 = 14 Ω. I = U/R = 28/14 = 2 A. P = U×I = 56 W.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-006",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Dva rezistory 7 Ω a 9 Ω sú v sérii na zdroji 32 V. Aký je ich spoločný elektrický príkon vo W? Najprv urči prúd.",
+    "options": [],
+    "answer": [
+      "64",
+      "64 W"
+    ],
+    "explanation": "R = 7+9 = 16 Ω. I = U/R = 32/16 = 2 A. P = U×I = 64 W.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-007",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Dva rezistory 8 Ω a 10 Ω sú v sérii na zdroji 36 V. Aký je ich spoločný elektrický príkon vo W? Najprv urči prúd.",
+    "options": [],
+    "answer": [
+      "72",
+      "72 W"
+    ],
+    "explanation": "R = 8+10 = 18 Ω. I = U/R = 36/18 = 2 A. P = U×I = 72 W.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-008",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Dva rezistory 9 Ω a 11 Ω sú v sérii na zdroji 40 V. Aký je ich spoločný elektrický príkon vo W? Najprv urči prúd.",
+    "options": [],
+    "answer": [
+      "80",
+      "80 W"
+    ],
+    "explanation": "R = 9+11 = 20 Ω. I = U/R = 40/20 = 2 A. P = U×I = 80 W.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-009",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Dva rezistory 10 Ω a 12 Ω sú v sérii na zdroji 44 V. Aký je ich spoločný elektrický príkon vo W? Najprv urči prúd.",
+    "options": [],
+    "answer": [
+      "88",
+      "88 W"
+    ],
+    "explanation": "R = 10+12 = 22 Ω. I = U/R = 44/22 = 2 A. P = U×I = 88 W.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-010",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Dva rezistory 11 Ω a 13 Ω sú v sérii na zdroji 48 V. Aký je ich spoločný elektrický príkon vo W? Najprv urči prúd.",
+    "options": [],
+    "answer": [
+      "96",
+      "96 W"
+    ],
+    "explanation": "R = 11+13 = 24 Ω. I = U/R = 48/24 = 2 A. P = U×I = 96 W.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-011",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Motor má užitočný mechanický výkon 48 W a účinnosť 80 %. Napájanie má 12 V. Aký prúd odoberá v A? Zaokrúhľovanie nie je potrebné.",
+    "options": [],
+    "answer": [
+      "5",
+      "5 A"
+    ],
+    "explanation": "Príkon P = 48/0,8 = 60 W. Prúd I = P/U = 60/12 = 5 A.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-012",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Motor má užitočný mechanický výkon 57.6 W a účinnosť 80 %. Napájanie má 12 V. Aký prúd odoberá v A? Zaokrúhľovanie nie je potrebné.",
+    "options": [],
+    "answer": [
+      "6",
+      "6 A"
+    ],
+    "explanation": "Príkon P = 57.6/0,8 = 72 W. Prúd I = P/U = 72/12 = 6 A.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-013",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Motor má užitočný mechanický výkon 67.2 W a účinnosť 80 %. Napájanie má 12 V. Aký prúd odoberá v A? Zaokrúhľovanie nie je potrebné.",
+    "options": [],
+    "answer": [
+      "7",
+      "7 A"
+    ],
+    "explanation": "Príkon P = 67.2/0,8 = 84 W. Prúd I = P/U = 84/12 = 7 A.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-014",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Motor má užitočný mechanický výkon 76.8 W a účinnosť 80 %. Napájanie má 12 V. Aký prúd odoberá v A? Zaokrúhľovanie nie je potrebné.",
+    "options": [],
+    "answer": [
+      "8",
+      "8 A"
+    ],
+    "explanation": "Príkon P = 76.8/0,8 = 96 W. Prúd I = P/U = 96/12 = 8 A.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-015",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Motor má užitočný mechanický výkon 86.4 W a účinnosť 80 %. Napájanie má 12 V. Aký prúd odoberá v A? Zaokrúhľovanie nie je potrebné.",
+    "options": [],
+    "answer": [
+      "9",
+      "9 A"
+    ],
+    "explanation": "Príkon P = 86.4/0,8 = 108 W. Prúd I = P/U = 108/12 = 9 A.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-016",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Motor má užitočný mechanický výkon 96 W a účinnosť 80 %. Napájanie má 12 V. Aký prúd odoberá v A? Zaokrúhľovanie nie je potrebné.",
+    "options": [],
+    "answer": [
+      "10",
+      "10 A"
+    ],
+    "explanation": "Príkon P = 96/0,8 = 120 W. Prúd I = P/U = 120/12 = 10 A.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-017",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Motor má užitočný mechanický výkon 105.6 W a účinnosť 80 %. Napájanie má 12 V. Aký prúd odoberá v A? Zaokrúhľovanie nie je potrebné.",
+    "options": [],
+    "answer": [
+      "11",
+      "11 A"
+    ],
+    "explanation": "Príkon P = 105.6/0,8 = 132 W. Prúd I = P/U = 132/12 = 11 A.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-018",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Motor má užitočný mechanický výkon 115.2 W a účinnosť 80 %. Napájanie má 12 V. Aký prúd odoberá v A? Zaokrúhľovanie nie je potrebné.",
+    "options": [],
+    "answer": [
+      "12",
+      "12 A"
+    ],
+    "explanation": "Príkon P = 115.2/0,8 = 144 W. Prúd I = P/U = 144/12 = 12 A.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-019",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Motor má užitočný mechanický výkon 124.8 W a účinnosť 80 %. Napájanie má 12 V. Aký prúd odoberá v A? Zaokrúhľovanie nie je potrebné.",
+    "options": [],
+    "answer": [
+      "13",
+      "13 A"
+    ],
+    "explanation": "Príkon P = 124.8/0,8 = 156 W. Prúd I = P/U = 156/12 = 13 A.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
+    ]
+  },
+  {
+    "id": "TO-ADV-020",
+    "version": 1,
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Motor má užitočný mechanický výkon 134.4 W a účinnosť 80 %. Napájanie má 12 V. Aký prúd odoberá v A? Zaokrúhľovanie nie je potrebné.",
+    "options": [],
+    "answer": [
+      "14",
+      "14 A"
+    ],
+    "explanation": "Príkon P = 134.4/0,8 = 168 W. Prúd I = P/U = 168/12 = 14 A.",
+    "difficulty": 3,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná viacstupňová cvičná úloha"
+    },
+    "tags": [
+      "Olympijská výzva"
     ]
   }
 ]

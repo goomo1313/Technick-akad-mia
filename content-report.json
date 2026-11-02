@@ -1,51 +1,51 @@
 {
-  "questions": 700,
-  "tests": 215,
+  "questions": 720,
+  "tests": 217,
   "topics": {
     "Drevo a kovy": {
-      "all": 49,
-      "A": 49,
-      "B": 44
+      "all": 45,
+      "A": 45,
+      "B": 41
     },
     "Technická dokumentácia": {
-      "all": 49,
-      "A": 49,
-      "B": 39
+      "all": 66,
+      "A": 66,
+      "B": 57
     },
     "Stroje a mechanizmy": {
-      "all": 54,
-      "A": 54,
-      "B": 27
+      "all": 77,
+      "A": 77,
+      "B": 44
     },
     "Elektrotechnika": {
-      "all": 59,
-      "A": 59,
-      "B": 20
-    },
-    "Materiály": {
-      "all": 154,
-      "A": 154,
-      "B": 142
-    },
-    "Bezpečnosť pri práci": {
-      "all": 37,
-      "A": 37,
+      "all": 85,
+      "A": 85,
       "B": 37
     },
+    "Materiály": {
+      "all": 163,
+      "A": 163,
+      "B": 153
+    },
+    "Bezpečnosť pri práci": {
+      "all": 25,
+      "A": 25,
+      "B": 25
+    },
     "Domové inštalácie": {
-      "all": 24,
-      "A": 24,
-      "B": 21
+      "all": 20,
+      "A": 20,
+      "B": 19
     },
     "Energetika a doprava": {
-      "all": 28,
-      "A": 28,
-      "B": 20
+      "all": 21,
+      "A": 21,
+      "B": 14
     },
     "Automatizácia a digitálna technika": {
-      "all": 24,
-      "A": 24,
-      "B": 21
+      "all": 16,
+      "A": 16,
+      "B": 14
     },
     "Meranie a technické výpočty": {
       "all": 27,
@@ -53,14 +53,14 @@
       "B": 24
     },
     "Výroba a remeslá": {
-      "all": 22,
-      "A": 22,
-      "B": 20
+      "all": 17,
+      "A": 17,
+      "B": 16
     },
     "Pravouhlé premietanie": {
-      "all": 58,
-      "A": 58,
-      "B": 55
+      "all": 56,
+      "A": 56,
+      "B": 53
     },
     "Vynálezcovia a dejiny techniky": {
       "all": 25,
@@ -68,20 +68,20 @@
       "B": 25
     },
     "Recyklácia a triedenie odpadu": {
-      "all": 42,
-      "A": 42,
-      "B": 42
+      "all": 32,
+      "A": 32,
+      "B": 32
     },
     "Dreviny a prírodné materiály": {
-      "all": 48,
-      "A": 48,
-      "B": 48
+      "all": 45,
+      "A": 45,
+      "B": 45
     }
   },
   "types": {
     "mc": 537,
     "fill": 46,
-    "short": 75,
+    "short": 95,
     "match": 42
   },
   "projection": {
@@ -95,10 +95,10 @@
     "archivedQuestions": 40
   },
   "botanical": {
-    "illustrations": 24,
+    "photos": 20,
+    "photoTasks": 24,
     "trees": 12,
-    "imageQuestions": 24,
-    "style": "schematic"
+    "style": "photographs"
   },
   "extension": {
     "questions": 200,
@@ -115,5 +115,10 @@
       "Terminológia materiálov a drevín",
       "Súvislosti a priraďovanie"
     ]
+  },
+  "qualityReview": {
+    "replaced": 100,
+    "advancedAdded": 20,
+    "photoTasks": 24
   }
 }

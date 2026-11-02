@@ -39,9 +39,13 @@ Obrázkové úlohy používajú diagram: {kind: solid, image, alt, objectId, tar
 
 Nové výpočtové otázky majú concept a calculation s operandmi pre nezávislé overenie aritmetiky. Výber náročnosti filtruje otázky; katalóg má hľadanie, druh zostavy a postupné načítanie. Zdroje a pedagogická metodika sú v sources.html.
 
-## Rozšírenie na 700 otázok
-Pridaných 200 otázok bez zmeny pôvodných 500. Aktuálne 15 okruhov a 215 zostáv. A: 700 otázok, B: 585; ide o prekrývajúce sa kategórie, nie dve oddelené databázy. Nové súhrnné zostavy v každej kategórii rozdeľujú iba pridané otázky; existujúce zostavy zostávajú nezmenené. Tematické zostavy sú podľa tags (hlina, plasty, kovy, textílie, kompozity, triedenie, dreviny).
+## Rozšírenie na 720 otázok
+Pridaných 200 otázok bez zmeny pôvodných 500. Aktuálne 15 okruhov a 215 zostáv. A: 720 otázok, B: 585; ide o prekrývajúce sa kategórie, nie dve oddelené databázy. Nové súhrnné zostavy v každej kategórii rozdeľujú iba pridané otázky; existujúce zostavy zostávajú nezmenené. Tematické zostavy sú podľa tags (hlina, plasty, kovy, textílie, kompozity, triedenie, dreviny).
 
 Nový diagram.kind = botanical používa image, alt a caption. Ide o 24 vlastných SVG ilustrácií 12 drevín v assets/trees. Tréning sa spúšťa aj tlačidlom Rozpoznávanie drevín. Ilustrácie nemajú názvy drevín priamo v obrázku a slúžia ako schematická pomôcka.
 
 Otázky o odpade majú reviewedAt a collectionContext. Farebné otázky uvádzajú predpokladaný zberový systém. Vlastnosti materiálov sú viazané na konkrétny druh a použitie, nie paušálne na všetky plasty alebo textílie.
+
+
+## Revízia kvality
+100 otázok prepracovaných na rozlišovanie príbuzných pojmov, 20 nových viacstupňových úloh A. Aktuálne 720 otázok. Staré znenia sú v archíve. Fotografie nahradili botanické SVG; údaje o licenciách sú v photo-credits.json a photo-credits.html. enhancements.js pridáva toleranciu zápisu jednotiek, lokálne rozpracované pokusy, navigáciu otázok, označenie na návrat, denný tréning, spoločný tréning chýb a prehľad tém zo skúšobných testov.

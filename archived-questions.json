@@ -1623,5 +1623,2567 @@
       "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
     },
     "version": 1
+  },
+  {
+    "id": "TO-EXT-100",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo najlepšie vystihuje zodpovedný výber materiálu?",
+    "options": [
+      "Vhodná funkcia spolu s životnosťou, opraviteľnosťou a koncom použitia",
+      "Iba najvýraznejšia farba",
+      "Výhradne jednorazovosť",
+      "Ignorovanie odpadu a opráv"
+    ],
+    "answer": "Vhodná funkcia spolu s životnosťou, opraviteľnosťou a koncom použitia",
+    "explanation": "Rozhodnutie ovplyvňuje výrobu, používanie aj odpadový tok.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-117",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Kam patrí pokazený elektrický spotrebič?",
+    "options": [
+      "Do určeného spätného zberu elektroodpadu alebo zberného miesta",
+      "Do koša na papier",
+      "Do nádoby na potraviny",
+      "Do lesa"
+    ],
+    "answer": "Do určeného spätného zberu elektroodpadu alebo zberného miesta",
+    "explanation": "Elektroodpad má osobitný zber pre materiály aj možné rizikové zložky.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-257",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Domové inštalácie",
+    "type": "mc",
+    "prompt": "Čo urobí žiak pri podozrení na únik plynu v budove?",
+    "options": [
+      "Opustí nebezpečný priestor a upozorní dospelého bez vytvárania iskier",
+      "Skúsi únik zapálenou zápalkou",
+      "Opakovane zapína vypínače",
+      "Hľadá dieru otvoreným plameňom"
+    ],
+    "answer": "Opustí nebezpečný priestor a upozorní dospelého bez vytvárania iskier",
+    "explanation": "Únik plynu môže vytvoriť výbušnú atmosféru. Nevykonávajú sa pokusy o opravu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "referenceUrls": []
+  },
+  {
+    "id": "TO-176",
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Čo označuje účinnosť mechanizmu?",
+    "options": [
+      "Podiel užitočného výstupu a dodaného vstupu energie alebo výkonu",
+      "Počet skrutiek bez jednotky",
+      "Farbu krytu",
+      "Hmotnosť výkresu"
+    ],
+    "answer": "Podiel užitočného výstupu a dodaného vstupu energie alebo výkonu",
+    "explanation": "Straty trením a ďalšími javmi znižujú užitočný výstup.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-250",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Domové inštalácie",
+    "type": "mc",
+    "prompt": "Čo robí zápachová uzávierka, napríklad sifón pod umývadlom?",
+    "options": [
+      "Vodnou prekážkou obmedzuje prenikanie zápachu z kanalizácie",
+      "Vyrába elektrický prúd",
+      "Zvyšuje teplotu vody",
+      "Meria hladinu plynu"
+    ],
+    "answer": "Vodnou prekážkou obmedzuje prenikanie zápachu z kanalizácie",
+    "explanation": "Vodná náplň sifónu vytvára bariéru medzi miestnosťou a kanalizáciou.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "referenceUrls": []
+  },
+  {
+    "id": "TO-EXT-127",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Prečo do kontajnera na obalové sklo nedáme zrkadlo?",
+    "options": [
+      "Má odlišnú materiálovú úpravu a nie je bežným obalovým sklom",
+      "Je vždy vyrobené z bavlny",
+      "Vždy patrí do papiera",
+      "Nemá žiadny materiál"
+    ],
+    "answer": "Má odlišnú materiálovú úpravu a nie je bežným obalovým sklom",
+    "explanation": "Postup pre zrkadlo určuje obec alebo príslušné zberné miesto.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-017",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je vhodné pri upratovaní jemného keramického prachu v škole?",
+    "options": [
+      "Obmedziť vírenie a postupovať podľa učiteľa vhodným vlhkým čistením",
+      "Rozfúkať prach do priestoru",
+      "Ometávať odev spolužiaka do tváre",
+      "Zámerne skúšať vôňu prachu"
+    ],
+    "answer": "Obmedziť vírenie a postupovať podľa učiteľa vhodným vlhkým čistením",
+    "explanation": "Jemný minerálny prach sa nemá vdychovať ani zbytočne víriť.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-276",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Energetika a doprava",
+    "type": "mc",
+    "prompt": "Čo umožňuje spojka v bežnom manuálnom aute?",
+    "options": [
+      "Dočasne prerušiť prenos momentu medzi motorom a prevodovkou",
+      "Zmeniť benzín na plyn",
+      "Zväčšiť nádrž",
+      "Otvárať prívod pitnej vody"
+    ],
+    "answer": "Dočasne prerušiť prenos momentu medzi motorom a prevodovkou",
+    "explanation": "Rozpojenie pohonu uľahčuje radenie a rozjazd.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-PROJ-T04",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Ako postupovať pri výbere správneho priemetu technického dielu?",
+    "options": [
+      "Najprv určiť smer pohľadu a potom obrys aj viditeľné hrany",
+      "Vybrať najväčší obrázok",
+      "Vybrať obrázok podľa farby",
+      "Ignorovať šípku smeru"
+    ],
+    "answer": "Najprv určiť smer pohľadu a potom obrys aj viditeľné hrany",
+    "explanation": "Rovnaký diel má z rôznych smerov odlišné priemety. Porovnáva sa tvar aj poloha jeho hrán.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-EXT-078",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je netkaná textília?",
+    "options": [
+      "Textília spevnená z vlákien bez klasického tkania alebo pletenia",
+      "Každý oceľový plech",
+      "Výhradne osnova pre tkáčsky stav",
+      "Iba neopracované drevo"
+    ],
+    "answer": "Textília spevnená z vlákien bez klasického tkania alebo pletenia",
+    "explanation": "Vlákna možno spájať mechanicky, tepelne alebo spojivom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-151",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Čo je letokruh v dreve mierneho pásma v základnom školskom modeli?",
+    "options": [
+      "Vrstva dreva vytvorená počas jedného rastového obdobia",
+      "Každý otvor po hmyze",
+      "Vždy iba vonkajšia kôra",
+      "Kovová výstuž kmeňa"
+    ],
+    "answer": "Vrstva dreva vytvorená počas jedného rastového obdobia",
+    "explanation": "Letokruhy sa dajú sledovať najmä na priečnom reze kmeňa.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-EXT-032",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo sa pri vstrekovaní termoplastu deje vo forme?",
+    "options": [
+      "Roztavený materiál ju vyplní a po ochladení vytvorí diel",
+      "Vždy sa iba ručne tká",
+      "Kov sa mení na bavlnu",
+      "Materiál nemôže meniť tvar"
+    ],
+    "answer": "Roztavený materiál ju vyplní a po ochladení vytvorí diel",
+    "explanation": "Vstrekovanie umožňuje opakovanú výrobu tvarovaných plastových súčiastok.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-042",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo znamená kujnosť kovu?",
+    "options": [
+      "Schopnosť meniť tvar tlakom alebo údermi bez porušenia",
+      "Vždy vysokú nasiakavosť",
+      "Trvalú tekutosť v chlade",
+      "Nemožnosť deformácie"
+    ],
+    "answer": "Schopnosť meniť tvar tlakom alebo údermi bez porušenia",
+    "explanation": "Tvárnosť umožňuje procesy ako kovanie alebo valcovanie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-240",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Kedy môže žiak použiť dielenský stroj?",
+    "options": [
+      "Po poučení a so súhlasom a dohľadom podľa pravidiel školy",
+      "Keď ho náhodou nájde zapnutý",
+      "Kedykoľvek bez dovolenia",
+      "Iba ak nepozná vypínač"
+    ],
+    "answer": "Po poučení a so súhlasom a dohľadom podľa pravidiel školy",
+    "explanation": "Použitie stroja závisí od veku, poučenia a pravidiel pracoviska.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-329",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Výroba a remeslá",
+    "type": "mc",
+    "prompt": "Čo je lisovanie?",
+    "options": [
+      "Tvarovanie alebo spájanie pôsobením tlaku v nástroji",
+      "Meranie rýchlosti vetra",
+      "Náhodné miešanie farieb",
+      "Vždy vyparovanie kovu"
+    ],
+    "answer": "Tvarovanie alebo spájanie pôsobením tlaku v nástroji",
+    "explanation": "Lis prenáša silu cez nástroj na spracúvaný materiál.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-333",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Výroba a remeslá",
+    "type": "mc",
+    "prompt": "Čo je kusová výroba?",
+    "options": [
+      "Výroba jednotlivých výrobkov alebo malého počtu osobitých kusov",
+      "Vždy milión rovnakých dielov denne",
+      "Iba recyklovanie vody",
+      "Výhradne výroba elektriny"
+    ],
+    "answer": "Výroba jednotlivých výrobkov alebo malého počtu osobitých kusov",
+    "explanation": "Kusová výroba sa prispôsobuje konkrétnemu zadaniu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-EXT-139",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Kam patrí stavebná suť z rozbitých tehál pri väčšej oprave?",
+    "options": [
+      "Do systému zberu stavebného odpadu podľa miestnych podmienok",
+      "Do kontajnera na obalové sklo",
+      "Do modrého papiera",
+      "Do nádoby na kuchynský bioodpad"
+    ],
+    "answer": "Do systému zberu stavebného odpadu podľa miestnych podmienok",
+    "explanation": "Stavebný materiál nie je bežným obalovým sklom ani papierom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-246",
+    "categories": [
+      "A"
+    ],
+    "topic": "Domové inštalácie",
+    "type": "mc",
+    "prompt": "Je obyčajný samostatný RCD automaticky aj ochranou proti preťaženiu?",
+    "options": [
+      "Nie, pokiaľ nemá aj integrovanú nadprúdovú ochranu",
+      "Áno, každý bez výnimky",
+      "Áno, ak je modrý",
+      "Áno, ak je v kuchyni"
+    ],
+    "answer": "Nie, pokiaľ nemá aj integrovanú nadprúdovú ochranu",
+    "explanation": "Kombinovaný prístroj RCBO má aj nadprúdovú ochranu, samostatný RCD ju mať nemusí.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "referenceUrls": [
+      "https://www.se.com/nz/en/faqs/FAQ000210095/"
+    ]
+  },
+  {
+    "id": "TO-336",
+    "categories": [
+      "A"
+    ],
+    "topic": "Výroba a remeslá",
+    "type": "mc",
+    "prompt": "Čo je kalenie ocele v základnom školskom opise?",
+    "options": [
+      "Tepelné spracovanie na zvýšenie tvrdosti vhodnej ocele",
+      "Natieranie vodovou farbou",
+      "Pridanie drevených vlákien",
+      "Zmeranie odporu batérie"
+    ],
+    "answer": "Tepelné spracovanie na zvýšenie tvrdosti vhodnej ocele",
+    "explanation": "Pri kalení sa používa riadený ohrev a ochladzovanie podľa druhu ocele.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-083",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Ako máš prenášať ostrý nástroj?",
+    "options": [
+      "Za rukoväť, s ostrím bezpečne od tela a ostatných",
+      "Za ostrie",
+      "Hádzať ho spolužiakovi",
+      "Skrytý voľne vo vrecku"
+    ],
+    "answer": "Za rukoväť, s ostrím bezpečne od tela a ostatných",
+    "explanation": "Ostrie sa pri prenášaní orientuje bezpečne; podľa nástroja sa používa ochranný kryt.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-171",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Čo je klin ako jednoduchý stroj?",
+    "options": [
+      "Dve spojené naklonené roviny oddeľujúce materiál",
+      "Elektrická poistka",
+      "Kruhové ložisko",
+      "Dutá izolovaná hadica"
+    ],
+    "answer": "Dve spojené naklonené roviny oddeľujúce materiál",
+    "explanation": "Klin premieňa pôsobiacu silu na bočné oddeľovanie materiálu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-289",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Automatizácia a digitálna technika",
+    "type": "mc",
+    "prompt": "Čo je mikroprocesor alebo mikrokontrolér v školskom modeli?",
+    "options": [
+      "Elektronická časť spracúvajúca program a signály",
+      "Výhradne zdroj vody",
+      "Mechanická prevodovka",
+      "Stojan na vrtáky"
+    ],
+    "answer": "Elektronická časť spracúvajúca program a signály",
+    "explanation": "Programovateľná elektronika môže čítať vstupy a riadiť výstupy.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-EXT-010",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Na čo slúži keramický výpal?",
+    "options": [
+      "Na spevnenie a premenu keramickej hmoty vysokou teplotou",
+      "Len na označenie mena výrobcu",
+      "Na výrobu bavlnených vlákien",
+      "Na opätovné zvlhčenie výrobku"
+    ],
+    "answer": "Na spevnenie a premenu keramickej hmoty vysokou teplotou",
+    "explanation": "Teplota a priebeh výpalu sa volia podľa konkrétnej hmoty.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-EXT-029",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorý výrok o plastoch je presný?",
+    "options": [
+      "Ich vlastnosti závisia od druhu polyméru, prísad a výroby",
+      "Všetky sú pružné ako guma",
+      "Všetky sa rozkladajú za týždeň",
+      "Všetky sú dokonale priehľadné"
+    ],
+    "answer": "Ich vlastnosti závisia od druhu polyméru, prísad a výroby",
+    "explanation": "Plasty tvoria širokú skupinu rozdielnych materiálov.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-075",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo označuje rub látky?",
+    "options": [
+      "Zadnú alebo vnútornú stranu podľa konštrukcie a použitia",
+      "Vždy kovový povlak",
+      "Výhradne okraj každého vlákna",
+      "Iba smer tkania"
+    ],
+    "answer": "Zadnú alebo vnútornú stranu podľa konštrukcie a použitia",
+    "explanation": "Rozlíšenie líca a rubu pomáha pri strihaní a zošívaní.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-278",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Energetika a doprava",
+    "type": "mc",
+    "prompt": "Čo znamená výhoda verejnej dopravy pri dobrom obsadení?",
+    "options": [
+      "Preprava viacerých ľudí jedným vozidlom môže znížiť spotrebu na osobu",
+      "Každý autobus vždy potrebuje nulovú energiu",
+      "Vozidlá nepotrebujú údržbu",
+      "Každý spoj je vždy plný"
+    ],
+    "answer": "Preprava viacerých ľudí jedným vozidlom môže znížiť spotrebu na osobu",
+    "explanation": "Výsledok závisí od obsadenosti, vozidla a podmienok.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-300",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Automatizácia a digitálna technika",
+    "type": "mc",
+    "prompt": "Aký princíp má automatická závlaha podľa vlhkosti substrátu?",
+    "options": [
+      "Snímač poskytne údaj a riadenie podľa neho ovláda čerpadlo",
+      "Čerpadlo beží vždy bez podmienky",
+      "Vlhkosť sa meria farbou kábla",
+      "Voda sa tvorí v programe"
+    ],
+    "answer": "Snímač poskytne údaj a riadenie podľa neho ovláda čerpadlo",
+    "explanation": "Vstup, rozhodovanie a výstup tvoria funkčný riadiaci reťazec.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-EXT-080",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktoré porovnanie je primerané?",
+    "options": [
+      "Vlna môže dobre izolovať vďaka štruktúre vlákien a zadržanému vzduchu",
+      "Každá bavlna je úplne vodotesná",
+      "Každý polyester sa rozloží v záhrade za deň",
+      "Hodváb je kovová zliatina"
+    ],
+    "answer": "Vlna môže dobre izolovať vďaka štruktúre vlákien a zadržanému vzduchu",
+    "explanation": "Vlastnosti látky ovplyvňuje druh vlákna, väzba, hrúbka aj úprava.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-088",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je príkladom sendvičovej konštrukcie?",
+    "options": [
+      "Ľahké jadro medzi pevnejšími povrchovými vrstvami",
+      "Jediná plná medená guľa",
+      "Čistá voda vo vedre",
+      "Samotná vlnená niť"
+    ],
+    "answer": "Ľahké jadro medzi pevnejšími povrchovými vrstvami",
+    "explanation": "Oddelenie pevných vrstiev ľahkým jadrom môže zvýšiť ohybovú tuhosť pri nízkej hmotnosti.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-091",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktoré porovnanie ocele a skla vystihuje bežné správanie?",
+    "options": [
+      "Vhodná oceľ sa môže plasticky deformovať, sklo je typicky krehké",
+      "Sklo je vždy kujnejšie než oceľ",
+      "Oceľ je vždy priehľadná",
+      "Oba materiály sa vždy správajú rovnako"
+    ],
+    "answer": "Vhodná oceľ sa môže plasticky deformovať, sklo je typicky krehké",
+    "explanation": "Konkrétne vlastnosti závisia aj od úprav, ale základné rozdiely sú podstatné.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-114",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Je potrebné každý mierne znečistený plastový obal drhnúť horúcou vodou do sterility?",
+    "options": [
+      "Nie, dôležité je vyprázdnenie a odstránenie hrubých zvyškov podľa pokynov",
+      "Áno, musí byť sterilný ako zdravotnícka pomôcka",
+      "Áno, vždy s množstvom chemikálií",
+      "Nie, obal môže zostať naplnený jedlom"
+    ],
+    "answer": "Nie, dôležité je vyprázdnenie a odstránenie hrubých zvyškov podľa pokynov",
+    "explanation": "Pri triedení nemrháme zbytočne vodou, no obaly nemajú obsahovať veľké zvyšky.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-123",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Čo urobíš s prázdnym papierovým obalom, ktorý má ľahko oddeliteľnú plastovú vložku?",
+    "options": [
+      "Oddelím materiály a roztriedim ich podľa miestnych pokynov",
+      "Vždy ich musím navždy zlepiť",
+      "Všetko automaticky patrí do skla",
+      "Obal povinne spálim"
+    ],
+    "answer": "Oddelím materiály a roztriedim ich podľa miestnych pokynov",
+    "explanation": "Jednoducho oddeliteľné zložky majú vlastné odpadové toky.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-068",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo označuje húževnatosť materiálu?",
+    "options": [
+      "Schopnosť odolávať porušeniu a pohlcovať energiu pri deformácii",
+      "Schopnosť vždy viesť prúd",
+      "Schopnosť rozpustiť sa v studenej vode",
+      "Hmotnosť presne jedného litra"
+    ],
+    "answer": "Schopnosť odolávať porušeniu a pohlcovať energiu pri deformácii",
+    "explanation": "Húževnaté materiály sa pred porušením môžu výraznejšie deformovať.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-129",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Na čo je vhodná drevená alebo gumová palička?",
+    "options": [
+      "Na údery, pri ktorých nechceme povrch ľahko poškodiť",
+      "Na meranie prúdu",
+      "Na rezanie závitu",
+      "Na kontrolu drsnosti číslom"
+    ],
+    "answer": "Na údery, pri ktorých nechceme povrch ľahko poškodiť",
+    "explanation": "Mäkšia pracovná časť obmedzuje otlačenie citlivého povrchu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-260",
+    "categories": [
+      "A"
+    ],
+    "topic": "Domové inštalácie",
+    "type": "mc",
+    "prompt": "Načo slúži ochranné pospájanie určených vodivých častí?",
+    "options": [
+      "Na zníženie nebezpečných rozdielov potenciálov pri poruche",
+      "Na nahradenie kanalizačného spádu",
+      "Na zvýšenie počtu zásuviek",
+      "Na meranie spotreby vody"
+    ],
+    "answer": "Na zníženie nebezpečných rozdielov potenciálov pri poruche",
+    "explanation": "Pospájanie je súčasť ochrannej sústavy; jeho návrh a overenie patria odborníkom.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "referenceUrls": []
+  },
+  {
+    "id": "TO-EXT-071",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo označuje priadza?",
+    "options": [
+      "Súvislý útvar z vlákien vhodný na výrobu textílií",
+      "Len hotový kovový výkres",
+      "Každý list dreviny",
+      "Výhradne plastovú dosku"
+    ],
+    "answer": "Súvislý útvar z vlákien vhodný na výrobu textílií",
+    "explanation": "Priadza môže byť vytvorená z krátkych vlákien alebo nekonečných filamentov.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-157",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Prečo neplatí, že každé listnaté drevo je tvrdšie než každé ihličnaté?",
+    "options": [
+      "Tvrdosť závisí od druhu a vlastností dreva, nie iba od listov",
+      "Listnaté dreviny nemajú drevo",
+      "Všetky drevá sú presne rovnako tvrdé",
+      "Ihličnaté drevo je vždy kov"
+    ],
+    "answer": "Tvrdosť závisí od druhu a vlastností dreva, nie iba od listov",
+    "explanation": "Rozdelenie drevín podľa listov samo nevystihuje všetky technické vlastnosti.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-193",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Čo je elektrická schéma?",
+    "options": [
+      "Zjednodušené znázornenie zapojenia dohodnutými značkami",
+      "Fotografia obalu",
+      "Zoznam cien výrobku",
+      "Náčrt pôdorysu školy bez obvodu"
+    ],
+    "answer": "Zjednodušené znázornenie zapojenia dohodnutými značkami",
+    "explanation": "Schéma ukazuje elektrické väzby, nie nevyhnutne fyzické rozmiestnenie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-EXT-097",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je funkčná požiadavka na materiál pracovnej dosky?",
+    "options": [
+      "Odolnosť voči predpokladanému zaťaženiu a používaniu",
+      "Iba príjemný názov materiálu",
+      "Výhradne najvyššia cena",
+      "Povinne nulová hrúbka"
+    ],
+    "answer": "Odolnosť voči predpokladanému zaťaženiu a používaniu",
+    "explanation": "Rozhoduje skutočný účel, napríklad nárazy, vlhkosť a čistenie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-108",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Ako pripravíme riadne označenú zálohovanú PET fľašu na vrátenie?",
+    "options": [
+      "Vyprázdnenú, nestlačenú a s čitateľným označením",
+      "Rozstrihanú na kúsky",
+      "Spálenú",
+      "Naplnenú použitým olejom"
+    ],
+    "answer": "Vyprázdnenú, nestlačenú a s čitateľným označením",
+    "explanation": "Rozpoznanie obalu vyžaduje zachované identifikačné údaje a tvar podľa systému.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.minzp.sk/zalohovanie/najcastejsie-otazky.html"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-138",
+    "categories": [
+      "A"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Čo je pri spájkovaní typické v porovnaní s tavným zváraním?",
+    "options": [
+      "Taví sa spájka, základné diely sa nemusia roztaviť",
+      "Vždy sa taví celý diel",
+      "Spoj nemôže viesť elektrinu",
+      "Spájka je vždy drevená"
+    ],
+    "answer": "Taví sa spájka, základné diely sa nemusia roztaviť",
+    "explanation": "Spájka má nižšiu teplotu tavenia než spájané základné materiály.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-234",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Čo je vhodné pred prácou ručnou pílou?",
+    "options": [
+      "Skontrolovať stav nástroja a upevnenie obrobku",
+      "Zatvoriť oči",
+      "Odstrániť rukoväť",
+      "Uvoľniť všetky upínadlá"
+    ],
+    "answer": "Skontrolovať stav nástroja a upevnenie obrobku",
+    "explanation": "Poškodený nástroj alebo nestabilný diel zvyšuje riziko úrazu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-268",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Energetika a doprava",
+    "type": "mc",
+    "prompt": "Čo je tepelná strata domu?",
+    "options": [
+      "Teplo unikajúce z vykurovaného priestoru do okolia",
+      "Elektrická kapacita batérie",
+      "Počet dverí bez jednotky",
+      "Celá hmotnosť stavby"
+    ],
+    "answer": "Teplo unikajúce z vykurovaného priestoru do okolia",
+    "explanation": "Prestup tepla a vetranie ovplyvňujú potrebu vykurovania.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-284",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Automatizácia a digitálna technika",
+    "type": "mc",
+    "prompt": "Čím sa časovač odlišuje od termostatu?",
+    "options": [
+      "Riadi podľa času, nie priamo podľa nameranej teploty",
+      "Vždy meria teplotu presnejšie",
+      "Nikdy nepotrebuje napájanie",
+      "Je to názov kladky"
+    ],
+    "answer": "Riadi podľa času, nie priamo podľa nameranej teploty",
+    "explanation": "Časové ovládanie bez snímača teploty nesleduje skutočné tepelné podmienky.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-EXT-030",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je elastomér?",
+    "options": [
+      "Polymér s výraznou vratnou pružnou deformáciou",
+      "Každý veľmi tvrdý kov",
+      "Druh keramickej pece",
+      "Názov uhlíkového vlákna"
+    ],
+    "answer": "Polymér s výraznou vratnou pružnou deformáciou",
+    "explanation": "Guma je typickým príkladom elastomérneho materiálu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-050",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je medenka v bežnom školskom opise?",
+    "options": [
+      "Zelenkastá korózna vrstva na medi alebo jej zliatinách",
+      "Červená hrdza výhradne na oceli",
+      "Druh plastového vlákna",
+      "Prášková hlina"
+    ],
+    "answer": "Zelenkastá korózna vrstva na medi alebo jej zliatinách",
+    "explanation": "Medené povrchy môžu časom meniť vzhľad pôsobením prostredia.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-062",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je pletenina?",
+    "options": [
+      "Textília vytvorená zo vzájomne previazaných očiek",
+      "Materiál vždy bez priadze",
+      "Výhradne tenká tabuľa skla",
+      "Každá zliatina medi"
+    ],
+    "answer": "Textília vytvorená zo vzájomne previazaných očiek",
+    "explanation": "Očková štruktúra býva poddajnejšia a rozťažnejšia než bežná tkanina.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-160",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Čo je vhodné pri školskom určovaní stromov podľa plodov?",
+    "options": [
+      "Pozorovať znaky a nepovažovať neznámy plod automaticky za jedlý",
+      "Každý nájdený plod ochutnať",
+      "Všetky červené plody označiť za bezpečné",
+      "Ochutnávaním určovať druh dreva"
+    ],
+    "answer": "Pozorovať znaky a nepovažovať neznámy plod automaticky za jedlý",
+    "explanation": "Poznávanie materiálových zdrojov nevyžaduje ochutnávanie neznámych rastlín.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Dreviny a drevo"
+    ]
+  },
+  {
+    "id": "TO-146",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "mc",
+    "prompt": "Aká je výhoda súmernosti súčiastky pri jej zobrazovaní?",
+    "options": [
+      "Možno využiť os súmernosti a prehľadnejšie kótovanie",
+      "Diel už nemá rozmery",
+      "Každý otvor musí zmiznúť",
+      "Nie sú potrebné žiadne pohľady"
+    ],
+    "answer": "Možno využiť os súmernosti a prehľadnejšie kótovanie",
+    "explanation": "Os súmernosti pomáha opisovať rovnaké časti tvaru.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-162",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Prečo majú stroje ochranné kryty nad prevodmi?",
+    "options": [
+      "Obmedzujú prístup k nebezpečným pohyblivým častiam",
+      "Zabezpečujú chod bez energie",
+      "Nahrádzajú brzdu vozidla",
+      "Zvyšujú počet zubov"
+    ],
+    "answer": "Obmedzujú prístup k nebezpečným pohyblivým častiam",
+    "explanation": "Ozubené kolesá, remene a reťaze môžu zachytiť telo alebo odev.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-223",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Kam patria odrezky a nepotrebné náradie počas práce?",
+    "options": [
+      "Na určené miesto mimo nebezpečnej pracovnej dráhy",
+      "Pod chodidlá obsluhy",
+      "Na rotujúci kotúč",
+      "Na okraj, odkiaľ môžu padať"
+    ],
+    "answer": "Na určené miesto mimo nebezpečnej pracovnej dráhy",
+    "explanation": "Poriadok znižuje riziko zakopnutia a nechceného kontaktu s nástrojom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-286",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Automatizácia a digitálna technika",
+    "type": "mc",
+    "prompt": "Na čo slúži podmienka v programe riadenia?",
+    "options": [
+      "Vyberá ďalší postup podľa splnenia kritéria",
+      "Vždy ukončí napájanie",
+      "Určuje tvrdosť skla",
+      "Mení iba farbu vodiča"
+    ],
+    "answer": "Vyberá ďalší postup podľa splnenia kritéria",
+    "explanation": "Príklad: ak je pôda suchá, zapni závlahu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-EXT-045",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorý materiál označujeme ako liatinu?",
+    "options": [
+      "Zliatinu železa s vyšším obsahom uhlíka než bežná oceľ",
+      "Každý plast určený na odlievanie",
+      "Čistú meď",
+      "Vypálenú glazúru"
+    ],
+    "answer": "Zliatinu železa s vyšším obsahom uhlíka než bežná oceľ",
+    "explanation": "Liatiny tvoria skupinu železných zliatin s dobrými zlievarenskými vlastnosťami.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-084",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Čo urobíš pri rozliatí kvapaliny v blízkosti elektrického zariadenia?",
+    "options": [
+      "Upozorním učiteľa a nedotýkam sa ohrozeného zariadenia",
+      "Utriem ju rukou za chodu",
+      "Vylejem na zariadenie ďalšiu vodu",
+      "Pokračujem bez upozornenia"
+    ],
+    "answer": "Upozorním učiteľa a nedotýkam sa ohrozeného zariadenia",
+    "explanation": "Kvapalina môže vytvoriť nebezpečnú vodivú cestu. Bezpečné riešenie riadi učiteľ.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-180",
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Čo je trecí prevod?",
+    "options": [
+      "Prenos pohybu vzájomným trením dotýkajúcich sa telies",
+      "Prenos výhradne rádiovými vlnami",
+      "Každý spoj bez dotyku",
+      "Samotná izolácia vodiča"
+    ],
+    "answer": "Prenos pohybu vzájomným trením dotýkajúcich sa telies",
+    "explanation": "Pri trecom prevode rozhoduje prítlak a vlastnosti dotykových povrchov.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-238",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Čo označuje značka zeleného kríža v bezpečnostnom kontexte?",
+    "options": [
+      "Miesto alebo prostriedky prvej pomoci",
+      "Zákaz vstupu",
+      "Horľavý materiál",
+      "Povinné rezanie"
+    ],
+    "answer": "Miesto alebo prostriedky prvej pomoci",
+    "explanation": "Zelená farba sa používa pre bezpečné podmienky a prvú pomoc.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-279",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Energetika a doprava",
+    "type": "mc",
+    "prompt": "Čo je batéria v ostrovnom solárnom systéme?",
+    "options": [
+      "Zásobník elektrickej energie získanej nabíjaním",
+      "Zdroj neobmedzenej energie",
+      "Náhrada všetkých poistiek",
+      "Meradlo zrážok"
+    ],
+    "answer": "Zásobník elektrickej energie získanej nabíjaním",
+    "explanation": "Akumulácia umožňuje používať časť získanej energie neskôr.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-281",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Automatizácia a digitálna technika",
+    "type": "mc",
+    "prompt": "Čo je senzor v technickom zariadení?",
+    "options": [
+      "Prvok zisťujúci stav alebo fyzikálnu veličinu",
+      "Výhradne motor",
+      "Každá mechanická skrutka",
+      "Len ochranný náter"
+    ],
+    "answer": "Prvok zisťujúci stav alebo fyzikálnu veličinu",
+    "explanation": "Senzor poskytuje informáciu pre riadenie alebo zobrazenie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-340",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Výroba a remeslá",
+    "type": "mc",
+    "prompt": "Čo je hospodárne rozloženie dielov na polotovare?",
+    "options": [
+      "Také, ktoré rešpektuje výrobu a obmedzuje odpad",
+      "Náhodné kreslenie cez seba",
+      "Zámerne najväčší odpad",
+      "Ignorovanie šírky rezu"
+    ],
+    "answer": "Také, ktoré rešpektuje výrobu a obmedzuje odpad",
+    "explanation": "Pri rozmiestnení sa počíta s prídavkami, rezom a smerom materiálu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-134",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Ktorý postup dáva zmysel pred lepením drevených dielov?",
+    "options": [
+      "Skúsiť spoj nasucho a pripraviť čisté styčné plochy",
+      "Plochy natrieť mastným olejom",
+      "Nechať medzi nimi hrubé triesky",
+      "Lepiť cez obalový papier"
+    ],
+    "answer": "Skúsiť spoj nasucho a pripraviť čisté styčné plochy",
+    "explanation": "Priliehanie a čistota plôch ovplyvňujú kvalitu lepeného spoja.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-232",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Kedy sa dotýkaš horúcej pracovnej časti spájkovačky?",
+    "options": [
+      "Nikdy holou rukou počas práce ani chladnutia",
+      "Len keď sa leskne",
+      "Vždy po vypnutí okamžite",
+      "Ak má tenký hrot"
+    ],
+    "answer": "Nikdy holou rukou počas práce ani chladnutia",
+    "explanation": "Hrot zostáva horúci aj určitý čas po odpojení.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-267",
+    "categories": [
+      "A"
+    ],
+    "topic": "Energetika a doprava",
+    "type": "mc",
+    "prompt": "Čo robí tepelné čerpadlo pri vykurovaní?",
+    "options": [
+      "Prenáša teplo z chladnejšieho zdroja pomocou dodanej práce",
+      "Vyrába energiu bez vstupu",
+      "Mení všetku elektrinu priamo na benzín",
+      "Nepotrebuje nikdy žiadny pohon"
+    ],
+    "answer": "Prenáša teplo z chladnejšieho zdroja pomocou dodanej práce",
+    "explanation": "Dodaná elektrina umožňuje presunúť aj teplo z okolitého prostredia.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-275",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Energetika a doprava",
+    "type": "mc",
+    "prompt": "Čo robí prevodovka automobilu?",
+    "options": [
+      "Prispôsobuje otáčky a moment podmienkam jazdy",
+      "Meria hladinu vody v dome",
+      "Nahrádza všetky kolesá",
+      "Vždy vyrába elektrinu"
+    ],
+    "answer": "Prispôsobuje otáčky a moment podmienkam jazdy",
+    "explanation": "Rôzne prevody pomáhajú pri rozjazde aj rýchlejšej jazde.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-293",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Automatizácia a digitálna technika",
+    "type": "mc",
+    "prompt": "Prečo je pri automatizovanom zariadení dôležitá kontrola snímača?",
+    "options": [
+      "Chybná informácia môže viesť k nesprávnemu zásahu",
+      "Snímač nemôže nikdy zlyhať",
+      "Snímače sú len ozdoba",
+      "Meranie neovplyvňuje riadenie"
+    ],
+    "answer": "Chybná informácia môže viesť k nesprávnemu zásahu",
+    "explanation": "Spoľahlivosť vstupov ovplyvňuje funkciu celého systému.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-EXT-038",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo treba preveriť pri obale označenom ako kompostovateľný?",
+    "options": [
+      "Podmienky kompostovania a pravidlá miestneho zberu",
+      "Len farbu potlače",
+      "Či ho možno ľubovoľne spaľovať",
+      "Iba hmotnosť vrchnáka"
+    ],
+    "answer": "Podmienky kompostovania a pravidlá miestneho zberu",
+    "explanation": "Priemyselná a domáca kompostovateľnosť nie sú totožné.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Plasty"
+    ]
+  },
+  {
+    "id": "TO-EXT-085",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo môže smer vlákien meniť pevnosť kompozitného dielu?",
+    "options": [
+      "Výstuž účinkuje odlišne v rôznych smeroch zaťaženia",
+      "Vlákna nemajú mechanický význam",
+      "Na smere nikdy nezáleží",
+      "Matricu možno vždy vynechať"
+    ],
+    "answer": "Výstuž účinkuje odlišne v rôznych smeroch zaťaženia",
+    "explanation": "Návrh vrstiev sa prispôsobuje predpokladanému zaťaženiu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-101",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Čo treba čítať na zbernej nádobe okrem jej farby?",
+    "options": [
+      "Označenie prijímaného odpadu a miestne pokyny",
+      "Iba číslo domu oproti",
+      "Výhradne meno vodiča auta",
+      "Len dátum výroby koša"
+    ],
+    "answer": "Označenie prijímaného odpadu a miestne pokyny",
+    "explanation": "Farby sú orientačné; konkrétne komodity môžu mať spoločný alebo oddelený zber.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-154",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "mc",
+    "prompt": "Ako sa má na výkrese zapisovať kóta, aby bola použiteľná?",
+    "options": [
+      "Čitateľne a bez nejasného priradenia k rozmeru",
+      "Čo najmenšie a cez obrys",
+      "Bez číselnej hodnoty",
+      "Iba na zadnú stranu papiera"
+    ],
+    "answer": "Čitateľne a bez nejasného priradenia k rozmeru",
+    "explanation": "Jednoznačné umiestnenie kót predchádza chybám výroby.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-212",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa na keramické výrobky nanáša glazúra?",
+    "options": [
+      "Môže znížiť nasiakavosť a upraviť povrch",
+      "Zmení keramiku na kov",
+      "Vždy nahradí výpal",
+      "Zruší krehkosť úplne"
+    ],
+    "answer": "Môže znížiť nasiakavosť a upraviť povrch",
+    "explanation": "Glazúra vytvorí po vhodnom výpale súvislú povrchovú vrstvu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-228",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Prečo sa nesmie odstraňovať ochranný kryt funkčného stroja kvôli pohodliu?",
+    "options": [
+      "Zvyšuje sa riziko kontaktu s nebezpečnou časťou",
+      "Kryt je len ozdoba bez účelu",
+      "Stroj sa tým vždy vypne",
+      "Všetky ďalšie riziká zmiznú"
+    ],
+    "answer": "Zvyšuje sa riziko kontaktu s nebezpečnou časťou",
+    "explanation": "Kryty sú súčasťou navrhnutých ochranných opatrení.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-283",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Automatizácia a digitálna technika",
+    "type": "mc",
+    "prompt": "Čo je spätná väzba v regulácii?",
+    "options": [
+      "Informácia o skutočnom výsledku použitá na riadenie",
+      "Iba príkaz bez kontroly výsledku",
+      "Náhodný ozdobný zvuk",
+      "Zmena názvu súčiastky"
+    ],
+    "answer": "Informácia o skutočnom výsledku použitá na riadenie",
+    "explanation": "Regulátor môže porovnať skutočný a požadovaný stav.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-EXT-136",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Kam odovzdáš nepoužiteľné lieky z domácnosti podľa pokynov príslušného systému?",
+    "options": [
+      "Do lekárne prijímajúcej nespotrebované lieky",
+      "Do umývadla",
+      "Do zberu skla aj s liekmi",
+      "Do kompostu"
+    ],
+    "answer": "Do lekárne prijímajúcej nespotrebované lieky",
+    "explanation": "Lieky sa nezamieňajú s bežným komunálnym obalovým odpadom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – praktické situácie"
+    ],
+    "referenceUrls": [
+      "https://www.sukl.sk/slovenska-verzia/informacie-pre-verejnost/oznamenie-pre-obcanov-o-potrebe-racionalizacie-v-zasobovani-sa-liekmi-a-zaobchadzani-s-liekovym-odpadom"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-122",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Čo je obrysovanie polotovaru?",
+    "options": [
+      "Vyznačenie tvaru a rozmerov pred opracovaním",
+      "Lak na hotovom výrobku",
+      "Tavenie kovu",
+      "Skúška elektrického odporu"
+    ],
+    "answer": "Vyznačenie tvaru a rozmerov pred opracovaním",
+    "explanation": "Obrysovanie prenáša údaje z výkresu na materiál.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-164",
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Čo robí kľukový mechanizmus v piestovom motore?",
+    "options": [
+      "Premieňa priamočiary vratný pohyb na otáčavý",
+      "Premieňa drevo na kov",
+      "Mení iba farbu paliva",
+      "Odstraňuje všetky vibrácie"
+    ],
+    "answer": "Premieňa priamočiary vratný pohyb na otáčavý",
+    "explanation": "Piest, ojnica a kľuka spájajú vratný a otáčavý pohyb.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-166",
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Čo je vačka v mechanizme?",
+    "options": [
+      "Tvarovaný prvok riadiaci pohyb sledovača",
+      "Ochranná zásuvka",
+      "Elektrická jednotka",
+      "Otvor na odpadovú vodu"
+    ],
+    "answer": "Tvarovaný prvok riadiaci pohyb sledovača",
+    "explanation": "Tvar vačky určuje zdvih a priebeh pohybu ovládaného dielu.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-177",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Akú funkciu má spätný ventil v potrubí?",
+    "options": [
+      "Umožní prietok prednostne jedným smerom",
+      "Vždy vyrába elektrinu",
+      "Zväčšuje objem nádrže",
+      "Meria čas rezania"
+    ],
+    "answer": "Umožní prietok prednostne jedným smerom",
+    "explanation": "Spätný ventil obmedzuje nežiaduci spätný tok.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-239",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Prečo sa pri prenášaní dlhých dosiek sleduje celé okolie?",
+    "options": [
+      "Konce môžu zasiahnuť iných ľudí alebo predmety",
+      "Doska sa tým skráti",
+      "Zmení sa jej hustota",
+      "Zaručí sa dokonale rovný rez"
+    ],
+    "answer": "Konce môžu zasiahnuť iných ľudí alebo predmety",
+    "explanation": "Dlhý predmet zasahuje aj mimo bezprostredného priestoru rúk.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-EXT-069",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Aký pôvod má viskózové vlákno?",
+    "options": [
+      "Regenerovaná celulóza spracovaná priemyselne",
+      "Ovčia srsť bez úpravy",
+      "Výhradne sklenená tavenina",
+      "Čistý oceľový drôt"
+    ],
+    "answer": "Regenerovaná celulóza spracovaná priemyselne",
+    "explanation": "Viskóza je umelé celulózové vlákno, nie syntetický polyester.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-189",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Čím sa dá v jednoduchom pokuse vytvoriť elektromagnet?",
+    "options": [
+      "Cievkou s prúdom, prípadne so železným jadrom",
+      "Samotným gumovým pásom",
+      "Vypnutým plastovým vypínačom",
+      "Prázdnym dreveným rámom"
+    ],
+    "answer": "Cievkou s prúdom, prípadne so železným jadrom",
+    "explanation": "Prúd v cievke vytvára magnetické pole, jadro ho môže zosilniť.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-221",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Čo má žiak urobiť, keď nerozumie bezpečnému postupu práce?",
+    "options": [
+      "Zastaviť sa a požiadať učiteľa o vysvetlenie",
+      "Vyskúšať náhodný postup",
+      "Spustiť všetky stroje naraz",
+      "Skopírovať nebezpečný pokus"
+    ],
+    "answer": "Zastaviť sa a požiadať učiteľa o vysvetlenie",
+    "explanation": "Nejasnosť treba vyriešiť pred začatím rizikovej operácie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-266",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Energetika a doprava",
+    "type": "mc",
+    "prompt": "Prečo sa uhlie označuje ako neobnoviteľný zdroj?",
+    "options": [
+      "Vzniká omnoho pomalšie, než ho spotrebúvame",
+      "Nemôže horieť",
+      "Nikdy neobsahuje energiu",
+      "Vzniká každý deň v zásuvke"
+    ],
+    "answer": "Vzniká omnoho pomalšie, než ho spotrebúvame",
+    "explanation": "Fosílne zdroje sa tvoria počas geologicky dlhých období.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-EXT-018",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čím sa keramická modelovacia hlina líši od plastelíny?",
+    "options": [
+      "Keramická hlina je určená aj na odborný výpal, plastelína nie",
+      "Obe sú vždy rovnaké minerálne hmoty",
+      "Plastelína sa musí vypáliť v keramickej peci",
+      "Hlina nikdy neobsahuje minerály"
+    ],
+    "answer": "Keramická hlina je určená aj na odborný výpal, plastelína nie",
+    "explanation": "S modelovacími hmotami sa pracuje podľa ich zloženia a návodu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Hlina a keramika"
+    ]
+  },
+  {
+    "id": "TO-069",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je zliatina?",
+    "options": [
+      "Kovový materiál zložený z viacerých prvkov",
+      "Iba čistá destilovaná voda",
+      "Každý brúsený povrch",
+      "Výhradne prírodné drevo"
+    ],
+    "answer": "Kovový materiál zložený z viacerých prvkov",
+    "explanation": "Zliatina obsahuje viac prvkov, z ktorých aspoň jeden je kov; vlastnosti sa líšia od čistých zložiek.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-200",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Čo je potrebné overiť pred meraním multimetrom?",
+    "options": [
+      "Režim, rozsah a správne vstupné svorky",
+      "Iba farbu prístroja",
+      "Počet písmen názvu",
+      "Len hlasitosť bzučiaka"
+    ],
+    "answer": "Režim, rozsah a správne vstupné svorky",
+    "explanation": "Nesprávne nastavenie môže poškodiť meradlo alebo vytvoriť skrat.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-215",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je drevotriesková doska?",
+    "options": [
+      "Doska z drevných triesok spojených spojivom",
+      "Jediný neporušený kus kmeňa",
+      "Čistá oceľ s náterom",
+      "Tenká tabuľa skla"
+    ],
+    "answer": "Doska z drevných triesok spojených spojivom",
+    "explanation": "Drevné častice sa zlisujú so spojivom do doskového materiálu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-236",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Ako bezpečne podáš dláto spolužiakovi?",
+    "options": [
+      "Ponúknem rukoväť a kontrolujem polohu ostria",
+      "Hodím mu ho",
+      "Podám ostrie priamo do dlane",
+      "Posuniem ho po podlahe"
+    ],
+    "answer": "Ponúknem rukoväť a kontrolujem polohu ostria",
+    "explanation": "Ostrá pracovná časť musí zostať pod kontrolou.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-PROJ-T03",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Prečo môže byť v náryse viditeľná vodorovná čiara nad základňou konzoly?",
+    "options": [
+      "Je to viditeľná hrana stupňa alebo zmeny hĺbky",
+      "Každá čiara označuje rez",
+      "Vždy označuje elektrický vodič",
+      "Je to mierka výkresu"
+    ],
+    "answer": "Je to viditeľná hrana stupňa alebo zmeny hĺbky",
+    "explanation": "Priemet obsahuje aj viditeľné vnútorné hrany; nie je iba vyfarbeným vonkajším obrysom.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-EXT-043",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa elektrické vodiče často vyrábajú z medi?",
+    "options": [
+      "Má dobrú elektrickú vodivosť a dá sa ťahať na drôt",
+      "Je elektrický izolant",
+      "Nedá sa opracovať",
+      "Musí sa vždy používať bez izolácie"
+    ],
+    "answer": "Má dobrú elektrickú vodivosť a dá sa ťahať na drôt",
+    "explanation": "Vhodná vodivosť aj spracovateľnosť sú dôležité pre výrobu vodiča.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-048",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo opisuje zlievateľnosť kovu?",
+    "options": [
+      "Vhodnosť vytvoriť kvalitný odliatok z taveniny",
+      "Schopnosť sať vodu ako špongia",
+      "Vždy priehľadnosť",
+      "Výhradne farbu kovu"
+    ],
+    "answer": "Vhodnosť vytvoriť kvalitný odliatok z taveniny",
+    "explanation": "Tekutosť a správanie pri tuhnutí ovplyvňujú výsledok odlievania.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-049",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa korózia netýka iba červenej hrdze na železe?",
+    "options": [
+      "Korodovať môžu aj iné kovy, no produkty vyzerajú inak",
+      "Všetky kovy majú iba červenú hrdzu",
+      "Korózia je vždy druh lepidla",
+      "Meď a hliník nemôžu chemicky reagovať"
+    ],
+    "answer": "Korodovať môžu aj iné kovy, no produkty vyzerajú inak",
+    "explanation": "Korózia zahŕňa rôzne procesy poškodzovania kovov prostredím.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kovy a zliatiny"
+    ]
+  },
+  {
+    "id": "TO-EXT-076",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa pri údržbe textílie riadime štítkom výrobcu?",
+    "options": [
+      "Vlákna, farbenie a úpravy vyžadujú rozdielne podmienky",
+      "Všetky látky možno prať rovnako horúco",
+      "Každý symbol je len dekorácia",
+      "Žehlenie nemôže poškodiť textíliu"
+    ],
+    "answer": "Vlákna, farbenie a úpravy vyžadujú rozdielne podmienky",
+    "explanation": "Teplota a spôsob čistenia ovplyvňujú zrazenie, farbu aj pevnosť.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Textílie a vlákna"
+    ]
+  },
+  {
+    "id": "TO-EXT-092",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa pre elektrickú izoláciu volí vhodný plast alebo keramika namiesto medi?",
+    "options": [
+      "Tieto materiály môžu mať veľký elektrický odpor",
+      "Meď je najlepší bežný izolant",
+      "Každá keramika je vodič ako meď",
+      "Farba izolácie vždy stačí"
+    ],
+    "answer": "Tieto materiály môžu mať veľký elektrický odpor",
+    "explanation": "Izolačný materiál musí zvládnuť aj požadované teploty a prevádzkové podmienky.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-098",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo sa pri porovnaní materiálov používa rovnaký objem alebo rozmer vzoriek?",
+    "options": [
+      "Aby porovnanie vlastnosti nebolo skreslené veľkosťou",
+      "Aby mali všetky vzorky rovnakú farbu",
+      "Lebo rôzne materiály nemajú objem",
+      "Aby sa zrušila hmotnosť"
+    ],
+    "answer": "Aby porovnanie vlastnosti nebolo skreslené veľkosťou",
+    "explanation": "Hmotnosť rovnako veľkých vzoriek napríklad súvisí s hustotou.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Kompozity a porovnávanie"
+    ]
+  },
+  {
+    "id": "TO-EXT-106",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Prečo otázka „Kam s kovovou konzervou?“ nemusí mať všade rovnakú farebnú odpoveď?",
+    "options": [
+      "Systém spoločného zberu sa môže medzi obcami líšiť",
+      "Konzerva nemá žiadny materiál",
+      "Farba vždy nahrádza všetky pokyny",
+      "Každá konzerva je nebezpečný odpad"
+    ],
+    "answer": "Systém spoločného zberu sa môže medzi obcami líšiť",
+    "explanation": "Najprv identifikujeme materiál a potom overíme miestny spôsob jeho zberu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-EXT-110",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Recyklácia a triedenie odpadu",
+    "type": "mc",
+    "prompt": "Prečo bežný nápojový kartón automaticky nepatrí do modrej nádoby na papier?",
+    "options": [
+      "Je to viacvrstvový obal s určeným zberom",
+      "Vždy je z čistého skla",
+      "Obsahuje iba bavlnu",
+      "Nemožno ho nikde zbierať"
+    ],
+    "answer": "Je to viacvrstvový obal s určeným zberom",
+    "explanation": "Pri nápojových kartónoch sa riadime ich označením a pokynmi obce.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "tags": [
+      "Triedenie – pravidlá a výnimky"
+    ],
+    "referenceUrls": [
+      "https://www.naturpack.sk/sluzby/verejnost/o-triedeni/alchymia-triedenia-komunalneho-odpadu/"
+    ],
+    "reviewedAt": "2026-11-02",
+    "collectionContext": "Slovensko; rozhodujú pokyny obce a označenie nádoby, pokiaľ otázka výslovne neurčuje systém."
+  },
+  {
+    "id": "TO-059",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Čo je skrat v elektrickom obvode?",
+    "options": [
+      "Nežiaduca vodivá cesta s veľmi malým odporom",
+      "Skrátený názov žiarovky",
+      "Vypnutý zdroj bez vodičov",
+      "Bežný spôsob šetrenia batérie"
+    ],
+    "answer": "Nežiaduca vodivá cesta s veľmi malým odporom",
+    "explanation": "Skrat môže vyvolať veľký prúd, prehrievanie a poškodenie zdroja.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-081",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Čo spravíš pred výmenou vrtáka podľa pokynov učiteľa?",
+    "options": [
+      "Zastavím a bezpečne odpojím stroj od zdroja",
+      "Pridržím vrták za chodu",
+      "Vypnem len svetlo nad stolom",
+      "Zvýšim tlak na vreteno"
+    ],
+    "answer": "Zastavím a bezpečne odpojím stroj od zdroja",
+    "explanation": "Odpojenie zdroja bráni nechcenému rozbehu stroja pri manipulácii.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-156",
+    "categories": [
+      "A"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "mc",
+    "prompt": "Aký všeobecný význam má označenie M6 na spojovacom prvku?",
+    "options": [
+      "Metrický závit s menovitým priemerom 6 mm",
+      "Dĺžka vždy presne 6 cm",
+      "Materiál s hmotnosťou 6 kg",
+      "Mierka šesť ku jednej"
+    ],
+    "answer": "Metrický závit s menovitým priemerom 6 mm",
+    "explanation": "M označuje metrický závit a číslo jeho menovitý priemer.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-299",
+    "categories": [
+      "A"
+    ],
+    "topic": "Automatizácia a digitálna technika",
+    "type": "mc",
+    "prompt": "Čo robí prevodník A/D?",
+    "options": [
+      "Prevádza analógový signál na číselné údaje",
+      "Mení hmotnosť na drevo",
+      "Spája iba mechanické závity",
+      "Vytvára parný pohon"
+    ],
+    "answer": "Prevádza analógový signál na číselné údaje",
+    "explanation": "Digitalizácia umožňuje spracovať nameranú veličinu programom.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-326",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Výroba a remeslá",
+    "type": "mc",
+    "prompt": "Čo je sústruženie v základnom modeli?",
+    "options": [
+      "Obrábanie rotujúceho obrobku rezným nástrojom",
+      "Iba ručné lepenie dvoch dosiek",
+      "Premena tepla na farbu",
+      "Výhradne meranie tlaku"
+    ],
+    "answer": "Obrábanie rotujúceho obrobku rezným nástrojom",
+    "explanation": "Sústruženie sa používa najmä na rotačné plochy.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
   }
 ]
