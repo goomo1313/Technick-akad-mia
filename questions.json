@@ -19306,5 +19306,358 @@
     "tags": [
       "Olympijská výzva"
     ]
+  },
+  {
+    "id": "TO-BORE-front",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Kvádrová súčiastka s priechodným otvorom: vyber pohľad spredu (nárys). Otvor prechádza od prednej k zadnej stene.",
+    "options": [
+      "bore-front",
+      "bore-top",
+      "bore-left",
+      "bore-wrong"
+    ],
+    "answer": "bore-front",
+    "explanation": "Kruhový otvor vidíme ako kružnicu iba pri pohľade v smere jeho osi (spredu). V pôdoryse a bokoryse jeho neviditeľné okraje zobrazujú dve čiarkované čiary. Plné vnútorné čiary by znamenali viditeľné hrany.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/technical/bore-iso.svg",
+      "alt": "Technický obrázok k zadaniu",
+      "objectId": "bore",
+      "targetView": "front"
+    },
+    "optionImages": {
+      "bore-front": "assets/technical/bore-front.svg",
+      "bore-top": "assets/technical/bore-top.svg",
+      "bore-left": "assets/technical/bore-left.svg",
+      "bore-wrong": "assets/technical/bore-wrong.svg"
+    }
+  },
+  {
+    "id": "TO-BORE-top",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Kvádrová súčiastka s priechodným otvorom: vyber pohľad zhora (pôdorys). Otvor prechádza od prednej k zadnej stene.",
+    "options": [
+      "bore-front",
+      "bore-top",
+      "bore-left",
+      "bore-wrong"
+    ],
+    "answer": "bore-top",
+    "explanation": "Kruhový otvor vidíme ako kružnicu iba pri pohľade v smere jeho osi (spredu). V pôdoryse a bokoryse jeho neviditeľné okraje zobrazujú dve čiarkované čiary. Plné vnútorné čiary by znamenali viditeľné hrany.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/technical/bore-iso.svg",
+      "alt": "Technický obrázok k zadaniu",
+      "objectId": "bore",
+      "targetView": "top"
+    },
+    "optionImages": {
+      "bore-front": "assets/technical/bore-front.svg",
+      "bore-top": "assets/technical/bore-top.svg",
+      "bore-left": "assets/technical/bore-left.svg",
+      "bore-wrong": "assets/technical/bore-wrong.svg"
+    }
+  },
+  {
+    "id": "TO-BORE-left",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Kvádrová súčiastka s priechodným otvorom: vyber pohľad zľava (ľavý bokorys). Otvor prechádza od prednej k zadnej stene.",
+    "options": [
+      "bore-front",
+      "bore-top",
+      "bore-left",
+      "bore-wrong"
+    ],
+    "answer": "bore-left",
+    "explanation": "Kruhový otvor vidíme ako kružnicu iba pri pohľade v smere jeho osi (spredu). V pôdoryse a bokoryse jeho neviditeľné okraje zobrazujú dve čiarkované čiary. Plné vnútorné čiary by znamenali viditeľné hrany.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/technical/bore-iso.svg",
+      "alt": "Technický obrázok k zadaniu",
+      "objectId": "bore",
+      "targetView": "left"
+    },
+    "optionImages": {
+      "bore-front": "assets/technical/bore-front.svg",
+      "bore-top": "assets/technical/bore-top.svg",
+      "bore-left": "assets/technical/bore-left.svg",
+      "bore-wrong": "assets/technical/bore-wrong.svg"
+    }
+  },
+  {
+    "id": "TO-SYMBOL-resistor",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Ktorá súčiastka je označená touto schematickou značkou? Úloha resistor.",
+    "options": [
+      "Rezistor",
+      "Žiarovka",
+      "Spínač",
+      "Článok"
+    ],
+    "answer": "Rezistor",
+    "explanation": "Obdĺžnik s vývodmi označuje rezistor, ktorý kladie elektrickému prúdu odpor.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "technical",
+      "image": "assets/technical/resistor.svg",
+      "alt": "Technický obrázok k zadaniu"
+    }
+  },
+  {
+    "id": "TO-SYMBOL-lamp",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Ktorá súčiastka je označená touto schematickou značkou? Úloha lamp.",
+    "options": [
+      "Poistka",
+      "Žiarovka",
+      "Rezistor",
+      "Motor"
+    ],
+    "answer": "Žiarovka",
+    "explanation": "Kruh s krížom je schematická značka žiarovky. Kríž neoznačuje spojenie vodičov.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "technical",
+      "image": "assets/technical/lamp.svg",
+      "alt": "Technický obrázok k zadaniu"
+    }
+  },
+  {
+    "id": "TO-SYMBOL-switch",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Ktorá súčiastka je označená touto schematickou značkou? Úloha switch.",
+    "options": [
+      "Zopnutý spínač",
+      "Rozopnutý spínač",
+      "Kondenzátor",
+      "Transformátor"
+    ],
+    "answer": "Rozopnutý spínač",
+    "explanation": "Medzera medzi kontaktmi znamená rozopnutý obvod. V ideálnom jednosmernom obvode ním prúd netečie.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "technical",
+      "image": "assets/technical/switch.svg",
+      "alt": "Technický obrázok k zadaniu"
+    }
+  },
+  {
+    "id": "TO-SYMBOL-cell",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Ktorá súčiastka je označená touto schematickou značkou? Úloha cell.",
+    "options": [
+      "Elektrický článok",
+      "Rezistor",
+      "Ampérmeter",
+      "Poistka"
+    ],
+    "answer": "Elektrický článok",
+    "explanation": "Dve rovnobežné čiary rôznej dĺžky označujú článok. Dlhšia čiara je kladný pól.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "technical",
+      "image": "assets/technical/cell.svg",
+      "alt": "Technický obrázok k zadaniu"
+    }
+  },
+  {
+    "id": "TO-RULER-1",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Meranie a technické výpočty",
+    "type": "mc",
+    "prompt": "Odčítaj dĺžku zeleného predmetu z pravítka. Malý dielik je 1 mm. Úloha 1.",
+    "options": [
+      "31 mm",
+      "38 mm",
+      "7 mm",
+      "41 mm"
+    ],
+    "answer": "31 mm",
+    "explanation": "Predmet nezačína na nule. Od koncového odčítania 38 mm odčítame začiatočné 7 mm: 38 − 7 = 31 mm.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "technical",
+      "image": "assets/technical/ruler-1.svg",
+      "alt": "Technický obrázok k zadaniu"
+    }
+  },
+  {
+    "id": "TO-RULER-2",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Meranie a technické výpočty",
+    "type": "mc",
+    "prompt": "Odčítaj dĺžku zeleného predmetu z pravítka. Malý dielik je 1 mm. Úloha 2.",
+    "options": [
+      "35 mm",
+      "47 mm",
+      "12 mm",
+      "45 mm"
+    ],
+    "answer": "35 mm",
+    "explanation": "Predmet nezačína na nule. Od koncového odčítania 47 mm odčítame začiatočné 12 mm: 47 − 12 = 35 mm.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "technical",
+      "image": "assets/technical/ruler-2.svg",
+      "alt": "Technický obrázok k zadaniu"
+    }
+  },
+  {
+    "id": "TO-TOOL-PHOTO-1",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Pomenuj nástroj na fotografii. Úloha 1.",
+    "options": [
+      "Ručný hoblík",
+      "Rašpľa",
+      "Dláto",
+      "Brúsny blok"
+    ],
+    "answer": "Ručný hoblík",
+    "explanation": "Hoblík odoberá z dreva tenké triesky a zarovnáva jeho povrch. Pri práci je obrobok pevne upnutý.",
+    "difficulty": 1,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "diagram": {
+      "kind": "photo",
+      "alt": "Fotografia nástroja na rozpoznanie",
+      "title": "File:Hand wood plane.jpg",
+      "image": "assets/tool-photos/tool-0.jpg",
+      "author": "Santeri Viinamäki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hand_wood_plane.jpg"
+    }
+  },
+  {
+    "id": "TO-TOOL-PHOTO-2",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Pomenuj nástroj na fotografii. Úloha 2.",
+    "options": [
+      "Mikrometer",
+      "Posuvné meradlo",
+      "Oceľové pravítko",
+      "Uhlomer"
+    ],
+    "answer": "Posuvné meradlo",
+    "explanation": "Posuvné meradlo má hlavnú stupnicu a pohyblivý jazdec. Podľa použitých čeľustí alebo hĺbkomera meria vonkajšie a vnútorné rozmery aj hĺbku.",
+    "difficulty": 1,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "diagram": {
+      "kind": "photo",
+      "alt": "Fotografia nástroja na rozpoznanie",
+      "title": "File:Vernier caliper 2016.jpg",
+      "image": "assets/tool-photos/tool-1.jpg",
+      "author": "Santeri Viinamäki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Vernier_caliper_2016.jpg"
+    }
   }
 ]

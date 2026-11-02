@@ -1,11 +1,11 @@
 {
-  "questions": 720,
-  "tests": 217,
+  "questions": 731,
+  "tests": 219,
   "topics": {
     "Drevo a kovy": {
-      "all": 45,
-      "A": 45,
-      "B": 41
+      "all": 47,
+      "A": 47,
+      "B": 43
     },
     "Technická dokumentácia": {
       "all": 66,
@@ -18,9 +18,9 @@
       "B": 44
     },
     "Elektrotechnika": {
-      "all": 85,
-      "A": 85,
-      "B": 37
+      "all": 89,
+      "A": 89,
+      "B": 41
     },
     "Materiály": {
       "all": 163,
@@ -48,9 +48,9 @@
       "B": 14
     },
     "Meranie a technické výpočty": {
-      "all": 27,
-      "A": 27,
-      "B": 24
+      "all": 29,
+      "A": 29,
+      "B": 26
     },
     "Výroba a remeslá": {
       "all": 17,
@@ -58,9 +58,9 @@
       "B": 16
     },
     "Pravouhlé premietanie": {
-      "all": 56,
-      "A": 56,
-      "B": 53
+      "all": 59,
+      "A": 59,
+      "B": 56
     },
     "Vynálezcovia a dejiny techniky": {
       "all": 25,
@@ -120,5 +120,11 @@
     "replaced": 100,
     "advancedAdded": 20,
     "photoTasks": 24
+  },
+  "visualUpgrade": {
+    "boreViews": 3,
+    "circuitSymbols": 4,
+    "rulerReading": 2,
+    "toolPhotos": 2
   }
 }

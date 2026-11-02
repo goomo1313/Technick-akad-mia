@@ -49,3 +49,4 @@ Otázky o odpade majú reviewedAt a collectionContext. Farebné otázky uvádzaj
 
 ## Revízia kvality
 100 otázok prepracovaných na rozlišovanie príbuzných pojmov, 20 nových viacstupňových úloh A. Aktuálne 720 otázok. Staré znenia sú v archíve. Fotografie nahradili botanické SVG; údaje o licenciách sú v photo-credits.json a photo-credits.html. enhancements.js pridáva toleranciu zápisu jednotiek, lokálne rozpracované pokusy, navigáciu otázok, označenie na návrat, denný tréning, spoločný tréning chýb a prehľad tém zo skúšobných testov.
+Aktualizácia obrazových úloh: 731 aktívnych otázok, 219 zostáv. 24 úloh drevín používa 20 reálnych fotografií, dve ďalšie fotografie zobrazujú náradie. Nové autorské SVG: tri priemety kvádra s priechodným otvorom, štyri elektrické značky a dve pravítka. Všetky fotografie sú lokálne s licenciami v metadátach otázok.

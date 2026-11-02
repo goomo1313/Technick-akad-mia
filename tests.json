@@ -4772,5 +4772,47 @@
       "TO-ADV-020"
     ],
     "seconds": 600
+  },
+  {
+    "id": "mix-visual-A",
+    "category": "A",
+    "title": "Obrázkové technické úlohy",
+    "description": "Otvor v súčiastke, elektrické značky a čítanie pravítka.",
+    "questionIds": [
+      "TO-BORE-front",
+      "TO-BORE-top",
+      "TO-BORE-left",
+      "TO-SYMBOL-resistor",
+      "TO-SYMBOL-lamp",
+      "TO-SYMBOL-switch",
+      "TO-SYMBOL-cell",
+      "TO-RULER-1",
+      "TO-RULER-2",
+      "TO-TOOL-PHOTO-1",
+      "TO-TOOL-PHOTO-2"
+    ],
+    "kind": "mixed",
+    "seconds": 660
+  },
+  {
+    "id": "mix-visual-B",
+    "category": "B",
+    "title": "Obrázkové technické úlohy",
+    "description": "Otvor v súčiastke, elektrické značky a čítanie pravítka.",
+    "questionIds": [
+      "TO-BORE-front",
+      "TO-BORE-top",
+      "TO-BORE-left",
+      "TO-SYMBOL-resistor",
+      "TO-SYMBOL-lamp",
+      "TO-SYMBOL-switch",
+      "TO-SYMBOL-cell",
+      "TO-RULER-1",
+      "TO-RULER-2",
+      "TO-TOOL-PHOTO-1",
+      "TO-TOOL-PHOTO-2"
+    ],
+    "kind": "mixed",
+    "seconds": 660
   }
 ]
