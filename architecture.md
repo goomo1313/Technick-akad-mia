@@ -33,6 +33,8 @@ Všetkých 500 otázok je vlastných, typovo zameraných na predmet Technika; ni
 ## Rozšírenie na 500 otázok
 questions.json je zdrojom pravdy, content-report.json obsahuje počty podľa typu, okruhu a kategórie. 13 okruhov, 500 otázok pre A (z toho 389 aj pre B), 151 testových zostáv. Pôvodných 33 zostáv sa nemení; nové súhrnné zostavy pokrývajú rozšírenie a nové tematické bloky majú najviac 20 otázok. Celkovo sú otázky v súhrnných testoch danej kategórie pokryté presne raz. Tematické bloky sú iným usporiadaním rovnakých otázok.
 
-Voliteľná položka diagram: {kind: heightmap, heights: number[][], label: string}. Riadky sú od zadnej strany k prednej, stĺpce zľava doprava. Kockové stĺpce sú plné, nula znamená prázdne miesto. Frontálny obrys je maximum každej stĺpcovej pozície; bočný obrys v poradí odzadu dopredu je maximum každého riadka. Diagram sa zobrazuje v otázke, učebnici aj rozbore výsledkov.
+Obrázkové úlohy používajú diagram: {kind: solid, image, alt, objectId, targetView} a optionImages mapujúce stabilné kľúče možností na SVG priemety. projection-models.json obsahuje geometriu 12 súvislých hranatých dielov; jej obdĺžnikové plochy sú kreslené bez mriežky. Každý diel má izometrický náhľad a nárys, ľavý bokorys a pôdorys. 36 úloh vyžaduje výber správneho obrázka. Správnosť možností je overená priamym geometrickým premietnutím.
+
+40 nahradených otázok má nové ID; staré otázky sú iba v archived-questions.json na zobrazenie starých výsledkov. Archív sa nezaraďuje do tréningu ani učebnice. Referencie v testoch sú premigrované. Pôvodný počet 500 aktívnych otázok zostal zachovaný.
 
 Nové výpočtové otázky majú concept a calculation s operandmi pre nezávislé overenie aritmetiky. Výber náročnosti filtruje otázky; katalóg má hľadanie, druh zostavy a postupné načítanie. Zdroje a pedagogická metodika sú v sources.html.

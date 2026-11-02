@@ -8443,21 +8443,21 @@
     "version": 1
   },
   {
-    "id": "TO-357",
+    "id": "TO-PROJ-T01",
     "categories": [
       "A"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Môžu mať dve rozdielne zostavy kociek rovnaký nárys aj bokorys?",
+    "prompt": "Môžu mať dve rozdielne technické telesá rovnaký nárys aj bokorys?",
     "options": [
       "Áno",
       "Nie, nikdy",
-      "Len ak sú všetky kocky priehľadné",
-      "Iba bez gravitácie"
+      "Len ak sú priehľadné",
+      "Iba v perspektíve"
     ],
     "answer": "Áno",
-    "explanation": "Dva pohľady nemusia zachytiť všetky rozdiely v rozložení kociek.",
+    "explanation": "Dva pohľady nemusia zachytiť všetky rozdiely. Na jednoznačný opis môže byť potrebný ďalší pohľad alebo rez.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -8466,22 +8466,22 @@
     "version": 1
   },
   {
-    "id": "TO-358",
+    "id": "TO-PROJ-T02",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Čo v pôdorysnej mape stĺpcov znamená číslo 3 v jednom políčku?",
+    "prompt": "Ktorý znak najlepšie odlíši nárys konzoly s horným výrezom od plného obdĺžnika?",
     "options": [
-      "Tri kocky uložené nad sebou na danom mieste",
-      "Tri kocky mimo základne",
-      "Výšku celej stavby vždy",
-      "Tri rôzne materiály povinne"
+      "Výrez viditeľný v hornom obryse",
+      "Iba farba papiera",
+      "Názov autora",
+      "Čas kreslenia"
     ],
-    "answer": "Tri kocky uložené nad sebou na danom mieste",
-    "explanation": "Mapa výšok opisuje každý zvislý stĺpec osobitne.",
+    "answer": "Výrez viditeľný v hornom obryse",
+    "explanation": "Výrez mení obrys telesa pri pohľade spredu; jeho tvar treba preniesť aj do správneho priemetu.",
     "difficulty": 1,
     "source": {
       "kind": "original",
@@ -8490,22 +8490,22 @@
     "version": 1
   },
   {
-    "id": "TO-359",
+    "id": "TO-PROJ-T03",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Ako zistíš predný obrys stavby zo stĺpcov pri pohľade spredu?",
+    "prompt": "Prečo môže byť v náryse viditeľná vodorovná čiara nad základňou konzoly?",
     "options": [
-      "Pre každú šírkovú polohu vyberiem najväčšiu výšku v smere hĺbky",
-      "Spočítam všetky výšky a nakreslím jediný stĺpec",
-      "Ignorujem zadné stĺpce vždy",
-      "Použijem iba farbu čísel"
+      "Je to viditeľná hrana stupňa alebo zmeny hĺbky",
+      "Každá čiara označuje rez",
+      "Vždy označuje elektrický vodič",
+      "Je to mierka výkresu"
     ],
-    "answer": "Pre každú šírkovú polohu vyberiem najväčšiu výšku v smere hĺbky",
-    "explanation": "V obryse sa prekryjú stĺpce ležiace za sebou.",
+    "answer": "Je to viditeľná hrana stupňa alebo zmeny hĺbky",
+    "explanation": "Priemet obsahuje aj viditeľné vnútorné hrany; nie je iba vyfarbeným vonkajším obrysom.",
     "difficulty": 1,
     "source": {
       "kind": "original",
@@ -8514,22 +8514,22 @@
     "version": 1
   },
   {
-    "id": "TO-360",
+    "id": "TO-PROJ-T04",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Ako spočítaš počet kociek v úplne vyplnených stĺpcoch z mapy výšok?",
+    "prompt": "Ako postupovať pri výbere správneho priemetu technického dielu?",
     "options": [
-      "Sčítam výšky všetkých stĺpcov",
-      "Vezmem iba najvyššie číslo",
-      "Vynásobím vždy len počet riadkov dvoma",
-      "Spočítam iba prázdne políčka"
+      "Najprv určiť smer pohľadu a potom obrys aj viditeľné hrany",
+      "Vybrať najväčší obrázok",
+      "Vybrať obrázok podľa farby",
+      "Ignorovať šípku smeru"
     ],
-    "answer": "Sčítam výšky všetkých stĺpcov",
-    "explanation": "Pri stĺpcoch bez dutín každé číslo udáva počet ich kociek.",
+    "answer": "Najprv určiť smer pohľadu a potom obrys aj viditeľné hrany",
+    "explanation": "Rovnaký diel má z rôznych smerov odlišné priemety. Porovnáva sa tvar aj poloha jeho hrán.",
     "difficulty": 1,
     "source": {
       "kind": "original",
@@ -9210,22 +9210,22 @@
     "concept": "history-24"
   },
   {
-    "id": "TO-385",
+    "id": "TO-PROJ-001",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 01: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "prompt": "Konzola s horným výrezom: Vyber pohľad spredu (nárys).",
     "options": [
-      "2 – 1 – 2",
-      "3 – 2 – 3",
-      "1 – 0 – 1",
-      "5 – 4 – 5"
+      "part-01-front",
+      "part-01-left",
+      "part-01-top",
+      "part-02-front"
     ],
-    "answer": "2 – 1 – 2",
-    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 2 – 1 – 2.",
+    "answer": "part-01-front",
+    "explanation": "Nárys vznikne pohľadom spredu, presne v smere označenej šípky. V tomto pohľade sleduj šírku a výšku dielu; hĺbka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -9233,40 +9233,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          1,
-          0,
-          2
-        ],
-        [
-          2,
-          1,
-          0
-        ]
-      ],
-      "label": "Stavba 01: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-01-iso.svg",
+      "alt": "Konzola s horným výrezom – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-01",
+      "targetView": "front"
     },
-    "concept": "projection-front"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-01-front": "assets/projection/part-01-front.svg",
+      "part-01-left": "assets/projection/part-01-left.svg",
+      "part-01-top": "assets/projection/part-01-top.svg",
+      "part-02-front": "assets/projection/part-02-front.svg"
+    }
   },
   {
-    "id": "TO-386",
+    "id": "TO-PROJ-002",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 01: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "prompt": "Konzola s horným výrezom: Vyber pohľad zľava (ľavý bokorys).",
     "options": [
-      "2 – 2",
-      "3 – 3",
-      "1 – 1",
-      "5 – 5"
+      "part-01-left",
+      "part-01-front",
+      "part-01-top",
+      "part-02-left"
     ],
-    "answer": "2 – 2",
-    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 2 – 2.",
+    "answer": "part-01-left",
+    "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -9274,78 +9271,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          1,
-          0,
-          2
-        ],
-        [
-          2,
-          1,
-          0
-        ]
-      ],
-      "label": "Stavba 01: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-01-iso.svg",
+      "alt": "Konzola s horným výrezom – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-01",
+      "targetView": "left"
     },
-    "concept": "projection-side"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-01-left": "assets/projection/part-01-left.svg",
+      "part-01-front": "assets/projection/part-01-front.svg",
+      "part-01-top": "assets/projection/part-01-top.svg",
+      "part-02-left": "assets/projection/part-02-left.svg"
+    }
   },
   {
-    "id": "TO-387",
-    "categories": [
-      "A",
-      "B"
-    ],
-    "topic": "Pravouhlé premietanie",
-    "type": "short",
-    "prompt": "Stavba 01: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
-    "options": [],
-    "answer": [
-      "6"
-    ],
-    "explanation": "Sčítame všetky čísla v mape výšok: 3 + 3 = 6.",
-    "difficulty": 2,
-    "source": {
-      "kind": "original",
-      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
-    },
-    "version": 1,
-    "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          1,
-          0,
-          2
-        ],
-        [
-          2,
-          1,
-          0
-        ]
-      ],
-      "label": "Stavba 01: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
-    },
-    "concept": "cube-count"
-  },
-  {
-    "id": "TO-388",
+    "id": "TO-PROJ-003",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 02: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "prompt": "Konzola s horným výrezom: Vyber pohľad zhora (pôdorys).",
     "options": [
-      "1 – 2 – 3",
-      "3 – 2 – 1",
-      "2 – 3 – 4",
-      "0 – 1 – 2"
+      "part-01-top",
+      "part-01-front",
+      "part-01-left",
+      "part-02-top"
     ],
-    "answer": "1 – 2 – 3",
-    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 1 – 2 – 3.",
+    "answer": "part-01-top",
+    "explanation": "Pôdorys vznikne pohľadom zhora, presne v smere označenej šípky. V tomto pohľade sleduj šírku a hĺbku dielu; výška sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -9353,40 +9309,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          0,
-          2,
-          1
-        ],
-        [
-          1,
-          0,
-          3
-        ]
-      ],
-      "label": "Stavba 02: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-01-iso.svg",
+      "alt": "Konzola s horným výrezom – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-01",
+      "targetView": "top"
     },
-    "concept": "projection-front"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-01-top": "assets/projection/part-01-top.svg",
+      "part-01-front": "assets/projection/part-01-front.svg",
+      "part-01-left": "assets/projection/part-01-left.svg",
+      "part-02-top": "assets/projection/part-02-top.svg"
+    }
   },
   {
-    "id": "TO-389",
+    "id": "TO-PROJ-004",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 02: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "prompt": "Trojstupňový blok: Vyber pohľad spredu (nárys).",
     "options": [
-      "2 – 3",
-      "3 – 2",
-      "3 – 4",
-      "1 – 2"
+      "part-02-front",
+      "part-02-left",
+      "part-02-top",
+      "part-01-front"
     ],
-    "answer": "2 – 3",
-    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 2 – 3.",
+    "answer": "part-02-front",
+    "explanation": "Nárys vznikne pohľadom spredu, presne v smere označenej šípky. V tomto pohľade sleduj šírku a výšku dielu; hĺbka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -9394,78 +9347,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          0,
-          2,
-          1
-        ],
-        [
-          1,
-          0,
-          3
-        ]
-      ],
-      "label": "Stavba 02: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-02-iso.svg",
+      "alt": "Trojstupňový blok – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-02",
+      "targetView": "front"
     },
-    "concept": "projection-side"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-02-front": "assets/projection/part-02-front.svg",
+      "part-02-left": "assets/projection/part-02-left.svg",
+      "part-02-top": "assets/projection/part-02-top.svg",
+      "part-01-front": "assets/projection/part-01-front.svg"
+    }
   },
   {
-    "id": "TO-390",
-    "categories": [
-      "A",
-      "B"
-    ],
-    "topic": "Pravouhlé premietanie",
-    "type": "short",
-    "prompt": "Stavba 02: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
-    "options": [],
-    "answer": [
-      "7"
-    ],
-    "explanation": "Sčítame všetky čísla v mape výšok: 3 + 4 = 7.",
-    "difficulty": 2,
-    "source": {
-      "kind": "original",
-      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
-    },
-    "version": 1,
-    "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          0,
-          2,
-          1
-        ],
-        [
-          1,
-          0,
-          3
-        ]
-      ],
-      "label": "Stavba 02: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
-    },
-    "concept": "cube-count"
-  },
-  {
-    "id": "TO-391",
+    "id": "TO-PROJ-005",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 03: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "prompt": "Trojstupňový blok: Vyber pohľad zľava (ľavý bokorys).",
     "options": [
-      "3 – 2 – 1",
-      "1 – 2 – 3",
-      "4 – 3 – 2",
-      "2 – 1 – 0"
+      "part-02-left",
+      "part-02-front",
+      "part-02-top",
+      "part-01-left"
     ],
-    "answer": "3 – 2 – 1",
-    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 3 – 2 – 1.",
+    "answer": "part-02-left",
+    "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -9473,40 +9385,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          3,
-          1,
-          0
-        ],
-        [
-          0,
-          2,
-          1
-        ]
-      ],
-      "label": "Stavba 03: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-02-iso.svg",
+      "alt": "Trojstupňový blok – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-02",
+      "targetView": "left"
     },
-    "concept": "projection-front"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-02-left": "assets/projection/part-02-left.svg",
+      "part-02-front": "assets/projection/part-02-front.svg",
+      "part-02-top": "assets/projection/part-02-top.svg",
+      "part-01-left": "assets/projection/part-01-left.svg"
+    }
   },
   {
-    "id": "TO-392",
+    "id": "TO-PROJ-006",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 03: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "prompt": "Trojstupňový blok: Vyber pohľad zhora (pôdorys).",
     "options": [
-      "3 – 2",
-      "2 – 3",
-      "4 – 3",
-      "2 – 1"
+      "part-02-top",
+      "part-02-front",
+      "part-02-left",
+      "part-01-top"
     ],
-    "answer": "3 – 2",
-    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 3 – 2.",
+    "answer": "part-02-top",
+    "explanation": "Pôdorys vznikne pohľadom zhora, presne v smere označenej šípky. V tomto pohľade sleduj šírku a hĺbku dielu; výška sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -9514,78 +9423,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          3,
-          1,
-          0
-        ],
-        [
-          0,
-          2,
-          1
-        ]
-      ],
-      "label": "Stavba 03: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-02-iso.svg",
+      "alt": "Trojstupňový blok – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-02",
+      "targetView": "top"
     },
-    "concept": "projection-side"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-02-top": "assets/projection/part-02-top.svg",
+      "part-02-front": "assets/projection/part-02-front.svg",
+      "part-02-left": "assets/projection/part-02-left.svg",
+      "part-01-top": "assets/projection/part-01-top.svg"
+    }
   },
   {
-    "id": "TO-393",
-    "categories": [
-      "A",
-      "B"
-    ],
-    "topic": "Pravouhlé premietanie",
-    "type": "short",
-    "prompt": "Stavba 03: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
-    "options": [],
-    "answer": [
-      "7"
-    ],
-    "explanation": "Sčítame všetky čísla v mape výšok: 4 + 3 = 7.",
-    "difficulty": 2,
-    "source": {
-      "kind": "original",
-      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
-    },
-    "version": 1,
-    "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          3,
-          1,
-          0
-        ],
-        [
-          0,
-          2,
-          1
-        ]
-      ],
-      "label": "Stavba 03: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
-    },
-    "concept": "cube-count"
-  },
-  {
-    "id": "TO-394",
+    "id": "TO-PROJ-007",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 04: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "prompt": "Držiak s odstupňovanou stenou: Vyber pohľad spredu (nárys).",
     "options": [
-      "2 – 2 – 2",
-      "3 – 3 – 3",
-      "1 – 1 – 1",
-      "5 – 5 – 5"
+      "part-03-front",
+      "part-03-left",
+      "part-03-top",
+      "part-01-front"
     ],
-    "answer": "2 – 2 – 2",
-    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 2 – 2 – 2.",
+    "answer": "part-03-front",
+    "explanation": "Nárys vznikne pohľadom spredu, presne v smere označenej šípky. V tomto pohľade sleduj šírku a výšku dielu; hĺbka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -9593,40 +9461,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          1,
-          2,
-          1
-        ],
-        [
-          2,
-          0,
-          2
-        ]
-      ],
-      "label": "Stavba 04: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-03-iso.svg",
+      "alt": "Držiak s odstupňovanou stenou – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-03",
+      "targetView": "front"
     },
-    "concept": "projection-front"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-03-front": "assets/projection/part-03-front.svg",
+      "part-03-left": "assets/projection/part-03-left.svg",
+      "part-03-top": "assets/projection/part-03-top.svg",
+      "part-01-front": "assets/projection/part-01-front.svg"
+    }
   },
   {
-    "id": "TO-395",
+    "id": "TO-PROJ-008",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 04: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "prompt": "Držiak s odstupňovanou stenou: Vyber pohľad zľava (ľavý bokorys).",
     "options": [
-      "2 – 2",
-      "3 – 3",
-      "1 – 1",
-      "5 – 5"
+      "part-03-left",
+      "part-03-front",
+      "part-03-top",
+      "part-02-left"
     ],
-    "answer": "2 – 2",
-    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 2 – 2.",
+    "answer": "part-03-left",
+    "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -9634,78 +9499,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          1,
-          2,
-          1
-        ],
-        [
-          2,
-          0,
-          2
-        ]
-      ],
-      "label": "Stavba 04: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-03-iso.svg",
+      "alt": "Držiak s odstupňovanou stenou – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-03",
+      "targetView": "left"
     },
-    "concept": "projection-side"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-03-left": "assets/projection/part-03-left.svg",
+      "part-03-front": "assets/projection/part-03-front.svg",
+      "part-03-top": "assets/projection/part-03-top.svg",
+      "part-02-left": "assets/projection/part-02-left.svg"
+    }
   },
   {
-    "id": "TO-396",
-    "categories": [
-      "A",
-      "B"
-    ],
-    "topic": "Pravouhlé premietanie",
-    "type": "short",
-    "prompt": "Stavba 04: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
-    "options": [],
-    "answer": [
-      "8"
-    ],
-    "explanation": "Sčítame všetky čísla v mape výšok: 4 + 4 = 8.",
-    "difficulty": 2,
-    "source": {
-      "kind": "original",
-      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
-    },
-    "version": 1,
-    "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          1,
-          2,
-          1
-        ],
-        [
-          2,
-          0,
-          2
-        ]
-      ],
-      "label": "Stavba 04: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
-    },
-    "concept": "cube-count"
-  },
-  {
-    "id": "TO-397",
+    "id": "TO-PROJ-009",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 05: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "prompt": "Držiak s odstupňovanou stenou: Vyber pohľad zhora (pôdorys).",
     "options": [
-      "2 – 2 – 3",
-      "3 – 2 – 2",
-      "3 – 3 – 4",
-      "1 – 1 – 2"
+      "part-03-top",
+      "part-03-front",
+      "part-03-left",
+      "part-01-top"
     ],
-    "answer": "2 – 2 – 3",
-    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 2 – 2 – 3.",
+    "answer": "part-03-top",
+    "explanation": "Pôdorys vznikne pohľadom zhora, presne v smere označenej šípky. V tomto pohľade sleduj šírku a hĺbku dielu; výška sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -9713,40 +9537,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          0,
-          1,
-          3
-        ],
-        [
-          2,
-          2,
-          0
-        ]
-      ],
-      "label": "Stavba 05: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-03-iso.svg",
+      "alt": "Držiak s odstupňovanou stenou – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-03",
+      "targetView": "top"
     },
-    "concept": "projection-front"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-03-top": "assets/projection/part-03-top.svg",
+      "part-03-front": "assets/projection/part-03-front.svg",
+      "part-03-left": "assets/projection/part-03-left.svg",
+      "part-01-top": "assets/projection/part-01-top.svg"
+    }
   },
   {
-    "id": "TO-398",
+    "id": "TO-PROJ-010",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 05: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "prompt": "Pätka s centrálnym rebrom: Vyber pohľad spredu (nárys).",
     "options": [
-      "3 – 2",
-      "2 – 3",
-      "4 – 3",
-      "2 – 1"
+      "part-04-front",
+      "part-04-left",
+      "part-04-top",
+      "part-01-front"
     ],
-    "answer": "3 – 2",
-    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 3 – 2.",
+    "answer": "part-04-front",
+    "explanation": "Nárys vznikne pohľadom spredu, presne v smere označenej šípky. V tomto pohľade sleduj šírku a výšku dielu; hĺbka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -9754,78 +9575,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          0,
-          1,
-          3
-        ],
-        [
-          2,
-          2,
-          0
-        ]
-      ],
-      "label": "Stavba 05: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-04-iso.svg",
+      "alt": "Pätka s centrálnym rebrom – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-04",
+      "targetView": "front"
     },
-    "concept": "projection-side"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-04-front": "assets/projection/part-04-front.svg",
+      "part-04-left": "assets/projection/part-04-left.svg",
+      "part-04-top": "assets/projection/part-04-top.svg",
+      "part-01-front": "assets/projection/part-01-front.svg"
+    }
   },
   {
-    "id": "TO-399",
-    "categories": [
-      "A",
-      "B"
-    ],
-    "topic": "Pravouhlé premietanie",
-    "type": "short",
-    "prompt": "Stavba 05: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
-    "options": [],
-    "answer": [
-      "8"
-    ],
-    "explanation": "Sčítame všetky čísla v mape výšok: 4 + 4 = 8.",
-    "difficulty": 2,
-    "source": {
-      "kind": "original",
-      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
-    },
-    "version": 1,
-    "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          0,
-          1,
-          3
-        ],
-        [
-          2,
-          2,
-          0
-        ]
-      ],
-      "label": "Stavba 05: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
-    },
-    "concept": "cube-count"
-  },
-  {
-    "id": "TO-400",
+    "id": "TO-PROJ-011",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 06: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "prompt": "Pätka s centrálnym rebrom: Vyber pohľad zľava (ľavý bokorys).",
     "options": [
-      "2 – 3 – 1",
-      "1 – 3 – 2",
-      "3 – 4 – 2",
-      "1 – 2 – 0"
+      "part-04-left",
+      "part-04-front",
+      "part-04-top",
+      "part-01-left"
     ],
-    "answer": "2 – 3 – 1",
-    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 2 – 3 – 1.",
+    "answer": "part-04-left",
+    "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -9833,40 +9613,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          2,
-          3,
-          0
-        ],
-        [
-          1,
-          0,
-          1
-        ]
-      ],
-      "label": "Stavba 06: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-04-iso.svg",
+      "alt": "Pätka s centrálnym rebrom – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-04",
+      "targetView": "left"
     },
-    "concept": "projection-front"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-04-left": "assets/projection/part-04-left.svg",
+      "part-04-front": "assets/projection/part-04-front.svg",
+      "part-04-top": "assets/projection/part-04-top.svg",
+      "part-01-left": "assets/projection/part-01-left.svg"
+    }
   },
   {
-    "id": "TO-401",
+    "id": "TO-PROJ-012",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 06: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "prompt": "Pätka s centrálnym rebrom: Vyber pohľad zhora (pôdorys).",
     "options": [
-      "3 – 1",
-      "1 – 3",
-      "4 – 2",
-      "2 – 0"
+      "part-04-top",
+      "part-04-front",
+      "part-04-left",
+      "part-01-top"
     ],
-    "answer": "3 – 1",
-    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 3 – 1.",
+    "answer": "part-04-top",
+    "explanation": "Pôdorys vznikne pohľadom zhora, presne v smere označenej šípky. V tomto pohľade sleduj šírku a hĺbku dielu; výška sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -9874,78 +9651,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          2,
-          3,
-          0
-        ],
-        [
-          1,
-          0,
-          1
-        ]
-      ],
-      "label": "Stavba 06: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-04-iso.svg",
+      "alt": "Pätka s centrálnym rebrom – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-04",
+      "targetView": "top"
     },
-    "concept": "projection-side"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-04-top": "assets/projection/part-04-top.svg",
+      "part-04-front": "assets/projection/part-04-front.svg",
+      "part-04-left": "assets/projection/part-04-left.svg",
+      "part-01-top": "assets/projection/part-01-top.svg"
+    }
   },
   {
-    "id": "TO-402",
-    "categories": [
-      "A",
-      "B"
-    ],
-    "topic": "Pravouhlé premietanie",
-    "type": "short",
-    "prompt": "Stavba 06: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
-    "options": [],
-    "answer": [
-      "7"
-    ],
-    "explanation": "Sčítame všetky čísla v mape výšok: 5 + 2 = 7.",
-    "difficulty": 2,
-    "source": {
-      "kind": "original",
-      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
-    },
-    "version": 1,
-    "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          2,
-          3,
-          0
-        ],
-        [
-          1,
-          0,
-          1
-        ]
-      ],
-      "label": "Stavba 06: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
-    },
-    "concept": "cube-count"
-  },
-  {
-    "id": "TO-403",
+    "id": "TO-PROJ-013",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 07: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "prompt": "Blok s pozdĺžnou drážkou: Vyber pohľad spredu (nárys).",
     "options": [
-      "2 – 3 – 2",
-      "3 – 4 – 3",
-      "1 – 2 – 1",
-      "3 – 0 – 3"
+      "part-05-front",
+      "part-05-left",
+      "part-05-top",
+      "part-01-front"
     ],
-    "answer": "2 – 3 – 2",
-    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 2 – 3 – 2.",
+    "answer": "part-05-front",
+    "explanation": "Nárys vznikne pohľadom spredu, presne v smere označenej šípky. V tomto pohľade sleduj šírku a výšku dielu; hĺbka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -9953,45 +9689,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          1,
-          0,
-          2
-        ],
-        [
-          0,
-          3,
-          1
-        ],
-        [
-          2,
-          1,
-          0
-        ]
-      ],
-      "label": "Stavba 07: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-05-iso.svg",
+      "alt": "Blok s pozdĺžnou drážkou – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-05",
+      "targetView": "front"
     },
-    "concept": "projection-front"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-05-front": "assets/projection/part-05-front.svg",
+      "part-05-left": "assets/projection/part-05-left.svg",
+      "part-05-top": "assets/projection/part-05-top.svg",
+      "part-01-front": "assets/projection/part-01-front.svg"
+    }
   },
   {
-    "id": "TO-404",
+    "id": "TO-PROJ-014",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 07: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "prompt": "Blok s pozdĺžnou drážkou: Vyber pohľad zľava (ľavý bokorys).",
     "options": [
-      "2 – 3 – 2",
-      "3 – 4 – 3",
-      "1 – 2 – 1",
-      "3 – 0 – 3"
+      "part-05-left",
+      "part-05-front",
+      "part-05-top",
+      "part-01-left"
     ],
-    "answer": "2 – 3 – 2",
-    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 2 – 3 – 2.",
+    "answer": "part-05-left",
+    "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -9999,88 +9727,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          1,
-          0,
-          2
-        ],
-        [
-          0,
-          3,
-          1
-        ],
-        [
-          2,
-          1,
-          0
-        ]
-      ],
-      "label": "Stavba 07: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-05-iso.svg",
+      "alt": "Blok s pozdĺžnou drážkou – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-05",
+      "targetView": "left"
     },
-    "concept": "projection-side"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-05-left": "assets/projection/part-05-left.svg",
+      "part-05-front": "assets/projection/part-05-front.svg",
+      "part-05-top": "assets/projection/part-05-top.svg",
+      "part-01-left": "assets/projection/part-01-left.svg"
+    }
   },
   {
-    "id": "TO-405",
-    "categories": [
-      "A",
-      "B"
-    ],
-    "topic": "Pravouhlé premietanie",
-    "type": "short",
-    "prompt": "Stavba 07: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
-    "options": [],
-    "answer": [
-      "10"
-    ],
-    "explanation": "Sčítame všetky čísla v mape výšok: 3 + 4 + 3 = 10.",
-    "difficulty": 2,
-    "source": {
-      "kind": "original",
-      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
-    },
-    "version": 1,
-    "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          1,
-          0,
-          2
-        ],
-        [
-          0,
-          3,
-          1
-        ],
-        [
-          2,
-          1,
-          0
-        ]
-      ],
-      "label": "Stavba 07: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
-    },
-    "concept": "cube-count"
-  },
-  {
-    "id": "TO-406",
+    "id": "TO-PROJ-015",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 08: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "prompt": "Blok s pozdĺžnou drážkou: Vyber pohľad zhora (pôdorys).",
     "options": [
-      "3 – 2 – 2",
-      "2 – 2 – 3",
-      "4 – 3 – 3",
-      "2 – 1 – 1"
+      "part-05-top",
+      "part-05-front",
+      "part-05-left",
+      "part-01-top"
     ],
-    "answer": "3 – 2 – 2",
-    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 3 – 2 – 2.",
+    "answer": "part-05-top",
+    "explanation": "Pôdorys vznikne pohľadom zhora, presne v smere označenej šípky. V tomto pohľade sleduj šírku a hĺbku dielu; výška sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -10088,45 +9765,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          3,
-          0,
-          1
-        ],
-        [
-          1,
-          2,
-          0
-        ],
-        [
-          0,
-          1,
-          2
-        ]
-      ],
-      "label": "Stavba 08: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-05-iso.svg",
+      "alt": "Blok s pozdĺžnou drážkou – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-05",
+      "targetView": "top"
     },
-    "concept": "projection-front"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-05-top": "assets/projection/part-05-top.svg",
+      "part-05-front": "assets/projection/part-05-front.svg",
+      "part-05-left": "assets/projection/part-05-left.svg",
+      "part-01-top": "assets/projection/part-01-top.svg"
+    }
   },
   {
-    "id": "TO-407",
+    "id": "TO-PROJ-016",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 08: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "prompt": "Držiak s bočnou drážkou: Vyber pohľad spredu (nárys).",
     "options": [
-      "3 – 2 – 2",
-      "2 – 2 – 3",
-      "4 – 3 – 3",
-      "2 – 1 – 1"
+      "part-06-front",
+      "part-06-left",
+      "part-06-top",
+      "part-01-front"
     ],
-    "answer": "3 – 2 – 2",
-    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 3 – 2 – 2.",
+    "answer": "part-06-front",
+    "explanation": "Nárys vznikne pohľadom spredu, presne v smere označenej šípky. V tomto pohľade sleduj šírku a výšku dielu; hĺbka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -10134,88 +9803,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          3,
-          0,
-          1
-        ],
-        [
-          1,
-          2,
-          0
-        ],
-        [
-          0,
-          1,
-          2
-        ]
-      ],
-      "label": "Stavba 08: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-06-iso.svg",
+      "alt": "Držiak s bočnou drážkou – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-06",
+      "targetView": "front"
     },
-    "concept": "projection-side"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-06-front": "assets/projection/part-06-front.svg",
+      "part-06-left": "assets/projection/part-06-left.svg",
+      "part-06-top": "assets/projection/part-06-top.svg",
+      "part-01-front": "assets/projection/part-01-front.svg"
+    }
   },
   {
-    "id": "TO-408",
-    "categories": [
-      "A",
-      "B"
-    ],
-    "topic": "Pravouhlé premietanie",
-    "type": "short",
-    "prompt": "Stavba 08: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
-    "options": [],
-    "answer": [
-      "10"
-    ],
-    "explanation": "Sčítame všetky čísla v mape výšok: 4 + 3 + 3 = 10.",
-    "difficulty": 2,
-    "source": {
-      "kind": "original",
-      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
-    },
-    "version": 1,
-    "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          3,
-          0,
-          1
-        ],
-        [
-          1,
-          2,
-          0
-        ],
-        [
-          0,
-          1,
-          2
-        ]
-      ],
-      "label": "Stavba 08: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
-    },
-    "concept": "cube-count"
-  },
-  {
-    "id": "TO-409",
+    "id": "TO-PROJ-017",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 09: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "prompt": "Držiak s bočnou drážkou: Vyber pohľad zľava (ľavý bokorys).",
     "options": [
-      "3 – 2 – 2",
-      "2 – 2 – 3",
-      "4 – 3 – 3",
-      "2 – 1 – 1"
+      "part-06-left",
+      "part-06-front",
+      "part-06-top",
+      "part-01-left"
     ],
-    "answer": "3 – 2 – 2",
-    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 3 – 2 – 2.",
+    "answer": "part-06-left",
+    "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -10223,45 +9841,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          0,
-          2,
-          1
-        ],
-        [
-          3,
-          0,
-          2
-        ],
-        [
-          1,
-          1,
-          0
-        ]
-      ],
-      "label": "Stavba 09: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-06-iso.svg",
+      "alt": "Držiak s bočnou drážkou – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-06",
+      "targetView": "left"
     },
-    "concept": "projection-front"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-06-left": "assets/projection/part-06-left.svg",
+      "part-06-front": "assets/projection/part-06-front.svg",
+      "part-06-top": "assets/projection/part-06-top.svg",
+      "part-01-left": "assets/projection/part-01-left.svg"
+    }
   },
   {
-    "id": "TO-410",
+    "id": "TO-PROJ-018",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 09: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "prompt": "Držiak s bočnou drážkou: Vyber pohľad zhora (pôdorys).",
     "options": [
-      "2 – 3 – 1",
-      "1 – 3 – 2",
-      "3 – 4 – 2",
-      "1 – 2 – 0"
+      "part-06-top",
+      "part-06-front",
+      "part-06-left",
+      "part-01-top"
     ],
-    "answer": "2 – 3 – 1",
-    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 2 – 3 – 1.",
+    "answer": "part-06-top",
+    "explanation": "Pôdorys vznikne pohľadom zhora, presne v smere označenej šípky. V tomto pohľade sleduj šírku a hĺbku dielu; výška sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -10269,88 +9879,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          0,
-          2,
-          1
-        ],
-        [
-          3,
-          0,
-          2
-        ],
-        [
-          1,
-          1,
-          0
-        ]
-      ],
-      "label": "Stavba 09: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-06-iso.svg",
+      "alt": "Držiak s bočnou drážkou – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-06",
+      "targetView": "top"
     },
-    "concept": "projection-side"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-06-top": "assets/projection/part-06-top.svg",
+      "part-06-front": "assets/projection/part-06-front.svg",
+      "part-06-left": "assets/projection/part-06-left.svg",
+      "part-01-top": "assets/projection/part-01-top.svg"
+    }
   },
   {
-    "id": "TO-411",
-    "categories": [
-      "A",
-      "B"
-    ],
-    "topic": "Pravouhlé premietanie",
-    "type": "short",
-    "prompt": "Stavba 09: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
-    "options": [],
-    "answer": [
-      "10"
-    ],
-    "explanation": "Sčítame všetky čísla v mape výšok: 3 + 5 + 2 = 10.",
-    "difficulty": 2,
-    "source": {
-      "kind": "original",
-      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
-    },
-    "version": 1,
-    "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          0,
-          2,
-          1
-        ],
-        [
-          3,
-          0,
-          2
-        ],
-        [
-          1,
-          1,
-          0
-        ]
-      ],
-      "label": "Stavba 09: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
-    },
-    "concept": "cube-count"
-  },
-  {
-    "id": "TO-412",
+    "id": "TO-PROJ-019",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 10: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "prompt": "Lomená montážna pätka: Vyber pohľad spredu (nárys).",
     "options": [
-      "2 – 3 – 2",
-      "3 – 4 – 3",
-      "1 – 2 – 1",
-      "3 – 0 – 3"
+      "part-07-front",
+      "part-07-left",
+      "part-07-top",
+      "part-01-front"
     ],
-    "answer": "2 – 3 – 2",
-    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 2 – 3 – 2.",
+    "answer": "part-07-front",
+    "explanation": "Nárys vznikne pohľadom spredu, presne v smere označenej šípky. V tomto pohľade sleduj šírku a výšku dielu; hĺbka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -10358,45 +9917,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          2,
-          1,
-          0
-        ],
-        [
-          0,
-          3,
-          1
-        ],
-        [
-          1,
-          0,
-          2
-        ]
-      ],
-      "label": "Stavba 10: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-07-iso.svg",
+      "alt": "Lomená montážna pätka – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-07",
+      "targetView": "front"
     },
-    "concept": "projection-front"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-07-front": "assets/projection/part-07-front.svg",
+      "part-07-left": "assets/projection/part-07-left.svg",
+      "part-07-top": "assets/projection/part-07-top.svg",
+      "part-01-front": "assets/projection/part-01-front.svg"
+    }
   },
   {
-    "id": "TO-413",
+    "id": "TO-PROJ-020",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 10: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "prompt": "Lomená montážna pätka: Vyber pohľad zľava (ľavý bokorys).",
     "options": [
-      "2 – 3 – 2",
-      "3 – 4 – 3",
-      "1 – 2 – 1",
-      "3 – 0 – 3"
+      "part-07-left",
+      "part-07-front",
+      "part-07-top",
+      "part-01-left"
     ],
-    "answer": "2 – 3 – 2",
-    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 2 – 3 – 2.",
+    "answer": "part-07-left",
+    "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -10404,88 +9955,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          2,
-          1,
-          0
-        ],
-        [
-          0,
-          3,
-          1
-        ],
-        [
-          1,
-          0,
-          2
-        ]
-      ],
-      "label": "Stavba 10: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-07-iso.svg",
+      "alt": "Lomená montážna pätka – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-07",
+      "targetView": "left"
     },
-    "concept": "projection-side"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-07-left": "assets/projection/part-07-left.svg",
+      "part-07-front": "assets/projection/part-07-front.svg",
+      "part-07-top": "assets/projection/part-07-top.svg",
+      "part-01-left": "assets/projection/part-01-left.svg"
+    }
   },
   {
-    "id": "TO-414",
-    "categories": [
-      "A",
-      "B"
-    ],
-    "topic": "Pravouhlé premietanie",
-    "type": "short",
-    "prompt": "Stavba 10: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
-    "options": [],
-    "answer": [
-      "10"
-    ],
-    "explanation": "Sčítame všetky čísla v mape výšok: 3 + 4 + 3 = 10.",
-    "difficulty": 2,
-    "source": {
-      "kind": "original",
-      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
-    },
-    "version": 1,
-    "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          2,
-          1,
-          0
-        ],
-        [
-          0,
-          3,
-          1
-        ],
-        [
-          1,
-          0,
-          2
-        ]
-      ],
-      "label": "Stavba 10: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
-    },
-    "concept": "cube-count"
-  },
-  {
-    "id": "TO-415",
+    "id": "TO-PROJ-021",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 11: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "prompt": "Lomená montážna pätka: Vyber pohľad zhora (pôdorys).",
     "options": [
-      "3 – 2 – 2",
-      "2 – 2 – 3",
-      "4 – 3 – 3",
-      "2 – 1 – 1"
+      "part-07-top",
+      "part-07-front",
+      "part-07-left",
+      "part-01-top"
     ],
-    "answer": "3 – 2 – 2",
-    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 3 – 2 – 2.",
+    "answer": "part-07-top",
+    "explanation": "Pôdorys vznikne pohľadom zhora, presne v smere označenej šípky. V tomto pohľade sleduj šírku a hĺbku dielu; výška sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -10493,45 +9993,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          1,
-          2,
-          0
-        ],
-        [
-          3,
-          1,
-          1
-        ],
-        [
-          0,
-          0,
-          2
-        ]
-      ],
-      "label": "Stavba 11: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-07-iso.svg",
+      "alt": "Lomená montážna pätka – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-07",
+      "targetView": "top"
     },
-    "concept": "projection-front"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-07-top": "assets/projection/part-07-top.svg",
+      "part-07-front": "assets/projection/part-07-front.svg",
+      "part-07-left": "assets/projection/part-07-left.svg",
+      "part-01-top": "assets/projection/part-01-top.svg"
+    }
   },
   {
-    "id": "TO-416",
+    "id": "TO-PROJ-022",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 11: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "prompt": "Blok s dvoma výškovými stupňami: Vyber pohľad spredu (nárys).",
     "options": [
-      "2 – 3 – 2",
-      "3 – 4 – 3",
-      "1 – 2 – 1",
-      "3 – 0 – 3"
+      "part-08-front",
+      "part-08-left",
+      "part-08-top",
+      "part-01-front"
     ],
-    "answer": "2 – 3 – 2",
-    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 2 – 3 – 2.",
+    "answer": "part-08-front",
+    "explanation": "Nárys vznikne pohľadom spredu, presne v smere označenej šípky. V tomto pohľade sleduj šírku a výšku dielu; hĺbka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -10539,88 +10031,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          1,
-          2,
-          0
-        ],
-        [
-          3,
-          1,
-          1
-        ],
-        [
-          0,
-          0,
-          2
-        ]
-      ],
-      "label": "Stavba 11: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-08-iso.svg",
+      "alt": "Blok s dvoma výškovými stupňami – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-08",
+      "targetView": "front"
     },
-    "concept": "projection-side"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-08-front": "assets/projection/part-08-front.svg",
+      "part-08-left": "assets/projection/part-08-left.svg",
+      "part-08-top": "assets/projection/part-08-top.svg",
+      "part-01-front": "assets/projection/part-01-front.svg"
+    }
   },
   {
-    "id": "TO-417",
-    "categories": [
-      "A",
-      "B"
-    ],
-    "topic": "Pravouhlé premietanie",
-    "type": "short",
-    "prompt": "Stavba 11: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
-    "options": [],
-    "answer": [
-      "10"
-    ],
-    "explanation": "Sčítame všetky čísla v mape výšok: 3 + 5 + 2 = 10.",
-    "difficulty": 2,
-    "source": {
-      "kind": "original",
-      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
-    },
-    "version": 1,
-    "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          1,
-          2,
-          0
-        ],
-        [
-          3,
-          1,
-          1
-        ],
-        [
-          0,
-          0,
-          2
-        ]
-      ],
-      "label": "Stavba 11: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
-    },
-    "concept": "cube-count"
-  },
-  {
-    "id": "TO-418",
+    "id": "TO-PROJ-023",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 12: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "prompt": "Blok s dvoma výškovými stupňami: Vyber pohľad zľava (ľavý bokorys).",
     "options": [
-      "2 – 2 – 3",
-      "3 – 2 – 2",
-      "3 – 3 – 4",
-      "1 – 1 – 2"
+      "part-08-left",
+      "part-08-front",
+      "part-08-top",
+      "part-01-left"
     ],
-    "answer": "2 – 2 – 3",
-    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 2 – 2 – 3.",
+    "answer": "part-08-left",
+    "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -10628,45 +10069,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          2,
-          0,
-          3
-        ],
-        [
-          1,
-          1,
-          0
-        ],
-        [
-          0,
-          2,
-          1
-        ]
-      ],
-      "label": "Stavba 12: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-08-iso.svg",
+      "alt": "Blok s dvoma výškovými stupňami – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-08",
+      "targetView": "left"
     },
-    "concept": "projection-front"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-08-left": "assets/projection/part-08-left.svg",
+      "part-08-front": "assets/projection/part-08-front.svg",
+      "part-08-top": "assets/projection/part-08-top.svg",
+      "part-01-left": "assets/projection/part-01-left.svg"
+    }
   },
   {
-    "id": "TO-419",
+    "id": "TO-PROJ-024",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
     "type": "mc",
-    "prompt": "Stavba 12: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "prompt": "Blok s dvoma výškovými stupňami: Vyber pohľad zhora (pôdorys).",
     "options": [
-      "3 – 1 – 2",
-      "2 – 1 – 3",
-      "4 – 2 – 3",
-      "2 – 0 – 1"
+      "part-08-top",
+      "part-08-front",
+      "part-08-left",
+      "part-01-top"
     ],
-    "answer": "3 – 1 – 2",
-    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 3 – 1 – 2.",
+    "answer": "part-08-top",
+    "explanation": "Pôdorys vznikne pohľadom zhora, presne v smere označenej šípky. V tomto pohľade sleduj šírku a hĺbku dielu; výška sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -10674,42 +10107,37 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          2,
-          0,
-          3
-        ],
-        [
-          1,
-          1,
-          0
-        ],
-        [
-          0,
-          2,
-          1
-        ]
-      ],
-      "label": "Stavba 12: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-08-iso.svg",
+      "alt": "Blok s dvoma výškovými stupňami – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-08",
+      "targetView": "top"
     },
-    "concept": "projection-side"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-08-top": "assets/projection/part-08-top.svg",
+      "part-08-front": "assets/projection/part-08-front.svg",
+      "part-08-left": "assets/projection/part-08-left.svg",
+      "part-01-top": "assets/projection/part-01-top.svg"
+    }
   },
   {
-    "id": "TO-420",
+    "id": "TO-PROJ-025",
     "categories": [
       "A",
       "B"
     ],
     "topic": "Pravouhlé premietanie",
-    "type": "short",
-    "prompt": "Stavba 12: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
-    "options": [],
-    "answer": [
-      "10"
+    "type": "mc",
+    "prompt": "Vidlicový držiak na základni: Vyber pohľad spredu (nárys).",
+    "options": [
+      "part-09-front",
+      "part-09-left",
+      "part-09-top",
+      "part-01-front"
     ],
-    "explanation": "Sčítame všetky čísla v mape výšok: 5 + 2 + 3 = 10.",
+    "answer": "part-09-front",
+    "explanation": "Nárys vznikne pohľadom spredu, presne v smere označenej šípky. V tomto pohľade sleduj šírku a výšku dielu; hĺbka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
     "difficulty": 2,
     "source": {
       "kind": "original",
@@ -10717,27 +10145,437 @@
     },
     "version": 1,
     "diagram": {
-      "kind": "heightmap",
-      "heights": [
-        [
-          2,
-          0,
-          3
-        ],
-        [
-          1,
-          1,
-          0
-        ],
-        [
-          0,
-          2,
-          1
-        ]
-      ],
-      "label": "Stavba 12: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+      "kind": "solid",
+      "image": "assets/projection/part-09-iso.svg",
+      "alt": "Vidlicový držiak na základni – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-09",
+      "targetView": "front"
     },
-    "concept": "cube-count"
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-09-front": "assets/projection/part-09-front.svg",
+      "part-09-left": "assets/projection/part-09-left.svg",
+      "part-09-top": "assets/projection/part-09-top.svg",
+      "part-01-front": "assets/projection/part-01-front.svg"
+    }
+  },
+  {
+    "id": "TO-PROJ-026",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Vidlicový držiak na základni: Vyber pohľad zľava (ľavý bokorys).",
+    "options": [
+      "part-09-left",
+      "part-09-front",
+      "part-09-top",
+      "part-01-left"
+    ],
+    "answer": "part-09-left",
+    "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/projection/part-09-iso.svg",
+      "alt": "Vidlicový držiak na základni – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-09",
+      "targetView": "left"
+    },
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-09-left": "assets/projection/part-09-left.svg",
+      "part-09-front": "assets/projection/part-09-front.svg",
+      "part-09-top": "assets/projection/part-09-top.svg",
+      "part-01-left": "assets/projection/part-01-left.svg"
+    }
+  },
+  {
+    "id": "TO-PROJ-027",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Vidlicový držiak na základni: Vyber pohľad zhora (pôdorys).",
+    "options": [
+      "part-09-top",
+      "part-09-front",
+      "part-09-left",
+      "part-01-top"
+    ],
+    "answer": "part-09-top",
+    "explanation": "Pôdorys vznikne pohľadom zhora, presne v smere označenej šípky. V tomto pohľade sleduj šírku a hĺbku dielu; výška sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/projection/part-09-iso.svg",
+      "alt": "Vidlicový držiak na základni – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-09",
+      "targetView": "top"
+    },
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-09-top": "assets/projection/part-09-top.svg",
+      "part-09-front": "assets/projection/part-09-front.svg",
+      "part-09-left": "assets/projection/part-09-left.svg",
+      "part-01-top": "assets/projection/part-01-top.svg"
+    }
+  },
+  {
+    "id": "TO-PROJ-028",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Podstavec s hranatým výstupkom: Vyber pohľad spredu (nárys).",
+    "options": [
+      "part-10-front",
+      "part-10-top",
+      "part-01-front",
+      "part-02-front"
+    ],
+    "answer": "part-10-front",
+    "explanation": "Nárys vznikne pohľadom spredu, presne v smere označenej šípky. V tomto pohľade sleduj šírku a výšku dielu; hĺbka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/projection/part-10-iso.svg",
+      "alt": "Podstavec s hranatým výstupkom – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-10",
+      "targetView": "front"
+    },
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-10-front": "assets/projection/part-10-front.svg",
+      "part-10-top": "assets/projection/part-10-top.svg",
+      "part-01-front": "assets/projection/part-01-front.svg",
+      "part-02-front": "assets/projection/part-02-front.svg"
+    }
+  },
+  {
+    "id": "TO-PROJ-029",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Podstavec s hranatým výstupkom: Vyber pohľad zľava (ľavý bokorys).",
+    "options": [
+      "part-10-left",
+      "part-10-top",
+      "part-01-left",
+      "part-02-left"
+    ],
+    "answer": "part-10-left",
+    "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/projection/part-10-iso.svg",
+      "alt": "Podstavec s hranatým výstupkom – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-10",
+      "targetView": "left"
+    },
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-10-left": "assets/projection/part-10-left.svg",
+      "part-10-top": "assets/projection/part-10-top.svg",
+      "part-01-left": "assets/projection/part-01-left.svg",
+      "part-02-left": "assets/projection/part-02-left.svg"
+    }
+  },
+  {
+    "id": "TO-PROJ-030",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Podstavec s hranatým výstupkom: Vyber pohľad zhora (pôdorys).",
+    "options": [
+      "part-10-top",
+      "part-10-front",
+      "part-01-top",
+      "part-02-top"
+    ],
+    "answer": "part-10-top",
+    "explanation": "Pôdorys vznikne pohľadom zhora, presne v smere označenej šípky. V tomto pohľade sleduj šírku a hĺbku dielu; výška sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/projection/part-10-iso.svg",
+      "alt": "Podstavec s hranatým výstupkom – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-10",
+      "targetView": "top"
+    },
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-10-top": "assets/projection/part-10-top.svg",
+      "part-10-front": "assets/projection/part-10-front.svg",
+      "part-01-top": "assets/projection/part-01-top.svg",
+      "part-02-top": "assets/projection/part-02-top.svg"
+    }
+  },
+  {
+    "id": "TO-PROJ-031",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Konzola s dvoma ramenami: Vyber pohľad spredu (nárys).",
+    "options": [
+      "part-11-front",
+      "part-11-left",
+      "part-11-top",
+      "part-01-front"
+    ],
+    "answer": "part-11-front",
+    "explanation": "Nárys vznikne pohľadom spredu, presne v smere označenej šípky. V tomto pohľade sleduj šírku a výšku dielu; hĺbka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/projection/part-11-iso.svg",
+      "alt": "Konzola s dvoma ramenami – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-11",
+      "targetView": "front"
+    },
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-11-front": "assets/projection/part-11-front.svg",
+      "part-11-left": "assets/projection/part-11-left.svg",
+      "part-11-top": "assets/projection/part-11-top.svg",
+      "part-01-front": "assets/projection/part-01-front.svg"
+    }
+  },
+  {
+    "id": "TO-PROJ-032",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Konzola s dvoma ramenami: Vyber pohľad zľava (ľavý bokorys).",
+    "options": [
+      "part-11-left",
+      "part-11-front",
+      "part-11-top",
+      "part-01-left"
+    ],
+    "answer": "part-11-left",
+    "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/projection/part-11-iso.svg",
+      "alt": "Konzola s dvoma ramenami – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-11",
+      "targetView": "left"
+    },
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-11-left": "assets/projection/part-11-left.svg",
+      "part-11-front": "assets/projection/part-11-front.svg",
+      "part-11-top": "assets/projection/part-11-top.svg",
+      "part-01-left": "assets/projection/part-01-left.svg"
+    }
+  },
+  {
+    "id": "TO-PROJ-033",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Konzola s dvoma ramenami: Vyber pohľad zhora (pôdorys).",
+    "options": [
+      "part-11-top",
+      "part-11-front",
+      "part-11-left",
+      "part-01-top"
+    ],
+    "answer": "part-11-top",
+    "explanation": "Pôdorys vznikne pohľadom zhora, presne v smere označenej šípky. V tomto pohľade sleduj šírku a hĺbku dielu; výška sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/projection/part-11-iso.svg",
+      "alt": "Konzola s dvoma ramenami – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-11",
+      "targetView": "top"
+    },
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-11-top": "assets/projection/part-11-top.svg",
+      "part-11-front": "assets/projection/part-11-front.svg",
+      "part-11-left": "assets/projection/part-11-left.svg",
+      "part-01-top": "assets/projection/part-01-top.svg"
+    }
+  },
+  {
+    "id": "TO-PROJ-034",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Asymetrický drážkovaný blok: Vyber pohľad spredu (nárys).",
+    "options": [
+      "part-12-front",
+      "part-12-left",
+      "part-12-top",
+      "part-01-front"
+    ],
+    "answer": "part-12-front",
+    "explanation": "Nárys vznikne pohľadom spredu, presne v smere označenej šípky. V tomto pohľade sleduj šírku a výšku dielu; hĺbka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/projection/part-12-iso.svg",
+      "alt": "Asymetrický drážkovaný blok – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-12",
+      "targetView": "front"
+    },
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-12-front": "assets/projection/part-12-front.svg",
+      "part-12-left": "assets/projection/part-12-left.svg",
+      "part-12-top": "assets/projection/part-12-top.svg",
+      "part-01-front": "assets/projection/part-01-front.svg"
+    }
+  },
+  {
+    "id": "TO-PROJ-035",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Asymetrický drážkovaný blok: Vyber pohľad zľava (ľavý bokorys).",
+    "options": [
+      "part-12-left",
+      "part-12-front",
+      "part-12-top",
+      "part-01-left"
+    ],
+    "answer": "part-12-left",
+    "explanation": "Ľavý bokorys vznikne pohľadom zľava, presne v smere označenej šípky. V tomto pohľade sleduj hĺbku a výšku dielu; šírka sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/projection/part-12-iso.svg",
+      "alt": "Asymetrický drážkovaný blok – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-12",
+      "targetView": "left"
+    },
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-12-left": "assets/projection/part-12-left.svg",
+      "part-12-front": "assets/projection/part-12-front.svg",
+      "part-12-top": "assets/projection/part-12-top.svg",
+      "part-01-left": "assets/projection/part-01-left.svg"
+    }
+  },
+  {
+    "id": "TO-PROJ-036",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Asymetrický drážkovaný blok: Vyber pohľad zhora (pôdorys).",
+    "options": [
+      "part-12-top",
+      "part-12-front",
+      "part-12-left",
+      "part-01-top"
+    ],
+    "answer": "part-12-top",
+    "explanation": "Pôdorys vznikne pohľadom zhora, presne v smere označenej šípky. V tomto pohľade sleduj šírku a hĺbku dielu; výška sa premieta za seba. Hrubý obrys určuje tvar, vnútorné plné čiary znázorňujú viditeľné hrany alebo stupne.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/projection/part-12-iso.svg",
+      "alt": "Asymetrický drážkovaný blok – priestorový technický diel; vyznačené smery spredu, zľava a zhora.",
+      "objectId": "part-12",
+      "targetView": "top"
+    },
+    "concept": "orthographic-object",
+    "optionImages": {
+      "part-12-top": "assets/projection/part-12-top.svg",
+      "part-12-front": "assets/projection/part-12-front.svg",
+      "part-12-left": "assets/projection/part-12-left.svg",
+      "part-01-top": "assets/projection/part-01-top.svg"
+    }
   },
   {
     "id": "TO-421",

@@ -1,0 +1,1627 @@
+[
+  {
+    "id": "TO-385",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 01: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "options": [
+      "2 – 1 – 2",
+      "3 – 2 – 3",
+      "1 – 0 – 1",
+      "5 – 4 – 5"
+    ],
+    "answer": "2 – 1 – 2",
+    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 2 – 1 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ],
+      "label": "Stavba 01: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-front"
+  },
+  {
+    "id": "TO-386",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 01: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "options": [
+      "2 – 2",
+      "3 – 3",
+      "1 – 1",
+      "5 – 5"
+    ],
+    "answer": "2 – 2",
+    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 2 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ],
+      "label": "Stavba 01: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-side"
+  },
+  {
+    "id": "TO-387",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "short",
+    "prompt": "Stavba 01: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
+    "options": [],
+    "answer": [
+      "6"
+    ],
+    "explanation": "Sčítame všetky čísla v mape výšok: 3 + 3 = 6.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ],
+      "label": "Stavba 01: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "cube-count"
+  },
+  {
+    "id": "TO-388",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 02: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "options": [
+      "1 – 2 – 3",
+      "3 – 2 – 1",
+      "2 – 3 – 4",
+      "0 – 1 – 2"
+    ],
+    "answer": "1 – 2 – 3",
+    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 1 – 2 – 3.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          0,
+          2,
+          1
+        ],
+        [
+          1,
+          0,
+          3
+        ]
+      ],
+      "label": "Stavba 02: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-front"
+  },
+  {
+    "id": "TO-389",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 02: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "options": [
+      "2 – 3",
+      "3 – 2",
+      "3 – 4",
+      "1 – 2"
+    ],
+    "answer": "2 – 3",
+    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 2 – 3.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          0,
+          2,
+          1
+        ],
+        [
+          1,
+          0,
+          3
+        ]
+      ],
+      "label": "Stavba 02: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-side"
+  },
+  {
+    "id": "TO-390",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "short",
+    "prompt": "Stavba 02: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
+    "options": [],
+    "answer": [
+      "7"
+    ],
+    "explanation": "Sčítame všetky čísla v mape výšok: 3 + 4 = 7.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          0,
+          2,
+          1
+        ],
+        [
+          1,
+          0,
+          3
+        ]
+      ],
+      "label": "Stavba 02: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "cube-count"
+  },
+  {
+    "id": "TO-391",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 03: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "options": [
+      "3 – 2 – 1",
+      "1 – 2 – 3",
+      "4 – 3 – 2",
+      "2 – 1 – 0"
+    ],
+    "answer": "3 – 2 – 1",
+    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 3 – 2 – 1.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          3,
+          1,
+          0
+        ],
+        [
+          0,
+          2,
+          1
+        ]
+      ],
+      "label": "Stavba 03: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-front"
+  },
+  {
+    "id": "TO-392",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 03: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "options": [
+      "3 – 2",
+      "2 – 3",
+      "4 – 3",
+      "2 – 1"
+    ],
+    "answer": "3 – 2",
+    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 3 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          3,
+          1,
+          0
+        ],
+        [
+          0,
+          2,
+          1
+        ]
+      ],
+      "label": "Stavba 03: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-side"
+  },
+  {
+    "id": "TO-393",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "short",
+    "prompt": "Stavba 03: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
+    "options": [],
+    "answer": [
+      "7"
+    ],
+    "explanation": "Sčítame všetky čísla v mape výšok: 4 + 3 = 7.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          3,
+          1,
+          0
+        ],
+        [
+          0,
+          2,
+          1
+        ]
+      ],
+      "label": "Stavba 03: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "cube-count"
+  },
+  {
+    "id": "TO-394",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 04: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "options": [
+      "2 – 2 – 2",
+      "3 – 3 – 3",
+      "1 – 1 – 1",
+      "5 – 5 – 5"
+    ],
+    "answer": "2 – 2 – 2",
+    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 2 – 2 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          1,
+          2,
+          1
+        ],
+        [
+          2,
+          0,
+          2
+        ]
+      ],
+      "label": "Stavba 04: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-front"
+  },
+  {
+    "id": "TO-395",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 04: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "options": [
+      "2 – 2",
+      "3 – 3",
+      "1 – 1",
+      "5 – 5"
+    ],
+    "answer": "2 – 2",
+    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 2 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          1,
+          2,
+          1
+        ],
+        [
+          2,
+          0,
+          2
+        ]
+      ],
+      "label": "Stavba 04: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-side"
+  },
+  {
+    "id": "TO-396",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "short",
+    "prompt": "Stavba 04: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
+    "options": [],
+    "answer": [
+      "8"
+    ],
+    "explanation": "Sčítame všetky čísla v mape výšok: 4 + 4 = 8.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          1,
+          2,
+          1
+        ],
+        [
+          2,
+          0,
+          2
+        ]
+      ],
+      "label": "Stavba 04: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "cube-count"
+  },
+  {
+    "id": "TO-397",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 05: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "options": [
+      "2 – 2 – 3",
+      "3 – 2 – 2",
+      "3 – 3 – 4",
+      "1 – 1 – 2"
+    ],
+    "answer": "2 – 2 – 3",
+    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 2 – 2 – 3.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ],
+      "label": "Stavba 05: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-front"
+  },
+  {
+    "id": "TO-398",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 05: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "options": [
+      "3 – 2",
+      "2 – 3",
+      "4 – 3",
+      "2 – 1"
+    ],
+    "answer": "3 – 2",
+    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 3 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ],
+      "label": "Stavba 05: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-side"
+  },
+  {
+    "id": "TO-399",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "short",
+    "prompt": "Stavba 05: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
+    "options": [],
+    "answer": [
+      "8"
+    ],
+    "explanation": "Sčítame všetky čísla v mape výšok: 4 + 4 = 8.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ],
+      "label": "Stavba 05: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "cube-count"
+  },
+  {
+    "id": "TO-400",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 06: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "options": [
+      "2 – 3 – 1",
+      "1 – 3 – 2",
+      "3 – 4 – 2",
+      "1 – 2 – 0"
+    ],
+    "answer": "2 – 3 – 1",
+    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 2 – 3 – 1.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          1,
+          0,
+          1
+        ]
+      ],
+      "label": "Stavba 06: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-front"
+  },
+  {
+    "id": "TO-401",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 06: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "options": [
+      "3 – 1",
+      "1 – 3",
+      "4 – 2",
+      "2 – 0"
+    ],
+    "answer": "3 – 1",
+    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 3 – 1.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          1,
+          0,
+          1
+        ]
+      ],
+      "label": "Stavba 06: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-side"
+  },
+  {
+    "id": "TO-402",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "short",
+    "prompt": "Stavba 06: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
+    "options": [],
+    "answer": [
+      "7"
+    ],
+    "explanation": "Sčítame všetky čísla v mape výšok: 5 + 2 = 7.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          1,
+          0,
+          1
+        ]
+      ],
+      "label": "Stavba 06: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "cube-count"
+  },
+  {
+    "id": "TO-403",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 07: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "options": [
+      "2 – 3 – 2",
+      "3 – 4 – 3",
+      "1 – 2 – 1",
+      "3 – 0 – 3"
+    ],
+    "answer": "2 – 3 – 2",
+    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 2 – 3 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          1,
+          0,
+          2
+        ],
+        [
+          0,
+          3,
+          1
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ],
+      "label": "Stavba 07: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-front"
+  },
+  {
+    "id": "TO-404",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 07: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "options": [
+      "2 – 3 – 2",
+      "3 – 4 – 3",
+      "1 – 2 – 1",
+      "3 – 0 – 3"
+    ],
+    "answer": "2 – 3 – 2",
+    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 2 – 3 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          1,
+          0,
+          2
+        ],
+        [
+          0,
+          3,
+          1
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ],
+      "label": "Stavba 07: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-side"
+  },
+  {
+    "id": "TO-405",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "short",
+    "prompt": "Stavba 07: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
+    "options": [],
+    "answer": [
+      "10"
+    ],
+    "explanation": "Sčítame všetky čísla v mape výšok: 3 + 4 + 3 = 10.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          1,
+          0,
+          2
+        ],
+        [
+          0,
+          3,
+          1
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ],
+      "label": "Stavba 07: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "cube-count"
+  },
+  {
+    "id": "TO-406",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 08: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "options": [
+      "3 – 2 – 2",
+      "2 – 2 – 3",
+      "4 – 3 – 3",
+      "2 – 1 – 1"
+    ],
+    "answer": "3 – 2 – 2",
+    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 3 – 2 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          3,
+          0,
+          1
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "label": "Stavba 08: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-front"
+  },
+  {
+    "id": "TO-407",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 08: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "options": [
+      "3 – 2 – 2",
+      "2 – 2 – 3",
+      "4 – 3 – 3",
+      "2 – 1 – 1"
+    ],
+    "answer": "3 – 2 – 2",
+    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 3 – 2 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          3,
+          0,
+          1
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "label": "Stavba 08: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-side"
+  },
+  {
+    "id": "TO-408",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "short",
+    "prompt": "Stavba 08: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
+    "options": [],
+    "answer": [
+      "10"
+    ],
+    "explanation": "Sčítame všetky čísla v mape výšok: 4 + 3 + 3 = 10.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          3,
+          0,
+          1
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "label": "Stavba 08: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "cube-count"
+  },
+  {
+    "id": "TO-409",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 09: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "options": [
+      "3 – 2 – 2",
+      "2 – 2 – 3",
+      "4 – 3 – 3",
+      "2 – 1 – 1"
+    ],
+    "answer": "3 – 2 – 2",
+    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 3 – 2 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          0,
+          2,
+          1
+        ],
+        [
+          3,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ],
+      "label": "Stavba 09: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-front"
+  },
+  {
+    "id": "TO-410",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 09: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "options": [
+      "2 – 3 – 1",
+      "1 – 3 – 2",
+      "3 – 4 – 2",
+      "1 – 2 – 0"
+    ],
+    "answer": "2 – 3 – 1",
+    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 2 – 3 – 1.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          0,
+          2,
+          1
+        ],
+        [
+          3,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ],
+      "label": "Stavba 09: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-side"
+  },
+  {
+    "id": "TO-411",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "short",
+    "prompt": "Stavba 09: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
+    "options": [],
+    "answer": [
+      "10"
+    ],
+    "explanation": "Sčítame všetky čísla v mape výšok: 3 + 5 + 2 = 10.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          0,
+          2,
+          1
+        ],
+        [
+          3,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ],
+      "label": "Stavba 09: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "cube-count"
+  },
+  {
+    "id": "TO-412",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 10: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "options": [
+      "2 – 3 – 2",
+      "3 – 4 – 3",
+      "1 – 2 – 1",
+      "3 – 0 – 3"
+    ],
+    "answer": "2 – 3 – 2",
+    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 2 – 3 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          0,
+          3,
+          1
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "label": "Stavba 10: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-front"
+  },
+  {
+    "id": "TO-413",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 10: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "options": [
+      "2 – 3 – 2",
+      "3 – 4 – 3",
+      "1 – 2 – 1",
+      "3 – 0 – 3"
+    ],
+    "answer": "2 – 3 – 2",
+    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 2 – 3 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          0,
+          3,
+          1
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "label": "Stavba 10: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-side"
+  },
+  {
+    "id": "TO-414",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "short",
+    "prompt": "Stavba 10: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
+    "options": [],
+    "answer": [
+      "10"
+    ],
+    "explanation": "Sčítame všetky čísla v mape výšok: 3 + 4 + 3 = 10.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          2,
+          1,
+          0
+        ],
+        [
+          0,
+          3,
+          1
+        ],
+        [
+          1,
+          0,
+          2
+        ]
+      ],
+      "label": "Stavba 10: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "cube-count"
+  },
+  {
+    "id": "TO-415",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 11: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "options": [
+      "3 – 2 – 2",
+      "2 – 2 – 3",
+      "4 – 3 – 3",
+      "2 – 1 – 1"
+    ],
+    "answer": "3 – 2 – 2",
+    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 3 – 2 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          2
+        ]
+      ],
+      "label": "Stavba 11: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-front"
+  },
+  {
+    "id": "TO-416",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 11: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "options": [
+      "2 – 3 – 2",
+      "3 – 4 – 3",
+      "1 – 2 – 1",
+      "3 – 0 – 3"
+    ],
+    "answer": "2 – 3 – 2",
+    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 2 – 3 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          2
+        ]
+      ],
+      "label": "Stavba 11: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-side"
+  },
+  {
+    "id": "TO-417",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "short",
+    "prompt": "Stavba 11: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
+    "options": [],
+    "answer": [
+      "10"
+    ],
+    "explanation": "Sčítame všetky čísla v mape výšok: 3 + 5 + 2 = 10.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          2
+        ]
+      ],
+      "label": "Stavba 11: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "cube-count"
+  },
+  {
+    "id": "TO-418",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 12: Aké výšky má predný obrys zľava doprava pri pohľade od šípky SPREDU?",
+    "options": [
+      "2 – 2 – 3",
+      "3 – 2 – 2",
+      "3 – 3 – 4",
+      "1 – 1 – 2"
+    ],
+    "answer": "2 – 2 – 3",
+    "explanation": "Pre každý stĺpec mapy vezmeme maximum v smere od prednej po zadnú stranu. Výsledok: 2 – 2 – 3.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          2,
+          1
+        ]
+      ],
+      "label": "Stavba 12: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-front"
+  },
+  {
+    "id": "TO-419",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Stavba 12: Aké výšky má bočný obrys v poradí ODZADU DOPREDU?",
+    "options": [
+      "3 – 1 – 2",
+      "2 – 1 – 3",
+      "4 – 2 – 3",
+      "2 – 0 – 1"
+    ],
+    "answer": "3 – 1 – 2",
+    "explanation": "Pre každý riadok mapy vezmeme maximum naprieč šírkou. Poradie je v otázke určené od zadnej strany k prednej. Výsledok: 3 – 1 – 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          2,
+          1
+        ]
+      ],
+      "label": "Stavba 12: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "projection-side"
+  },
+  {
+    "id": "TO-420",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "short",
+    "prompt": "Stavba 12: Koľko jednotkových kociek obsahuje celá stavba, ak sú všetky stĺpce plné a bez dutín?",
+    "options": [],
+    "answer": [
+      "10"
+    ],
+    "explanation": "Sčítame všetky čísla v mape výšok: 5 + 2 + 3 = 10.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1,
+    "diagram": {
+      "kind": "heightmap",
+      "heights": [
+        [
+          2,
+          0,
+          3
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          2,
+          1
+        ]
+      ],
+      "label": "Stavba 12: pôdorysná mapa výšok stĺpcov. Predná strana je dole."
+    },
+    "concept": "cube-count"
+  },
+  {
+    "id": "TO-357",
+    "categories": [
+      "A"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Môžu mať dve rozdielne zostavy kociek rovnaký nárys aj bokorys?",
+    "options": [
+      "Áno",
+      "Nie, nikdy",
+      "Len ak sú všetky kocky priehľadné",
+      "Iba bez gravitácie"
+    ],
+    "answer": "Áno",
+    "explanation": "Dva pohľady nemusia zachytiť všetky rozdiely v rozložení kociek.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-358",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Čo v pôdorysnej mape stĺpcov znamená číslo 3 v jednom políčku?",
+    "options": [
+      "Tri kocky uložené nad sebou na danom mieste",
+      "Tri kocky mimo základne",
+      "Výšku celej stavby vždy",
+      "Tri rôzne materiály povinne"
+    ],
+    "answer": "Tri kocky uložené nad sebou na danom mieste",
+    "explanation": "Mapa výšok opisuje každý zvislý stĺpec osobitne.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-359",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Ako zistíš predný obrys stavby zo stĺpcov pri pohľade spredu?",
+    "options": [
+      "Pre každú šírkovú polohu vyberiem najväčšiu výšku v smere hĺbky",
+      "Spočítam všetky výšky a nakreslím jediný stĺpec",
+      "Ignorujem zadné stĺpce vždy",
+      "Použijem iba farbu čísel"
+    ],
+    "answer": "Pre každú šírkovú polohu vyberiem najväčšiu výšku v smere hĺbky",
+    "explanation": "V obryse sa prekryjú stĺpce ležiace za sebou.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-360",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Ako spočítaš počet kociek v úplne vyplnených stĺpcoch z mapy výšok?",
+    "options": [
+      "Sčítam výšky všetkých stĺpcov",
+      "Vezmem iba najvyššie číslo",
+      "Vynásobím vždy len počet riadkov dvoma",
+      "Spočítam iba prázdne políčka"
+    ],
+    "answer": "Sčítam výšky všetkých stĺpcov",
+    "explanation": "Pri stĺpcoch bez dutín každé číslo udáva počet ich kociek.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nie je oficiálnym zadaním ani predpoveďou TO"
+    },
+    "version": 1
+  }
+]

@@ -69,9 +69,19 @@
     }
   },
   "types": {
-    "mc": 341,
+    "mc": 353,
     "fill": 38,
-    "short": 87,
+    "short": 75,
     "match": 34
+  },
+  "projection": {
+    "objects": 12,
+    "imageQuestions": 36,
+    "views": [
+      "front",
+      "left",
+      "top"
+    ],
+    "archivedQuestions": 40
   }
 }
