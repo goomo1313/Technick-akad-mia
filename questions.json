@@ -1,0 +1,2798 @@
+[
+  {
+    "id": "TO-001",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Ktorý nástroj použiješ na vyhladenie povrchu dreva?",
+    "options": [
+      "Brúsny papier",
+      "Dláto",
+      "Vrták",
+      "Uholník"
+    ],
+    "answer": "Brúsny papier",
+    "explanation": "Brúsne zrná odoberajú drobné nerovnosti povrchu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-002",
+    "categories": [
+      "A"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "fill",
+    "prompt": "Nástroj na ručné rezanie vnútorného závitu sa nazýva …",
+    "options": [],
+    "answer": [
+      "závitník"
+    ],
+    "explanation": "Závitník vytvára závit v predvŕtanom otvore.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-003",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "mc",
+    "prompt": "Mierka 1 : 2 znamená, že obraz predmetu je…",
+    "options": [
+      "Dvakrát menší",
+      "Dvakrát väčší",
+      "Rovnako veľký",
+      "Štyrikrát menší"
+    ],
+    "answer": "Dvakrát menší",
+    "explanation": "Jedna jednotka na výkrese predstavuje dve jednotky v skutočnosti.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-004",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "short",
+    "prompt": "Súčiastka je dlhá 80 mm. Koľko mm meria na výkrese v mierke 1 : 2?",
+    "options": [],
+    "answer": [
+      "40",
+      "40 mm"
+    ],
+    "explanation": "Rozmer na výkrese vypočítame 80 ÷ 2 = 40 mm. Kóta však uvádza skutočných 80 mm.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-005",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Dve priamo zaberajúce ozubené kolesá sa otáčajú…",
+    "options": [
+      "Opačným smerom",
+      "Rovnakým smerom",
+      "Vždy rovnako rýchlo",
+      "Len prerušovane"
+    ],
+    "answer": "Opačným smerom",
+    "explanation": "Pri priamom vonkajšom zábere zubov sa smer otáčania obráti.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-006",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "match",
+    "prompt": "Priraď mechanizmus k jeho funkcii.",
+    "options": [
+      "Ozubený prevod",
+      "Skrutkový mechanizmus",
+      "Kladka"
+    ],
+    "answer": [
+      "Prenos otáčania zubami",
+      "Premena otáčania na posuv",
+      "Zmena smeru pôsobenia sily"
+    ],
+    "explanation": "Skrutka mení otáčavý pohyb na posuvný; pevná kladka mení smer sily.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-007",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Ktorý materiál je dobrý elektrický vodič?",
+    "options": [
+      "Meď",
+      "Guma",
+      "Sklo",
+      "Suchý plast"
+    ],
+    "answer": "Meď",
+    "explanation": "Meď má nízky elektrický odpor, preto sa používa na elektrické vodiče.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-008",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "fill",
+    "prompt": "Jednotkou elektrického odporu je …",
+    "options": [],
+    "answer": [
+      "ohm",
+      "óm",
+      "ω"
+    ],
+    "explanation": "Elektrický odpor meriame v ohmoch, značka Ω.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-009",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Rezistor má odpor 6 Ω a prechádza ním prúd 2 A. Aké napätie je na ňom (V)?",
+    "options": [],
+    "answer": [
+      "12",
+      "12 v"
+    ],
+    "explanation": "Ohmov zákon: U = R × I = 6 × 2 = 12 V.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-010",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorý materiál patrí medzi neželezné kovy?",
+    "options": [
+      "Hliník",
+      "Oceľ",
+      "Liatina",
+      "Železo"
+    ],
+    "answer": "Hliník",
+    "explanation": "Hliník nepatrí medzi materiály so základom zo železa.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-011",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "match",
+    "prompt": "Priraď materiál k typickej vlastnosti.",
+    "options": [
+      "Meď",
+      "Guma",
+      "Sklo"
+    ],
+    "answer": [
+      "Dobrá elektrická vodivosť",
+      "Pružnosť",
+      "Krehkosť"
+    ],
+    "explanation": "Materiál volíme podľa jeho vlastností a účelu výrobku.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-012",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Čo urobíš pred vŕtaním malého kovového obrobku?",
+    "options": [
+      "Upnem ho do vhodného zveráka",
+      "Podržím ho v ruke",
+      "Odstránim kryt vŕtačky",
+      "Chytím ho kliešťami za chodu"
+    ],
+    "answer": "Upnem ho do vhodného zveráka",
+    "explanation": "Pevné upnutie zabraňuje roztočeniu obrobku a poraneniu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-013",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "fill",
+    "prompt": "Oči pred odletujúcimi trieskami chránia ochranné …",
+    "options": [],
+    "answer": [
+      "okuliare"
+    ],
+    "explanation": "Ochranné okuliare znižujú riziko poranenia očí.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-014",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Na kontrolu pravého uhla pri práci s drevom slúži…",
+    "options": [
+      "Uholník",
+      "Kružidlo",
+      "Hoblík",
+      "Rašpľa"
+    ],
+    "answer": "Uholník",
+    "explanation": "Uholník umožňuje kontrolovať a vyznačovať uhol 90°.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-015",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "fill",
+    "prompt": "Číselný údaj určujúci skutočný rozmer na výkrese sa nazýva …",
+    "options": [],
+    "answer": [
+      "kóta",
+      "kota"
+    ],
+    "explanation": "Kóta uvádza skutočnú veľkosť rozmeru bez ohľadu na mierku.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-016",
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Hnacie koleso má 10 zubov a hnané 20. Hnacie sa otočí 4-krát. Koľkokrát sa otočí hnané?",
+    "options": [],
+    "answer": [
+      "2",
+      "dvakrát",
+      "2-krát"
+    ],
+    "explanation": "Hnané má dvojnásobok zubov, preto vykoná polovicu otáčok: 4 × 10 / 20 = 2.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-017",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo chráni bežnú oceľ pred koróziou?",
+    "options": [
+      "Vhodný ochranný náter",
+      "Trvalé zvlhčovanie",
+      "Posyp kuchynskou soľou",
+      "Poškriabanie povrchu"
+    ],
+    "answer": "Vhodný ochranný náter",
+    "explanation": "Súvislý náter oddeľuje povrch ocele od vody a kyslíka.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-018",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Ako odstrániš triesky po zastavení stroja?",
+    "options": [
+      "Kefou alebo vhodným háčikom",
+      "Holou rukou",
+      "Fúkaním k spolužiakovi",
+      "Za chodu vrtáka"
+    ],
+    "answer": "Kefou alebo vhodným háčikom",
+    "explanation": "Ostré triesky môžu porezať ruku. Odstraňujú sa vhodnou pomôckou pri zastavenom stroji.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka; nejde o oficiálne zadanie TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-019",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Pri opracovaní úzkej hrany drevenej dosky chceš odobrať súvislú tenkú triesku. Čo zvolíš?",
+    "options": [
+      "Hoblík",
+      "Kladivo",
+      "Štetec",
+      "Posuvné meradlo"
+    ],
+    "answer": "Hoblík",
+    "explanation": "Hoblík odoberá ostrým nožom tenkú vrstvu dreva a vyrovnáva povrch.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-020",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Prečo sa pred skrutkovaním pri kraji tvrdej drevenej dosky predvŕta menší otvor?",
+    "options": [
+      "Zníži sa riziko rozštiepenia dreva",
+      "Drevo sa tým zmení na kov",
+      "Skrutka už nepotrebuje závit",
+      "Otvor nahradí hlavu skrutky"
+    ],
+    "answer": "Zníži sa riziko rozštiepenia dreva",
+    "explanation": "Predvŕtanie uľahčuje zavádzanie skrutky a znižuje tlak, ktorý môže drevo rozštiepiť.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-021",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Čím najvhodnejšie vyznačíš stred otvoru pred vŕtaním oceľového plechu?",
+    "options": [
+      "Jamkovačom",
+      "Hoblíkom",
+      "Valčekom",
+      "Kružidlom na tabuľu"
+    ],
+    "answer": "Jamkovačom",
+    "explanation": "Jamkovač vytvorí malú priehlbinu, ktorá pomáha viesť hrot vrtáka.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-022",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Ktorý nástroj slúži na vytváranie dutín a zárezov odoberaním dreva ostrou hranou?",
+    "options": [
+      "Dláto",
+      "Vodováha",
+      "Maticový kľúč",
+      "Meter"
+    ],
+    "answer": "Dláto",
+    "explanation": "Dláto má reznú hranu, ktorou sa drevo odoberá pri dlabaní a vyrezávaní.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-023",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Pri pilovaní kovu bežným ručným pilníkom pôsobíme rezným tlakom hlavne…",
+    "options": [
+      "Pri pohybe dopredu",
+      "Iba pri spätnom ťahu",
+      "Rovnako pri každom otáčaní pilníka",
+      "Iba pri zdvihnutí nad obrobok"
+    ],
+    "answer": "Pri pohybe dopredu",
+    "explanation": "Bežné pilníky režú pri pohybe dopredu; pri spätnom pohybe sa tlak uvoľňuje.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-024",
+    "categories": [
+      "A"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Čím vytvoríš vonkajší závit na vhodnej kovovej tyči?",
+    "options": [
+      "Závitovým očkom",
+      "Závitníkom do otvorov",
+      "Drevenou paličkou",
+      "Brúsnym papierom"
+    ],
+    "answer": "Závitovým očkom",
+    "explanation": "Závitové očko reže vonkajší závit; závitník vytvára vnútorný závit.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-025",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Čo označuje zrnitosť P120 oproti P40 pri brúsnom papieri?",
+    "options": [
+      "Jemnejšie zrná a jemnejšie brúsenie",
+      "Väčšie zrná a hrubšie brúsenie",
+      "Presnú hrúbku papiera 120 mm",
+      "Použitie výhradne na vodu"
+    ],
+    "answer": "Jemnejšie zrná a jemnejšie brúsenie",
+    "explanation": "Vyššie číslo zrnitosti spravidla znamená jemnejšie brúsivo.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-026",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Ktorý spoj môžeš bežne rozobrať bez poškodenia spájaných dielov?",
+    "options": [
+      "Skrutkový spoj",
+      "Zváraný spoj",
+      "Nitovaný spoj",
+      "Lepený spoj"
+    ],
+    "answer": "Skrutkový spoj",
+    "explanation": "Skrutku a maticu možno uvoľniť; zváranie, nitovanie a lepenie tvoria nerozoberateľné spoje.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-027",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "fill",
+    "prompt": "Ako sa nazýva nástroj s hrubými zubami používaný na hrubšie tvarovanie dreva?",
+    "options": [],
+    "answer": [
+      "rašpľa",
+      "raspla"
+    ],
+    "explanation": "Rašpľa rýchlo odoberá drevo. Na jemné dokončenie sa používa vhodné brúsivo.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-028",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "fill",
+    "prompt": "Ako sa nazýva pracovná operácia, pri ktorej vrták vytvára kruhový otvor?",
+    "options": [],
+    "answer": [
+      "vŕtanie",
+      "vrtanie"
+    ],
+    "explanation": "Pri vŕtaní sa otáčajúci vrták posúva do materiálu a odoberá triesky.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-029",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "match",
+    "prompt": "Vyber nástroj na každú pracovnú operáciu.",
+    "options": [
+      "Utiahnutie šesťhrannej matice",
+      "Meranie vonkajšieho priemeru",
+      "Zrezanie drevenej latky"
+    ],
+    "answer": [
+      "Maticový kľúč",
+      "Posuvné meradlo",
+      "Píla na drevo"
+    ],
+    "explanation": "Tvar nástroja a jeho pracovná časť musia zodpovedať vykonávanej operácii.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-030",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "match",
+    "prompt": "Priraď spoj k správnemu princípu.",
+    "options": [
+      "Nitovanie",
+      "Lepenie",
+      "Skrutkovanie"
+    ],
+    "answer": [
+      "Deformovanie drieku nitu",
+      "Spojenie pomocou lepidla",
+      "Spojenie pomocou závitu"
+    ],
+    "explanation": "Nit sa na konci roznituje, lepidlo vytvorí spojovaciu vrstvu a skrutka využíva závit.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-031",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "mc",
+    "prompt": "Ktorá čiara sa bežne používa na viditeľné obrysy súčiastky v technickom výkrese?",
+    "options": [
+      "Súvislá hrubá",
+      "Čiarkovaná tenká",
+      "Bodkočiarkovaná tenká",
+      "Ľubovoľná vlnovka"
+    ],
+    "answer": "Súvislá hrubá",
+    "explanation": "Viditeľné hrany a obrysy sa kreslia súvislou hrubou čiarou.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-032",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "mc",
+    "prompt": "Čo zvyčajne vyjadruje čiarkovaná čiara pri zobrazení súčiastky?",
+    "options": [
+      "Neviditeľnú hranu",
+      "Viditeľný vonkajší obrys",
+      "Kótovacie číslo",
+      "Názov výrobku"
+    ],
+    "answer": "Neviditeľnú hranu",
+    "explanation": "Zakryté hrany sa zobrazujú čiarkovanými čiarami.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-033",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "mc",
+    "prompt": "Pred kótovacím číslom je značka Ø. Ktorý rozmer sa tým určuje?",
+    "options": [
+      "Priemer",
+      "Polomer",
+      "Hmotnosť",
+      "Uhol sklonu"
+    ],
+    "answer": "Priemer",
+    "explanation": "Značka Ø označuje priemer kruhového prvku.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-034",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "mc",
+    "prompt": "Na výkrese je údaj R8. Aký je polomer zaoblenia?",
+    "options": [
+      "8 mm",
+      "16 mm",
+      "4 mm",
+      "80 mm"
+    ],
+    "answer": "8 mm",
+    "explanation": "Písmeno R označuje polomer; pri bežnom strojárskom výkrese sú dĺžkové kóty v milimetroch.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-035",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "mc",
+    "prompt": "Aký význam má mierka 3 : 1?",
+    "options": [
+      "Obraz je trikrát väčší ako predmet",
+      "Predmet je trikrát väčší ako obraz",
+      "Obraz je tretinou predmetu",
+      "Každá dĺžka má presne 3 cm"
+    ],
+    "answer": "Obraz je trikrát väčší ako predmet",
+    "explanation": "Pomer sa uvádza ako rozmer obrazu ku skutočnému rozmeru.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-036",
+    "categories": [
+      "A"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "mc",
+    "prompt": "Obraz otvoru má na zväčšenom výkrese priemer 30 mm, kóta je Ø10. Aký vrták zodpovedá menovitému priemeru otvoru?",
+    "options": [
+      "10 mm",
+      "30 mm",
+      "3 mm",
+      "20 mm"
+    ],
+    "answer": "10 mm",
+    "explanation": "Rozhoduje kóta skutočného rozmeru, nie veľkosť obrázka na papieri.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-037",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "mc",
+    "prompt": "Ktorý údaj patrí do popisového poľa výrobného výkresu?",
+    "options": [
+      "Názov súčiastky a mierka",
+      "Denná teplota v triede",
+      "Obľúbená farba autora",
+      "Cena školského obeda"
+    ],
+    "answer": "Názov súčiastky a mierka",
+    "explanation": "Popisové pole identifikuje výkres a obsahuje údaje potrebné na jeho používanie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-038",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "fill",
+    "prompt": "Ako sa nazýva čiara vyznačujúca os súmernosti kruhového otvoru?",
+    "options": [],
+    "answer": [
+      "osová čiara",
+      "osova ciara",
+      "osová",
+      "osova"
+    ],
+    "explanation": "Osová čiara sa zvyčajne kreslí tenkou bodkočiarkovanou čiarou.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-039",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "short",
+    "prompt": "Ak má kruhový otvor polomer 7 mm, aký je jeho priemer v mm?",
+    "options": [],
+    "answer": [
+      "14",
+      "14 mm"
+    ],
+    "explanation": "Priemer je dvojnásobkom polomeru: d = 2 × 7 = 14 mm.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-040",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "short",
+    "prompt": "Aká je číselná hodnota pravého uhla v stupňoch?",
+    "options": [],
+    "answer": [
+      "90",
+      "90°",
+      "90 stupňov"
+    ],
+    "explanation": "Pravý uhol má 90°. Používa sa napríklad pri kontrole kolmosti.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-041",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "match",
+    "prompt": "Priraď kótovaciu značku k významu.",
+    "options": [
+      "Ø",
+      "R",
+      "°"
+    ],
+    "answer": [
+      "Priemer",
+      "Polomer",
+      "Uhlová miera v stupňoch"
+    ],
+    "explanation": "Značky odlišujú druh rozmeru bez potreby dlhého slovného vysvetlenia.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-042",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "match",
+    "prompt": "Priraď mierku k spôsobu zobrazenia.",
+    "options": [
+      "1 : 1",
+      "1 : 4",
+      "4 : 1"
+    ],
+    "answer": [
+      "Skutočná veľkosť",
+      "Zmenšenie",
+      "Zväčšenie"
+    ],
+    "explanation": "Prvé číslo vyjadruje rozmer obrazu, druhé skutočný rozmer.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-043",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Čo je typickou nevýhodou hladkého remeňového prevodu oproti ozubenému?",
+    "options": [
+      "Možnosť preklzovania",
+      "Nemôže prenášať otáčanie",
+      "Vyžaduje vždy dve ozubené kolesá",
+      "Funguje iba pod vodou"
+    ],
+    "answer": "Možnosť preklzovania",
+    "explanation": "Hladký remeň prenáša silu trením a pri preťažení môže preklzovať.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-044",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Čo umožňuje ložisko v stroji?",
+    "options": [
+      "Vedenie pohybu s menším trením",
+      "Premenu kovu na plast",
+      "Náhradu všetkých skrutiek",
+      "Zvýšenie hmotnosti bez účelu"
+    ],
+    "answer": "Vedenie pohybu s menším trením",
+    "explanation": "Ložisko vedie hriadeľ alebo pohybujúci sa diel a znižuje trenie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-045",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Ktorý prevod má reťaz a reťazové kolesá?",
+    "options": [
+      "Reťazový",
+      "Hladký remeňový",
+      "Trecia spojka",
+      "Hydraulický valec"
+    ],
+    "answer": "Reťazový",
+    "explanation": "Reťaz zapadá do zubov reťazových kolies, napríklad na bicykli.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-046",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Čo sa deje pri použití jednoduchého pákového otvárača?",
+    "options": [
+      "Sila ruky vytvára moment okolo opory",
+      "Sila vzniká bez dodanej energie",
+      "Hmotnosť fľaše sa zmenší na nulu",
+      "Kov sa musí roztaviť"
+    ],
+    "answer": "Sila ruky vytvára moment okolo opory",
+    "explanation": "Páka využíva rameno sily vzhľadom na oporný bod.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-047",
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Ako sa nazýva tyč v stroji určená na prenos krútiaceho momentu?",
+    "options": [
+      "Hriadeľ",
+      "Izolant",
+      "Kóta",
+      "Tryska"
+    ],
+    "answer": "Hriadeľ",
+    "explanation": "Hriadeľ sa používa na prenos otáčavého pohybu a krútiaceho momentu.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-048",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Pri zošliapnutí pedála bicykla sa energia jazdca mení najmä na…",
+    "options": [
+      "Mechanickú energiu pohybu",
+      "Jadrovú energiu",
+      "Elektrickú energiu v každom bicykli",
+      "Chemickú energiu reťaze"
+    ],
+    "answer": "Mechanickú energiu pohybu",
+    "explanation": "Svalová práca jazdca poháňa mechanický prevod a kolesá.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-049",
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "mc",
+    "prompt": "Ak vložíš medzi dve ozubené kolesá tretie, voľne vložené koleso, krajné kolesá sa otáčajú…",
+    "options": [
+      "Rovnakým smerom",
+      "Opačným smerom vždy",
+      "Bez vzájomnej súvislosti",
+      "Iba jedným zubom za minútu"
+    ],
+    "answer": "Rovnakým smerom",
+    "explanation": "Každý vonkajší záber obráti smer; po dvoch záberoch je smer krajných kolies rovnaký.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-050",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "fill",
+    "prompt": "Ako sa nazýva jednoduchý stroj tvorený kolesom s drážkou pre lano?",
+    "options": [],
+    "answer": [
+      "kladka"
+    ],
+    "explanation": "Kladka vedie lano a podľa usporiadania mení smer sily alebo znižuje potrebnú silu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-051",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "fill",
+    "prompt": "Ako sa nazýva látka používaná na zníženie trenia medzi pohyblivými časťami?",
+    "options": [],
+    "answer": [
+      "mazivo"
+    ],
+    "explanation": "Mazivo vytvára medzi povrchmi vrstvu a obmedzuje trenie aj opotrebovanie.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-052",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "fill",
+    "prompt": "Ako sa nazýva šikmá rovná plocha, po ktorej možno dopraviť bremeno do výšky menšou silou?",
+    "options": [],
+    "answer": [
+      "naklonená rovina",
+      "naklonena rovina"
+    ],
+    "explanation": "Menšia sila sa vyvažuje dlhšou dráhou pohybu bremena.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-053",
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "match",
+    "prompt": "Priraď zariadenie k hlavnému účelu.",
+    "options": [
+      "Brzda",
+      "Spojka",
+      "Prevodovka"
+    ],
+    "answer": [
+      "Spomaľovanie pohybu",
+      "Spájanie a rozpájanie prenosu pohybu",
+      "Zmena otáčok a momentu"
+    ],
+    "explanation": "Jednotlivé časti stroja riadia alebo prenášajú pohyb odlišným spôsobom.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-054",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "match",
+    "prompt": "Ktorý princíp využívajú tieto pomôcky?",
+    "options": [
+      "Rampa",
+      "Páčidlo",
+      "Navíjací bubon s kľukou"
+    ],
+    "answer": [
+      "Naklonená rovina",
+      "Páka",
+      "Koleso na hriadeli"
+    ],
+    "explanation": "Jednoduché stroje uľahčujú prácu zmenou veľkosti alebo smeru sily.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-055",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Kam zapojíme ampérmeter, ak meriame prúd cez žiarovku?",
+    "options": [
+      "Sériovo so žiarovkou",
+      "Paralelne priamo na zdroj",
+      "Mimo elektrického obvodu",
+      "Iba na plastový kryt"
+    ],
+    "answer": "Sériovo so žiarovkou",
+    "explanation": "Ampérmeter musí byť súčasťou meranej vetvy, aby ním tiekol meraný prúd.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-056",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Ako pripojíme voltmeter pri meraní napätia na batérii?",
+    "options": [
+      "Paralelne na jej svorky",
+      "Sériovo namiesto vypínača",
+      "Do medzery v plastovom obale",
+      "Len jedným vodičom"
+    ],
+    "answer": "Paralelne na jej svorky",
+    "explanation": "Voltmeter porovnáva elektrické potenciály dvoch bodov.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-057",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Čo spôsobí otvorený vypínač v jednoduchom sériovom obvode?",
+    "options": [
+      "Preruší cestu elektrického prúdu",
+      "Vždy zvýši napätie batérie",
+      "Premení vodiče na izolanty",
+      "Nahradí žiarovku"
+    ],
+    "answer": "Preruší cestu elektrického prúdu",
+    "explanation": "Otvorený obvod nemá súvislú vodivú cestu, preto žiarovkou netečie prúd.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-058",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Prečo sa k bežnej LED dióde pripája vhodný sériový rezistor?",
+    "options": [
+      "Na obmedzenie prúdu",
+      "Na odstránenie jej polarity",
+      "Na zväčšenie kapacity batérie",
+      "Na úplné prerušenie obvodu"
+    ],
+    "answer": "Na obmedzenie prúdu",
+    "explanation": "LED potrebuje obmedzený prúd, inak sa môže poškodiť.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-059",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Čo je skrat v elektrickom obvode?",
+    "options": [
+      "Nežiaduca vodivá cesta s veľmi malým odporom",
+      "Skrátený názov žiarovky",
+      "Vypnutý zdroj bez vodičov",
+      "Bežný spôsob šetrenia batérie"
+    ],
+    "answer": "Nežiaduca vodivá cesta s veľmi malým odporom",
+    "explanation": "Skrat môže vyvolať veľký prúd, prehrievanie a poškodenie zdroja.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-060",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Ktoré zariadenie mení elektrickú energiu na mechanický pohyb?",
+    "options": [
+      "Elektromotor",
+      "Batériový držiak",
+      "Rezistor bez pohyblivých častí",
+      "Samotný vypínač"
+    ],
+    "answer": "Elektromotor",
+    "explanation": "Elektromotor využíva elektromagnetické pôsobenie na vytvorenie pohybu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-061",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Čím sa akumulátor líši od bežného primárneho článku?",
+    "options": [
+      "Je určený na opakované nabíjanie",
+      "Nikdy neobsahuje chemické látky",
+      "Nepotrebuje elektrické kontakty",
+      "Má vždy presne 12 V"
+    ],
+    "answer": "Je určený na opakované nabíjanie",
+    "explanation": "Akumulátor možno vhodnou nabíjačkou opakovane nabiť; primárne články sa bežne nenabíjajú.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-062",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "fill",
+    "prompt": "Akou jednotkou meriame elektrický prúd?",
+    "options": [],
+    "answer": [
+      "ampér",
+      "amper",
+      "a"
+    ],
+    "explanation": "Jednotkou prúdu je ampér, značka A.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-063",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "fill",
+    "prompt": "Ako sa nazýva polovodičová súčiastka, ktorá vedie prúd prednostne jedným smerom?",
+    "options": [],
+    "answer": [
+      "dióda",
+      "dioda"
+    ],
+    "explanation": "Dióda má priepustný a záverný smer; zapojenie jej vývodov ovplyvňuje priechod prúdu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-064",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "fill",
+    "prompt": "Elektrický výkon je súčin napätia a prúdu. Aké písmeno sa bežne používa pre výkon?",
+    "options": [],
+    "answer": [
+      "P"
+    ],
+    "explanation": "Výkon označujeme P a meriame vo wattoch, značka W.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-065",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "match",
+    "prompt": "Priraď elektrickú veličinu k jednotke.",
+    "options": [
+      "Napätie",
+      "Prúd",
+      "Výkon"
+    ],
+    "answer": [
+      "Volt",
+      "Ampér",
+      "Watt"
+    ],
+    "explanation": "Napätie U sa meria vo voltoch, prúd I v ampéroch a výkon P vo wattoch.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-066",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "match",
+    "prompt": "Vyber účel elektrickej súčiastky.",
+    "options": [
+      "Vypínač",
+      "Rezistor",
+      "Poistka"
+    ],
+    "answer": [
+      "Otváranie a zatváranie obvodu",
+      "Vytváranie elektrického odporu",
+      "Prerušenie pri nadmernom prúde"
+    ],
+    "explanation": "Poistka chráni obvod pred nadprúdom; rezistor obmedzuje prúd alebo nastavuje podmienky obvodu.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-067",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorá vlastnosť opisuje schopnosť materiálu vrátiť sa po odľahčení do pôvodného tvaru?",
+    "options": [
+      "Pružnosť",
+      "Krehkosť",
+      "Korózia",
+      "Nasiakavosť"
+    ],
+    "answer": "Pružnosť",
+    "explanation": "Pružná deformácia sa po odstránení zaťaženia obnoví, pokiaľ neprekročíme pružný rozsah.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-068",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo označuje húževnatosť materiálu?",
+    "options": [
+      "Schopnosť odolávať porušeniu a pohlcovať energiu pri deformácii",
+      "Schopnosť vždy viesť prúd",
+      "Schopnosť rozpustiť sa v studenej vode",
+      "Hmotnosť presne jedného litra"
+    ],
+    "answer": "Schopnosť odolávať porušeniu a pohlcovať energiu pri deformácii",
+    "explanation": "Húževnaté materiály sa pred porušením môžu výraznejšie deformovať.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-069",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Čo je zliatina?",
+    "options": [
+      "Kovový materiál zložený z viacerých prvkov",
+      "Iba čistá destilovaná voda",
+      "Každý brúsený povrch",
+      "Výhradne prírodné drevo"
+    ],
+    "answer": "Kovový materiál zložený z viacerých prvkov",
+    "explanation": "Zliatina obsahuje viac prvkov, z ktorých aspoň jeden je kov; vlastnosti sa líšia od čistých zložiek.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-070",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorý materiál vzniká spojením tenkých drevených dýh so striedaným smerom vlákien?",
+    "options": [
+      "Preglejka",
+      "Oceľový plech",
+      "Sklenená tabuľa",
+      "Surová hlina"
+    ],
+    "answer": "Preglejka",
+    "explanation": "Krížové vrstvenie dýh zvyšuje tvarovú stálosť a pevnosť preglejky v rôznych smeroch.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-071",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Prečo musí byť drevo určené na presný interiérový výrobok vhodne vysušené?",
+    "options": [
+      "Vlhkosť ovplyvňuje rozmery a tvar dreva",
+      "Vysušením sa vždy stane nehorľavým",
+      "Vysušením sa zmení na plast",
+      "Získa nulovú hmotnosť"
+    ],
+    "answer": "Vlhkosť ovplyvňuje rozmery a tvar dreva",
+    "explanation": "Drevo pri zmene vlhkosti napučiava alebo zosychá, čo môže deformovať výrobok.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-072",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorá vlastnosť je dôležitá pre materiál rukoväti horúcej nádoby?",
+    "options": [
+      "Malá tepelná vodivosť",
+      "Čo najväčšia elektrická vodivosť",
+      "Ľahká taviteľnosť pri izbovej teplote",
+      "Veľká nasiakavosť oleja"
+    ],
+    "answer": "Malá tepelná vodivosť",
+    "explanation": "Rukoväť má obmedziť prestup tepla k ruke a zároveň vydržať prevádzkovú teplotu.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-073",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorý materiál pri bežných podmienkach spoľahlivo priťahuje magnet?",
+    "options": [
+      "Bežnú uhlíkovú oceľ",
+      "Meď",
+      "Hliník",
+      "Sklo"
+    ],
+    "answer": "Bežnú uhlíkovú oceľ",
+    "explanation": "Bežné uhlíkové ocele sú feromagnetické. Nie všetky druhy nehrdzavejúcej ocele sa správajú rovnako.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-074",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "fill",
+    "prompt": "Ako sa nazýva pomer hmotnosti telesa k jeho objemu?",
+    "options": [],
+    "answer": [
+      "hustota"
+    ],
+    "explanation": "Hustota sa vypočíta ρ = m / V. Umožňuje porovnať materiály pri rovnakom objeme.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-075",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "fill",
+    "prompt": "Ako sa nazýva schopnosť materiálu prijímať do seba vodu?",
+    "options": [],
+    "answer": [
+      "nasiakavosť",
+      "nasiakavost"
+    ],
+    "explanation": "Nasiakavosť ovplyvňuje výber materiálu do vlhkého prostredia.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-076",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "fill",
+    "prompt": "Ako sa nazýva tenká vrstva dreva získaná lúpaním alebo krájaním, používaná napríklad na povrch nábytku?",
+    "options": [],
+    "answer": [
+      "dyha"
+    ],
+    "explanation": "Dyha zachováva vzhľad dreva a používa sa ako povrchová vrstva alebo na výrobu preglejky.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-077",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "match",
+    "prompt": "Priraď materiál k skupine.",
+    "options": [
+      "Žula",
+      "Polyetylén",
+      "Bukové drevo"
+    ],
+    "answer": [
+      "Prírodný kameň",
+      "Plast",
+      "Rastlinný materiál"
+    ],
+    "explanation": "Pôvod a štruktúra materiálu ovplyvňujú jeho opracovanie aj použitie.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-078",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Materiály",
+    "type": "match",
+    "prompt": "Priraď vlastnosť k jej opisu.",
+    "options": [
+      "Tvrdosť",
+      "Krehkosť",
+      "Tvárnosť"
+    ],
+    "answer": [
+      "Odpor proti vnikaniu iného telesa",
+      "Lom s malou plastickou deformáciou",
+      "Schopnosť trvalej zmeny tvaru bez porušenia"
+    ],
+    "explanation": "Mechanické vlastnosti opisujú správanie pri zaťažení.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-079",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Čo urobíš s dlhými vlasmi pred prácou pri vŕtačke?",
+    "options": [
+      "Bezpečne ich zopnem a zaistím",
+      "Nechám ich voľne pri vretene",
+      "Navlhčím ich a nič viac",
+      "Priblížim ich k vrtáku"
+    ],
+    "answer": "Bezpečne ich zopnem a zaistím",
+    "explanation": "Rotujúce časti môžu zachytiť vlasy, šperky aj voľný odev.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-080",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Ako máš postupovať, keď zistíš poškodený elektrický kábel školského náradia?",
+    "options": [
+      "Náradie nepoužijem a oznámim chybu učiteľovi",
+      "Zakryjem kábel papierom a pokračujem",
+      "Chytím odkryté vodiče",
+      "Zvýšim otáčky stroja"
+    ],
+    "answer": "Náradie nepoužijem a oznámim chybu učiteľovi",
+    "explanation": "Poškodená izolácia môže spôsobiť úraz. Opravu vykonáva oprávnená osoba.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-081",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Čo spravíš pred výmenou vrtáka podľa pokynov učiteľa?",
+    "options": [
+      "Zastavím a bezpečne odpojím stroj od zdroja",
+      "Pridržím vrták za chodu",
+      "Vypnem len svetlo nad stolom",
+      "Zvýšim tlak na vreteno"
+    ],
+    "answer": "Zastavím a bezpečne odpojím stroj od zdroja",
+    "explanation": "Odpojenie zdroja bráni nechcenému rozbehu stroja pri manipulácii.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-082",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Kde má byť kľúč skľučovadla pred spustením vŕtačky?",
+    "options": [
+      "Vybratý zo skľučovadla a odložený",
+      "Ponechaný v skľučovadle",
+      "V ruke pri rotujúcom vrtáku",
+      "Voľne položený na obrobku"
+    ],
+    "answer": "Vybratý zo skľučovadla a odložený",
+    "explanation": "Zabudnutý kľúč môže byť pri rozbehu vymrštený.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-083",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Ako máš prenášať ostrý nástroj?",
+    "options": [
+      "Za rukoväť, s ostrím bezpečne od tela a ostatných",
+      "Za ostrie",
+      "Hádzať ho spolužiakovi",
+      "Skrytý voľne vo vrecku"
+    ],
+    "answer": "Za rukoväť, s ostrím bezpečne od tela a ostatných",
+    "explanation": "Ostrie sa pri prenášaní orientuje bezpečne; podľa nástroja sa používa ochranný kryt.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-084",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Čo urobíš pri rozliatí kvapaliny v blízkosti elektrického zariadenia?",
+    "options": [
+      "Upozorním učiteľa a nedotýkam sa ohrozeného zariadenia",
+      "Utriem ju rukou za chodu",
+      "Vylejem na zariadenie ďalšiu vodu",
+      "Pokračujem bez upozornenia"
+    ],
+    "answer": "Upozorním učiteľa a nedotýkam sa ohrozeného zariadenia",
+    "explanation": "Kvapalina môže vytvoriť nebezpečnú vodivú cestu. Bezpečné riešenie riadi učiteľ.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-085",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Ako uložíš ručný pilník na používanie?",
+    "options": [
+      "S pevne nasadenou nepoškodenou rukoväťou",
+      "Bez rukoväti, aby bol ľahší",
+      "S voľne nasunutým uzáverom pera",
+      "Omotaný iba mokrým papierom"
+    ],
+    "answer": "S pevne nasadenou nepoškodenou rukoväťou",
+    "explanation": "Ostrý tŕň pilníka bez rukoväti môže poraniť dlaň.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-086",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "mc",
+    "prompt": "Čo patrí k bezpečnému správaniu pri stroji?",
+    "options": [
+      "Sústredenie a dodržanie pokynov učiteľa",
+      "Rozptyľovanie obsluhy",
+      "Voľné šperky pri rotujúcich častiach",
+      "Spúšťanie bez dovolenia"
+    ],
+    "answer": "Sústredenie a dodržanie pokynov učiteľa",
+    "explanation": "Obsluha musí mať prehľad a pozornosť venovať práci, nie rozhovoru alebo hre.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-087",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "fill",
+    "prompt": "Ako sa nazýva pomôcka na ochranu sluchu pred silným hlukom (mušľový typ)?",
+    "options": [],
+    "answer": [
+      "chrániče sluchu",
+      "chranice sluchu",
+      "ochranné slúchadlá",
+      "ochranne sluchadla"
+    ],
+    "explanation": "Chrániče sluchu znižujú hluk dopadajúci na sluch; výber závisí od rizika pracoviska.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-088",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "fill",
+    "prompt": "Komu žiak bezodkladne oznámi úraz v školskej dielni?",
+    "options": [],
+    "answer": [
+      "učiteľovi",
+      "ucitelovi",
+      "učiteľ",
+      "ucitel",
+      "vyučujúcemu",
+      "vyucujucemu"
+    ],
+    "explanation": "Učiteľ zabezpečí primeranú pomoc a ďalší postup. Aj malý úraz treba oznámiť.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-089",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "match",
+    "prompt": "Priraď ochrannú pomôcku k chránenej časti tela.",
+    "options": [
+      "Ochranné okuliare",
+      "Chrániče sluchu",
+      "Pracovná obuv"
+    ],
+    "answer": [
+      "Oči",
+      "Uši",
+      "Chodidlá"
+    ],
+    "explanation": "Ochranné pomôcky dopĺňajú bezpečný postup práce; nenahrádzajú ho.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-090",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Bezpečnosť pri práci",
+    "type": "match",
+    "prompt": "Priraď farbu bezpečnostnej značky k bežnému významu.",
+    "options": [
+      "Žltá výstražná značka",
+      "Modrá príkazová značka",
+      "Zelená značka"
+    ],
+    "answer": [
+      "Upozornenie na nebezpečenstvo",
+      "Povinný spôsob správania",
+      "Únik alebo prvá pomoc"
+    ],
+    "explanation": "Význam dotvára aj tvar značky a symbol; samotná farba nestačí na všetky informácie.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-091",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "short",
+    "prompt": "Súčiastka má skutočnú dĺžku 54 mm. Urči dĺžku jej obrazu v mierke 1 : 3 (v mm).",
+    "options": [],
+    "answer": [
+      "18",
+      "18 mm"
+    ],
+    "explanation": "Pri zmenšení delíme skutočnú dĺžku menovateľom mierky: 54 ÷ 3 = 18 mm.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-092",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "short",
+    "prompt": "Súčiastka má skutočnú dĺžku 120 mm. Urči dĺžku jej obrazu v mierke 1 : 4 (v mm).",
+    "options": [],
+    "answer": [
+      "30",
+      "30 mm"
+    ],
+    "explanation": "Pri zmenšení delíme skutočnú dĺžku menovateľom mierky: 120 ÷ 4 = 30 mm.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-093",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "short",
+    "prompt": "Súčiastka má skutočnú dĺžku 75 mm. Urči dĺžku jej obrazu v mierke 1 : 5 (v mm).",
+    "options": [],
+    "answer": [
+      "15",
+      "15 mm"
+    ],
+    "explanation": "Pri zmenšení delíme skutočnú dĺžku menovateľom mierky: 75 ÷ 5 = 15 mm.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-094",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "short",
+    "prompt": "Súčiastka má skutočnú dĺžku 144 mm. Urči dĺžku jej obrazu v mierke 1 : 6 (v mm).",
+    "options": [],
+    "answer": [
+      "24",
+      "24 mm"
+    ],
+    "explanation": "Pri zmenšení delíme skutočnú dĺžku menovateľom mierky: 144 ÷ 6 = 24 mm.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-095",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "short",
+    "prompt": "Súčiastka má skutočnú dĺžku 96 mm. Urči dĺžku jej obrazu v mierke 1 : 2 (v mm).",
+    "options": [],
+    "answer": [
+      "48",
+      "48 mm"
+    ],
+    "explanation": "Pri zmenšení delíme skutočnú dĺžku menovateľom mierky: 96 ÷ 2 = 48 mm.",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-096",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "short",
+    "prompt": "Z preglejky vyrežeš obdĺžnik 16 cm × 9 cm. Aký je jeho obsah v cm²?",
+    "options": [],
+    "answer": [
+      "144",
+      "144 cm2",
+      "144 cm²"
+    ],
+    "explanation": "Obsah obdĺžnika je dĺžka × šírka: 16 × 9 = 144 cm².",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-097",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "short",
+    "prompt": "Z preglejky vyrežeš obdĺžnik 24 cm × 7 cm. Aký je jeho obsah v cm²?",
+    "options": [],
+    "answer": [
+      "168",
+      "168 cm2",
+      "168 cm²"
+    ],
+    "explanation": "Obsah obdĺžnika je dĺžka × šírka: 24 × 7 = 168 cm².",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-098",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "short",
+    "prompt": "Z preglejky vyrežeš obdĺžnik 35 cm × 8 cm. Aký je jeho obsah v cm²?",
+    "options": [],
+    "answer": [
+      "280",
+      "280 cm2",
+      "280 cm²"
+    ],
+    "explanation": "Obsah obdĺžnika je dĺžka × šírka: 35 × 8 = 280 cm².",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-099",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "short",
+    "prompt": "Z preglejky vyrežeš obdĺžnik 18 cm × 12 cm. Aký je jeho obsah v cm²?",
+    "options": [],
+    "answer": [
+      "216",
+      "216 cm2",
+      "216 cm²"
+    ],
+    "explanation": "Obsah obdĺžnika je dĺžka × šírka: 18 × 12 = 216 cm².",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-100",
+    "categories": [
+      "A",
+      "B"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "short",
+    "prompt": "Z preglejky vyrežeš obdĺžnik 40 cm × 6 cm. Aký je jeho obsah v cm²?",
+    "options": [],
+    "answer": [
+      "240",
+      "240 cm2",
+      "240 cm²"
+    ],
+    "explanation": "Obsah obdĺžnika je dĺžka × šírka: 40 × 6 = 240 cm².",
+    "difficulty": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-101",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Na rezistore s odporom 6 Ω je napätie 18 V. Vypočítaj prúd v ampéroch.",
+    "options": [],
+    "answer": [
+      "3",
+      "3 a"
+    ],
+    "explanation": "Z Ohmovho zákona I = U / R = 18 / 6 = 3 A.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-102",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Na rezistore s odporom 8 Ω je napätie 24 V. Vypočítaj prúd v ampéroch.",
+    "options": [],
+    "answer": [
+      "3",
+      "3 a"
+    ],
+    "explanation": "Z Ohmovho zákona I = U / R = 24 / 8 = 3 A.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-103",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Na rezistore s odporom 5 Ω je napätie 15 V. Vypočítaj prúd v ampéroch.",
+    "options": [],
+    "answer": [
+      "3",
+      "3 a"
+    ],
+    "explanation": "Z Ohmovho zákona I = U / R = 15 / 5 = 3 A.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-104",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Na rezistore s odporom 4 Ω je napätie 20 V. Vypočítaj prúd v ampéroch.",
+    "options": [],
+    "answer": [
+      "5",
+      "5 a"
+    ],
+    "explanation": "Z Ohmovho zákona I = U / R = 20 / 4 = 5 A.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-105",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Na rezistore s odporom 6 Ω je napätie 12 V. Vypočítaj prúd v ampéroch.",
+    "options": [],
+    "answer": [
+      "2",
+      "2 a"
+    ],
+    "explanation": "Z Ohmovho zákona I = U / R = 12 / 6 = 2 A.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-106",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Motorček napájaný napätím 9 V odoberá prúd 2 A. Aký je jeho elektrický príkon vo wattoch?",
+    "options": [],
+    "answer": [
+      "18",
+      "18 w"
+    ],
+    "explanation": "Elektrický príkon P = U × I = 9 × 2 = 18 W. Mechanický výkon môže byť pre straty menší.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-107",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Motorček napájaný napätím 12 V odoberá prúd 3 A. Aký je jeho elektrický príkon vo wattoch?",
+    "options": [],
+    "answer": [
+      "36",
+      "36 w"
+    ],
+    "explanation": "Elektrický príkon P = U × I = 12 × 3 = 36 W. Mechanický výkon môže byť pre straty menší.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-108",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Motorček napájaný napätím 6 V odoberá prúd 4 A. Aký je jeho elektrický príkon vo wattoch?",
+    "options": [],
+    "answer": [
+      "24",
+      "24 w"
+    ],
+    "explanation": "Elektrický príkon P = U × I = 6 × 4 = 24 W. Mechanický výkon môže byť pre straty menší.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-109",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Motorček napájaný napätím 24 V odoberá prúd 2 A. Aký je jeho elektrický príkon vo wattoch?",
+    "options": [],
+    "answer": [
+      "48",
+      "48 w"
+    ],
+    "explanation": "Elektrický príkon P = U × I = 24 × 2 = 48 W. Mechanický výkon môže byť pre straty menší.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-110",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "short",
+    "prompt": "Motorček napájaný napätím 5 V odoberá prúd 3 A. Aký je jeho elektrický príkon vo wattoch?",
+    "options": [],
+    "answer": [
+      "15",
+      "15 w"
+    ],
+    "explanation": "Elektrický príkon P = U × I = 5 × 3 = 15 W. Mechanický výkon môže byť pre straty menší.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-111",
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Hnacie ozubené koleso má 12 zubov a 900 otáčok za minútu. Hnané má 36 zubov. Urči otáčky hnaného za minútu.",
+    "options": [],
+    "answer": [
+      "300",
+      "300 ot/min",
+      "300 ot./min"
+    ],
+    "explanation": "Pre ideálny ozubený prevod n₂ = n₁ × z₁ / z₂ = 900 × 12 / 36 = 300 ot/min.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-112",
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Hnacie ozubené koleso má 20 zubov a 600 otáčok za minútu. Hnané má 40 zubov. Urči otáčky hnaného za minútu.",
+    "options": [],
+    "answer": [
+      "300",
+      "300 ot/min",
+      "300 ot./min"
+    ],
+    "explanation": "Pre ideálny ozubený prevod n₂ = n₁ × z₁ / z₂ = 600 × 20 / 40 = 300 ot/min.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-113",
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Hnacie ozubené koleso má 15 zubov a 1200 otáčok za minútu. Hnané má 45 zubov. Urči otáčky hnaného za minútu.",
+    "options": [],
+    "answer": [
+      "400",
+      "400 ot/min",
+      "400 ot./min"
+    ],
+    "explanation": "Pre ideálny ozubený prevod n₂ = n₁ × z₁ / z₂ = 1200 × 15 / 45 = 400 ot/min.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-114",
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Hnacie ozubené koleso má 24 zubov a 300 otáčok za minútu. Hnané má 12 zubov. Urči otáčky hnaného za minútu.",
+    "options": [],
+    "answer": [
+      "600",
+      "600 ot/min",
+      "600 ot./min"
+    ],
+    "explanation": "Pre ideálny ozubený prevod n₂ = n₁ × z₁ / z₂ = 300 × 24 / 12 = 600 ot/min.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-115",
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "short",
+    "prompt": "Hnacie ozubené koleso má 18 zubov a 1500 otáčok za minútu. Hnané má 54 zubov. Urči otáčky hnaného za minútu.",
+    "options": [],
+    "answer": [
+      "500",
+      "500 ot/min",
+      "500 ot./min"
+    ],
+    "explanation": "Pre ideálny ozubený prevod n₂ = n₁ × z₁ / z₂ = 1500 × 18 / 54 = 500 ot/min.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-116",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "short",
+    "prompt": "Vzorka má hmotnosť 540 g a objem 200 cm³. Vypočítaj hustotu v g/cm³ (stačí číslo).",
+    "options": [],
+    "answer": [
+      "2.7",
+      "2,7"
+    ],
+    "explanation": "Hustota ρ = m / V = 540 / 200 = 2,7 g/cm³.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-117",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "short",
+    "prompt": "Vzorka má hmotnosť 810 g a objem 300 cm³. Vypočítaj hustotu v g/cm³ (stačí číslo).",
+    "options": [],
+    "answer": [
+      "2.7",
+      "2,7"
+    ],
+    "explanation": "Hustota ρ = m / V = 810 / 300 = 2,7 g/cm³.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-118",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "short",
+    "prompt": "Vzorka má hmotnosť 1560 g a objem 200 cm³. Vypočítaj hustotu v g/cm³ (stačí číslo).",
+    "options": [],
+    "answer": [
+      "7.8",
+      "7,8"
+    ],
+    "explanation": "Hustota ρ = m / V = 1560 / 200 = 7,8 g/cm³.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-119",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "short",
+    "prompt": "Vzorka má hmotnosť 780 g a objem 100 cm³. Vypočítaj hustotu v g/cm³ (stačí číslo).",
+    "options": [],
+    "answer": [
+      "7.8",
+      "7,8"
+    ],
+    "explanation": "Hustota ρ = m / V = 780 / 100 = 7,8 g/cm³.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  },
+  {
+    "id": "TO-120",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "short",
+    "prompt": "Vzorka má hmotnosť 1350 g a objem 500 cm³. Vypočítaj hustotu v g/cm³ (stačí číslo).",
+    "options": [],
+    "answer": [
+      "2.7",
+      "2,7"
+    ],
+    "explanation": "Hustota ρ = m / V = 1350 / 500 = 2,7 g/cm³.",
+    "difficulty": 2,
+    "source": {
+      "kind": "original",
+      "label": "Vlastná cvičná otázka z učiva Techniky; nie je oficiálnym zadaním TO"
+    },
+    "version": 1
+  }
+]
