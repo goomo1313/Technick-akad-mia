@@ -1,39 +1,25 @@
-# Technická akadémia
+# Akadémia olympiád
 
-Interaktívny vzdelávací portál na prípravu z Techniky pre kategórie A a B Technickej olympiády.
+**[▶ Otvoriť živú stránku a vybrať predmet](https://goomo1313.github.io/Technick-akad-mia/)**
 
-## Obsah
+Vzdelávací portál pre žiakov základných škôl. Na úvodnej stránke si môžeš vybrať Techniku alebo Geografiu.
 
-- 700 vlastných cvičných otázok v 15 okruhoch; A: 700, B: 585 (B je podmnožinou spoločných základov).
-- 215 hotových zostáv: súhrnné testy a tematické bloky používajú rovnakú databázu.
-- 25 otázok v okruhu vynálezcov a dejín techniky.
-- 58 otázok v pravouhlom premietaní, vrátane 36 obrázkových úloh s 12 priestorovými technickými dielmi.
-- Elektrotechnika, domové rozvody, voda, kúrenie, energia, materiály, remeslá, automatizácia a meranie.
-- 537 výberových otázok, 46 doplňovačiek, 75 krátkych odpovedí, 42 priraďovaní.
-- Tréning s vysvetlením, časovaný test, opakovanie chýb a lokálna história.
+| Predmet | Kategórie | Obsah |
+| --- | --- | --- |
+| [Technická akadémia](https://goomo1313.github.io/Technick-akad-mia/technika.html) | A, B | 731 otázok a 219 testových zostáv |
+| [Geografická akadémia](https://goomo1313.github.io/Technick-akad-mia/geografia/) | E, F, G | 635 otázok, 162 testových zostáv a 194 kariet štátov |
 
-Zostavy sa dajú hľadať podľa názvu a typu. Vlastný test filtruje kategóriu, okruh, počet otázok a náročnosť. Pôvodných 120 otázok a pôvodných 33 zostáv zostalo zachovaných.
+V oboch predmetoch môžeš trénovať s vysvetleniami, spustiť časovaný test, pokračovať v rozpracovanom pokuse a sledovať výsledky. Profily a výsledky sa ukladajú v danom prehliadači. GitHub Pages je dostupný bez prihlásenia.
 
-## Spustenie
+## Spustenie lokálne
 
-V koreňovom priečinku spustite `python3 -m http.server 8000`, potom otvorte `http://localhost:8000`. Nie je potrebné zostavovanie ani balíčky. JSON sa načítava cez HTTP.
+V koreňovom priečinku spusti `python3 -m http.server 8000` a otvor [localhost:8000](http://localhost:8000/). Aplikácia sa načíta priamo z HTML, CSS a JavaScriptu.
 
-GitHub Pages je nastavený z vetvy main, koreňového priečinka. Nasadenie nájdete na https://goomo1313.github.io/Technick-akad-mia/.
+## Obsah repozitára
 
-## Overenie obsahu
+- `index.html` je úvodná stránka s výberom predmetu.
+- `technika.html`, `questions.json` a `tests.json` patria Technickej akadémii.
+- `geografia/` obsahuje Geografickú akadémiu, jej databázu a mapové podklady.
+- `sources.html` uvádza zdroje k Technike. Zdroje ku Geografii nájdeš v časti **Atlas a učebnica**.
 
-Spustite `node tools/verify-content.cjs`. Kontroluje schému, jednoznačné ID, odpovede, kategórie, pokrytie zostáv, aritmetiku nových výpočtov a výsledky diagramov.
-
-## Dáta a zdroje
-
-questions.json je databáza, tests.json definuje pevné zostavy, content-report.json uvádza počty. sources.html opisuje metodiku a odkazuje na primárne historické a technické podklady. architecture.md obsahuje návrh rozšírenia na serverovú aplikáciu.
-
-Otázky sú vlastné cvičenia, nie oficiálne zadania ani predpoveď ďalšieho ročníka. Pôvodné testy NIVaM sa otvárajú cez odkazy. Číselné varianty precvičujú rovnaké princípy a tematické testy opätovne používajú rovnaké otázky. Učenie o domových rozvodoch nie je návodom na zásahy do elektriny alebo plynu.
-
-Profily fungujú bez hesla iba v danom prehliadači. Nie sú autentifikovanými serverovými účtami. Vymazanie dát prehliadača vymaže históriu; výsledky možno exportovať.
-
-## Prepracované premietanie
-Žiak vyberá kreslený nárys, ľavý bokorys alebo pôdorys k priestorovému dielu. V assets/projection je 48 SVG obrázkov. Staré úlohy sú dostupné iba v archíve výsledkov, nové úlohy majú nové ID. Priamo do tréningu vedie tlačidlo Obrázkové premietanie.
-
-## Materiály a dreviny
-Rozšírenie o 200 otázok zahŕňa hlinu, keramiku, plasty, kovy, textílie, kompozity, triedenie odpadu a zdroje dreva. Obsahuje 24 schematických obrázkových úloh k 12 drevinám. Rozpoznávanie drevín sa dá spustiť samostatne. Pri triedení sa rešpektuje označenie nádoby a pokyny obce; zálohovanie je samostatný systém. Pôvodných 500 otázok a 151 zostáv zostalo nezmenených.
+GitHub Pages publikuje koreňový priečinok vetvy `main`.
