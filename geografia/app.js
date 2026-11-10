@@ -171,7 +171,7 @@ function home() {
   }).join("");
   screen.innerHTML = `<section class="hero-geo"><p class="kicker">GEOGRAFICKÁ OLYMPIÁDA · E, F, G</p>
     <h1>Spoznávaj svet.</h1><p>Rozpoznaj krajinu na mape, vysvetli súvislosti a priprav sa na teoretické aj praktické úlohy.</p>
-    <div class="actions"><a class="primary" href="#trening">Vybrať tréning →</a><a class="secondary" href="#atlas">Otvoriť atlas</a></div></section>
+    <div class="actions"><a class="primary" href="#trening">Vybrať tréning →</a><a class="secondary" href="#atlas">Otvoriť atlas</a><a class="secondary" href="#okresy">Okresy Slovenska</a></div></section>
     <section class="panel"><div class="row"><div><p class="kicker">UČENIE PO MALÝCH KROKOCH</p><h2>Čo dnes precvičíš?</h2></div>
     <span class="badge">${bank.questions.length} otázok · ${bank.tests.length} zostáv</span></div>
     <div class="actions"><button class="primary" id="daily">Denný tréning · 10 otázok</button>
@@ -219,7 +219,7 @@ function setup() {
   ${draft() ? '<button class="secondary" id="resume">Pokračovať v pokuse</button>' : ""}</div></section>
   <section class="panel"><h2>Hotové zostavy · kategória ${esc(filters.category)}</h2>
     <form id="preset-filter" class="controls"><label>Hľadať zostavu<input name="search" value="${esc(presetSearch)}"></label>
-    <label>Druh zostavy<select name="preset-kind">${options(values(["Súhrnné","Tematické","Praktické"]), presetKind, "Všetky zostavy")}</select></label>
+    <label>Druh zostavy<select name="preset-kind">${options(values(["Súhrnné","Tematické","Praktické","Okresy"]), presetKind, "Všetky zostavy")}</select></label>
     <div class="actions"><button class="secondary">Zobraziť</button></div></form><div id="presets"></div>
   </section><p class="hint">Zostavy obsahujú vlastné cvičné úlohy. Obsah a časové limity aktuálneho súťažného ročníka nájdeš v pokynoch NIVaM.</p>`;
   screen.querySelectorAll(".panel:first-of-type select").forEach(select => {
@@ -304,10 +304,56 @@ function atlas() {
   screen.querySelectorAll("[data-country]").forEach(button => button.onclick = () => openTopic(atlasTopic, button.dataset.country));
 }
 
+function districts() {
+  screen.innerHTML = `<p class="kicker">SLOVENSKO</p><h1>Okresy</h1>
+    <p class="muted">Vyber si okres a precvič si jeho obce, prírodu, pamiatky a erby.</p>
+    <div class="grid">${Object.entries(bank.districts).map(([id, district]) =>
+      `<a class="tile district-link" href="#okresy-${esc(id)}"><span class="badge">${esc(district.region)}</span>
+      <strong>${esc(district.name)}</strong><small>${district.questionCount} otázok · ${district.municipalities.length} erbov</small></a>`).join("")}</div>`;
+}
+
+function districtDetail(id) {
+  const district = bank.districts[id];
+  if (!district) { districts(); return; }
+  const sets = bank.tests.filter(test => test.kind === "Okresy" && test.category === filters.category
+    && test.id.startsWith(`${filters.category}-okres-${id}-`));
+  screen.innerHTML = `<a href="#okresy">← Všetky okresy</a>
+    <section class="hero-geo district-hero"><p class="kicker">${esc(district.region)}</p>
+      <h1>${esc(district.name)}</h1><p>${district.questionCount} otázok · ${district.municipalities.length} erbov · 2 mapy</p></section>
+    <section class="panel"><div class="row"><h2>Tréning a testy</h2>
+    <label>Kategória<select id="district-category">${options(Object.entries(grades), filters.category)}</select></label></div>
+    <div class="grid">${sets.map(test =>
+      `<article class="tile"><span class="badge">${test.ids.length} otázok</span>
+      <strong>${esc(test.title.split(" · ").at(-1))}</strong>
+      <div class="actions"><button class="primary" data-district-set="${esc(test.id)}" data-mode="practice">Trénovať</button>
+      <button class="secondary" data-district-set="${esc(test.id)}" data-mode="exam">Test →</button></div></article>`).join("")}</div></section>
+    <details class="panel district-study"><summary>Galéria erbov · ${district.municipalities.length} obcí</summary>
+    <div class="crest-grid">${district.municipalities.map(municipality =>
+      `<figure class="crest-card"><img loading="lazy" src="${esc(municipality.file)}" alt="${esc(municipality.hint)}">
+      <figcaption><strong>${esc(municipality.name)}</strong><small>${esc(municipality.hint)}</small></figcaption></figure>`).join("")}</div></details>
+    <details class="panel district-study"><summary>Mapy okresu</summary>
+    <div class="grid">${Object.values(district.maps).map(map =>
+      `<figure class="diagram"><a href="${esc(map.file)}" target="_blank" rel="noopener"><img loading="lazy" src="${esc(map.file)}" alt="${esc(map.alt)}"></a>
+      <figcaption>${esc(map.alt)} · kliknutím zväčšíš</figcaption></figure>`).join("")}</div></details>
+    <p class="hint">Zdroj otázok a obrázkov · ${esc(district.source)}. Číselné údaje o obyvateľstve v úlohách sa vzťahujú na rok 2021.</p>`;
+  $("#district-category").onchange = event => {
+    filters.category = event.target.value;
+    districtDetail(id);
+    $("#district-category").focus();
+  };
+  screen.querySelectorAll("[data-district-set]").forEach(button => button.onclick = () =>
+    startPreset(sets.find(test => test.id === button.dataset.districtSet), button.dataset.mode));
+}
+
+
+
 function diagram(visual) {
   if (!visual) return "";
-  if (visual.type === "image") {
-    return `<figure class="diagram"><img src="${esc(visual.file)}" alt="Obrysová mapa so zvýrazneným územím"><figcaption>Zjednodušený mapový výrez · Natural Earth</figcaption></figure>`;
+  if (visual.type === "image" || visual.type === "crest") {
+    const crest = visual.type === "crest";
+    const alt = visual.alt || "Obrysová mapa so zvýrazneným územím";
+    const caption = visual.caption || "Zjednodušený mapový výrez · Natural Earth";
+    return `<figure class="diagram${crest ? " crest-question" : ""}"><img src="${esc(visual.file)}" alt="${esc(alt)}"><figcaption>${esc(caption)}</figcaption></figure>`;
   }
   if (visual.type === "grid") {
     const x = lon => 258 + lon * 2;
@@ -513,12 +559,13 @@ function render() {
   if (!bank) return;
   const page = route();
   document.querySelectorAll(".academy-header nav a").forEach(link => {
-    if (link.hash === `#${page}`) link.setAttribute("aria-current", "page");
+    if ((link.hash === "#okresy" && page.startsWith("okresy-")) || link.hash === `#${page}`) link.setAttribute("aria-current", "page");
     else link.removeAttribute("aria-current");
   });
   profileLabel();
-  const views = { prehlad: home, trening: setup, atlas, pokrok: progress, pokus: renderRun, vysledok: result };
-  (views[page] ?? home)();
+  const views = { prehlad: home, trening: setup, atlas, okresy: districts, pokrok: progress, pokus: renderRun, vysledok: result };
+  if (page.startsWith("okresy-")) districtDetail(page.slice("okresy-".length));
+  else (views[page] ?? home)();
   if (storageFailed) screen.insertAdjacentHTML("afterbegin", '<p class="alert" role="status">Prehliadač momentálne nepovoľuje uloženie výsledkov.</p>');
 }
 
@@ -531,7 +578,7 @@ setInterval(() => {
   if (run.mode === "exam" && !seconds) finish();
 }, 500);
 
-fetch("bank.json?v=1").then(response => {
+fetch("bank.json?v=gelnica1").then(response => {
   if (!response.ok) throw Error("bank");
   return response.json();
 }).then(value => {
