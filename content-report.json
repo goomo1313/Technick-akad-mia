@@ -1,16 +1,16 @@
 {
-  "questions": 751,
-  "tests": 220,
+  "questions": 798,
+  "tests": 223,
   "topics": {
     "Drevo a kovy": {
-      "all": 49,
-      "A": 49,
-      "B": 43
+      "all": 56,
+      "A": 52,
+      "B": 47
     },
     "Technická dokumentácia": {
-      "all": 67,
+      "all": 68,
       "A": 67,
-      "B": 57
+      "B": 58
     },
     "Stroje a mechanizmy": {
       "all": 78,
@@ -18,14 +18,14 @@
       "B": 44
     },
     "Elektrotechnika": {
-      "all": 92,
-      "A": 92,
-      "B": 41
+      "all": 107,
+      "A": 98,
+      "B": 50
     },
     "Materiály": {
-      "all": 167,
-      "A": 167,
-      "B": 153
+      "all": 172,
+      "A": 170,
+      "B": 155
     },
     "Bezpečnosť pri práci": {
       "all": 25,
@@ -33,8 +33,8 @@
       "B": 25
     },
     "Domové inštalácie": {
-      "all": 24,
-      "A": 24,
+      "all": 25,
+      "A": 25,
       "B": 19
     },
     "Energetika a doprava": {
@@ -53,36 +53,36 @@
       "B": 26
     },
     "Výroba a remeslá": {
-      "all": 18,
+      "all": 22,
       "A": 18,
-      "B": 16
+      "B": 20
     },
     "Pravouhlé premietanie": {
-      "all": 61,
-      "A": 61,
-      "B": 56
+      "all": 64,
+      "A": 62,
+      "B": 58
     },
     "Vynálezcovia a dejiny techniky": {
-      "all": 25,
+      "all": 27,
       "A": 25,
-      "B": 25
+      "B": 27
     },
     "Recyklácia a triedenie odpadu": {
-      "all": 32,
+      "all": 33,
       "A": 32,
-      "B": 32
+      "B": 33
     },
     "Dreviny a prírodné materiály": {
-      "all": 47,
+      "all": 55,
       "A": 47,
-      "B": 45
+      "B": 53
     }
   },
   "types": {
-    "mc": 560,
-    "fill": 50,
+    "mc": 597,
+    "fill": 54,
     "short": 95,
-    "match": 46
+    "match": 52
   },
   "projection": {
     "objects": 12,
@@ -133,5 +133,22 @@
     "seconds": 1800,
     "source": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
     "solution": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf"
-  }
+  },
+  "districtRoundPapers": [
+    {
+      "id": "B-okres-2025-2026",
+      "questions": 20,
+      "seconds": 1800
+    },
+    {
+      "id": "A-okres-2024-2025",
+      "questions": 14,
+      "seconds": 1200
+    },
+    {
+      "id": "B-okres-2024-2025",
+      "questions": 13,
+      "seconds": 1200
+    }
+  ]
 }

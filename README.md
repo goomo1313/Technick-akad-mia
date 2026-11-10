@@ -6,12 +6,12 @@ Vzdelávací portál pre žiakov základných škôl. Na úvodnej stránke si m�
 
 | Predmet | Kategórie | Obsah |
 | --- | --- | --- |
-| [Technická akadémia](https://goomo1313.github.io/Technick-akad-mia/technika.html) | A, B | 751 otázok a 220 testových zostáv |
+| [Technická akadémia](https://goomo1313.github.io/Technick-akad-mia/technika.html) | A, B | 798 otázok a 223 testových zostáv |
 | [Geografická akadémia](https://goomo1313.github.io/Technick-akad-mia/geografia/) | E, F, G | 699 otázok, 174 testových zostáv a 194 kariet štátov |
 
 Nová sekcia [Okresy → Okres Gelnica](https://goomo1313.github.io/Technick-akad-mia/geografia/#okresy-gelnica) pridáva 64 otázok, 20 erbov a 2 mapy.
 
-V Technike je aj [Okresné kolo A 2025/2026](https://goomo1313.github.io/Technick-akad-mia/technika.html?v=a16-1#okresne-a-2025) s 20 cvičnými úlohami a 30-minútovým testom.
+V Technike nájdeš štyri [okresné zostavy A a B z rokov 2024/2025 a 2025/2026](https://goomo1313.github.io/Technick-akad-mia/technika.html?zostava=B-okres-2025-2026) s nákresmi, vysvetleniami a odkazmi na zdrojové zadania.
 
 V oboch predmetoch môžeš trénovať s vysvetleniami, spustiť časovaný test, pokračovať v rozpracovanom pokuse a sledovať výsledky. Profily a výsledky sa ukladajú v danom prehliadači. GitHub Pages je dostupný bez prihlásenia.
 
