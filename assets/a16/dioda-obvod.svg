@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 235"><rect width="430" height="235" fill="white"/>
+<g fill="none" stroke="#213f32" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M72 97V61H173 M250 61H359V96 M359 138V186H72V124"/>
+  <path d="M54 97h36m-28 9h20m-28 9h36m-28 9h20"/>
+  <circle cx="359" cy="117" r="21"/><path d="m345 103 28 28m0-28-28 28"/>
+  <circle cx="178" cy="61" r="5"/><circle cx="245" cy="61" r="5"/>
+</g>
+<g fill="#213f32" font-family="sans-serif" font-size="18" font-weight="700">
+  <text x="169" y="42">P</text><text x="238" y="42">Q</text>
+  <text x="42" y="88">+</text><text x="42" y="145">−</text>
+</g>
+<g fill="#426050" font-family="sans-serif" font-size="15">
+  <text x="48" y="210">Batéria</text><text x="319" y="210">Žiarovka</text>
+</g></svg>

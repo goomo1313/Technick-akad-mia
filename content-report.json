@@ -1,30 +1,30 @@
 {
-  "questions": 731,
-  "tests": 219,
+  "questions": 751,
+  "tests": 220,
   "topics": {
     "Drevo a kovy": {
-      "all": 47,
-      "A": 47,
+      "all": 49,
+      "A": 49,
       "B": 43
     },
     "Technická dokumentácia": {
-      "all": 66,
-      "A": 66,
+      "all": 67,
+      "A": 67,
       "B": 57
     },
     "Stroje a mechanizmy": {
-      "all": 77,
-      "A": 77,
+      "all": 78,
+      "A": 78,
       "B": 44
     },
     "Elektrotechnika": {
-      "all": 89,
-      "A": 89,
+      "all": 92,
+      "A": 92,
       "B": 41
     },
     "Materiály": {
-      "all": 163,
-      "A": 163,
+      "all": 167,
+      "A": 167,
       "B": 153
     },
     "Bezpečnosť pri práci": {
@@ -33,8 +33,8 @@
       "B": 25
     },
     "Domové inštalácie": {
-      "all": 20,
-      "A": 20,
+      "all": 24,
+      "A": 24,
       "B": 19
     },
     "Energetika a doprava": {
@@ -53,13 +53,13 @@
       "B": 26
     },
     "Výroba a remeslá": {
-      "all": 17,
-      "A": 17,
+      "all": 18,
+      "A": 18,
       "B": 16
     },
     "Pravouhlé premietanie": {
-      "all": 59,
-      "A": 59,
+      "all": 61,
+      "A": 61,
       "B": 56
     },
     "Vynálezcovia a dejiny techniky": {
@@ -73,16 +73,16 @@
       "B": 32
     },
     "Dreviny a prírodné materiály": {
-      "all": 45,
-      "A": 45,
+      "all": 47,
+      "A": 47,
       "B": 45
     }
   },
   "types": {
-    "mc": 537,
-    "fill": 46,
+    "mc": 560,
+    "fill": 50,
     "short": 95,
-    "match": 42
+    "match": 46
   },
   "projection": {
     "objects": 12,
@@ -126,5 +126,12 @@
     "circuitSymbols": 4,
     "rulerReading": 2,
     "toolPhotos": 2
+  },
+  "districtRoundA2025": {
+    "questions": 20,
+    "sourceTasks": 13,
+    "seconds": 1800,
+    "source": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+    "solution": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf"
   }
 }

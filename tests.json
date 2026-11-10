@@ -1,5 +1,35 @@
 [
   {
+    "id": "A-okres-2025-2026",
+    "category": "A",
+    "kind": "mixed",
+    "title": "Okresné kolo A · 2025/2026",
+    "description": "20 vlastných úloh pokrýva všetkých 13 zadaní NIVaM. Tréning má okamžité vysvetlenia. Skúšobný test trvá 30 minút.",
+    "questionIds": [
+      "TO-A16-01",
+      "TO-A16-02",
+      "TO-A16-03-1",
+      "TO-A16-03-2",
+      "TO-A16-03-3",
+      "TO-A16-03-4",
+      "TO-A16-04",
+      "TO-A16-05",
+      "TO-A16-06",
+      "TO-A16-07",
+      "TO-A16-08",
+      "TO-A16-09",
+      "TO-A16-10",
+      "TO-A16-11-1",
+      "TO-A16-11-2",
+      "TO-A16-11-3",
+      "TO-A16-11-4",
+      "TO-A16-11-5",
+      "TO-A16-12",
+      "TO-A16-13"
+    ],
+    "seconds": 1800
+  },
+  {
     "id": "mix-B-1",
     "category": "B",
     "title": "Súhrnný test 01",

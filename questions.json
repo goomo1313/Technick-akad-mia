@@ -19659,5 +19659,582 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "source": "https://commons.wikimedia.org/wiki/File:Vernier_caliper_2016.jpg"
     }
+  },
+  {
+    "id": "TO-A16-01",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "match",
+    "prompt": "Zaraď zariadenia podľa toho, na akom princípe pracujú a na čo slúžia.",
+    "answer": [
+      "Mechanické zariadenie bez elektrického pohonu",
+      "Tepelný spotrebič",
+      "Elektronické zariadenie na zobrazenie obrazu",
+      "Svetelný spotrebič",
+      "Elektromechanické náradie"
+    ],
+    "options": [
+      "Ručný mlynček na kávu",
+      "Elektrická rúra",
+      "Monitor počítača",
+      "LED stolová lampa",
+      "Elektrický skrutkovač"
+    ],
+    "explanation": "Ručný mlynček poháňa človek, rúra vyrába teplo, monitor spracúva obrazový signál, lampa svieti a skrutkovač otáča nástroj elektromotorom.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 1
+    }
+  },
+  {
+    "id": "TO-A16-02",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Medzi body P a Q vložíš diódu. Ako ju zapojíš, aby žiarovkou prechádzal prúd?",
+    "answer": "Anóda k P, katóda k Q",
+    "options": [
+      "Anóda k P, katóda k Q",
+      "Katóda k P, anóda k Q",
+      "Oba vývody k bodu P",
+      "Oba vývody k bodu Q"
+    ],
+    "explanation": "Bod P je na kladnej strane zdroja. Dióda sa otvorí v priepustnom smere, keď je anóda na vyššom potenciáli než katóda. Katódu na telese diódy zvyčajne označuje prúžok.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 2
+    },
+    "diagram": {
+      "kind": "technical",
+      "image": "assets/a16/dioda-obvod.svg",
+      "alt": "Sériový obvod batérie a žiarovky s prerušeným horným vodičom medzi P na strane plus a Q na strane žiarovky."
+    }
+  },
+  {
+    "id": "TO-A16-03-1",
+    "categories": [
+      "A"
+    ],
+    "topic": "Domové inštalácie",
+    "type": "fill",
+    "prompt": "Jeden zdroj tepla zásobuje cez spoločné rozvody viac budov. Doplň názov spôsobu vykurovania.",
+    "answer": [
+      "centrálne vykurovanie",
+      "centrálne",
+      "centralizované vykurovanie",
+      "diaľkové vykurovanie",
+      "diaľkové",
+      "centrálne zásobovanie teplom",
+      "centralizované zásobovanie teplom"
+    ],
+    "options": [],
+    "explanation": "Pri centrálnom zásobovaní teplom sa teplo vyrába v spoločnom zdroji a rozvádza do viacerých objektov.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 3
+    }
+  },
+  {
+    "id": "TO-A16-03-2",
+    "categories": [
+      "A"
+    ],
+    "topic": "Domové inštalácie",
+    "type": "fill",
+    "prompt": "Ako sa volá zdroj tepla vo vykurovacej sústave, ktorý môže ohrievať vykurovaciu vodu a zabezpečiť aj prípravu teplej vody?",
+    "answer": [
+      "kotol",
+      "vykurovací kotol",
+      "kombinovaný kotol",
+      "plynový kotol",
+      "elektrický kotol",
+      "elektrokotol"
+    ],
+    "options": [],
+    "explanation": "Kotol dodáva teplo vykurovacej sústave. Podľa vyhotovenia môže pripravovať teplú vodu priamo alebo cez zásobník.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 3
+    }
+  },
+  {
+    "id": "TO-A16-03-3",
+    "categories": [
+      "A"
+    ],
+    "topic": "Domové inštalácie",
+    "type": "fill",
+    "prompt": "Pod umývadlom zostáva v ohybe odtoku voda, aby sa zápach z kanalizácie nedostal do miestnosti. Pomenuj túto súčiastku.",
+    "answer": [
+      "sifón",
+      "zápachová uzávierka",
+      "vodný sifón",
+      "odtokový sifón",
+      "zápachová uzávera"
+    ],
+    "options": [],
+    "explanation": "V sifóne ostáva voda. Vytvorí vodnú bariéru medzi miestnosťou a kanalizačným potrubím.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 3
+    }
+  },
+  {
+    "id": "TO-A16-03-4",
+    "categories": [
+      "A"
+    ],
+    "topic": "Domové inštalácie",
+    "type": "fill",
+    "prompt": "Ako sa nazýva pevná časť elektroinštalácie, do ktorej zapojíš vidlicu prenosného spotrebiča?",
+    "answer": [
+      "zásuvka",
+      "elektrická zásuvka",
+      "sieťová zásuvka",
+      "nástenná zásuvka"
+    ],
+    "options": [],
+    "explanation": "Zásuvka je pevný pripojovací bod. Na prívodnej šnúre spotrebiča je vidlica.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 3
+    }
+  },
+  {
+    "id": "TO-A16-04",
+    "categories": [
+      "A"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Vyber pôdorys podstavca s pozdĺžnym rebrom. Zobraz len viditeľné hrany.",
+    "answer": "a16-rebro-top",
+    "options": [
+      "a16-rebro-top",
+      "a16-rebro-front",
+      "a16-rebro-left",
+      "a16-rebro-empty"
+    ],
+    "explanation": "Zhora vidíš obdĺžnikový obrys a dve pozdĺžne hrany horného rebra. Spodný výrez rebro a základňa zakrývajú.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 4
+    },
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/a16/rebro-teleso.svg",
+      "alt": "Podstavec so stredovým horným rebrom a spodným výrezom, oba pozdĺž celej hĺbky.",
+      "objectId": "a16-rebro",
+      "targetView": "top"
+    },
+    "optionImages": {
+      "a16-rebro-top": "assets/a16/rebro-podorys.svg",
+      "a16-rebro-front": "assets/a16/rebro-narys.svg",
+      "a16-rebro-left": "assets/a16/rebro-bokorys.svg",
+      "a16-rebro-empty": "assets/a16/rebro-bez-hran.svg"
+    }
+  },
+  {
+    "id": "TO-A16-05",
+    "categories": [
+      "A"
+    ],
+    "topic": "Technická dokumentácia",
+    "type": "mc",
+    "prompt": "Aký druh čiary označuje os kruhového otvoru v strojárskom výkrese?",
+    "answer": "Tenkou bodkočiarkovanou",
+    "options": [
+      "Tenkou bodkočiarkovanou",
+      "Tenkou súvislou",
+      "Hrubou súvislou",
+      "Tenkou čiarkovanou"
+    ],
+    "explanation": "Os označuje tenká bodkočiarkovaná čiara, teda striedanie dlhých čiarok a bodiek alebo krátkych ťahov. Viditeľný obrys je súvislý a skrytá hrana býva čiarkovaná.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 5
+    }
+  },
+  {
+    "id": "TO-A16-06",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Dielňa vyberá spôsob priemyselného tvarovania plastových výrobkov. Ktorá operácia do výberu nepatrí?",
+    "answer": "Dlabanie dutiny dlátom",
+    "options": [
+      "Dlabanie dutiny dlátom",
+      "Lisovanie vo forme",
+      "Vyfukovanie do formy",
+      "Vstrekovanie taveniny"
+    ],
+    "explanation": "Lisovanie, vyfukovanie aj vstrekovanie využívajú formu. Dlabanie dlátom je ručné odoberanie materiálu, používané najmä pri obrábaní dreva.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 6
+    }
+  },
+  {
+    "id": "TO-A16-07",
+    "categories": [
+      "A"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "match",
+    "prompt": "Priraď operáciu k práci s kovom.",
+    "answer": [
+      "Pilovanie",
+      "Rezanie",
+      "Strihanie"
+    ],
+    "options": [
+      "Zarovnáš okraj plechu pilníkom",
+      "Rámovou pílkou oddelíš časť oceľovej tyče",
+      "Ručnými nožnicami oddelíš pás z tenkého plechu"
+    ],
+    "explanation": "Pilník odoberá drobné triesky, zuby píly vytvárajú rez a nožnice oddeľujú plech protiľahlými čepeľami.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 7
+    }
+  },
+  {
+    "id": "TO-A16-08",
+    "categories": [
+      "A"
+    ],
+    "topic": "Elektrotechnika",
+    "type": "mc",
+    "prompt": "Chceš zistiť, koľko miliampérov prechádza žiarovkou. Ktorý prístroj zapojíš do série?",
+    "answer": "Ampérmeter",
+    "options": [
+      "Ampérmeter",
+      "Voltmeter",
+      "Ohmmeter",
+      "Wattmeter"
+    ],
+    "explanation": "Ampérmeter meria elektrický prúd. Pri meraní sa zaradí do série tak, aby ním prechádzal rovnaký prúd ako žiarovkou.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 8
+    }
+  },
+  {
+    "id": "TO-A16-09",
+    "categories": [
+      "A"
+    ],
+    "topic": "Pravouhlé premietanie",
+    "type": "mc",
+    "prompt": "Ktorý obrázok zachytáva stupňovitý držiak pri pohľade zhora?",
+    "answer": "a16-stupen-top",
+    "options": [
+      "a16-stupen-top",
+      "a16-stupen-front",
+      "a16-stupen-left",
+      "a16-stupen-empty"
+    ],
+    "explanation": "Pôdorys ukazuje obrys v tvare L. Zadný vyvýšený stupeň od nižšej plochy oddeľuje priečna viditeľná hrana.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 9
+    },
+    "diagram": {
+      "kind": "solid",
+      "image": "assets/a16/stupen-teleso.svg",
+      "alt": "Priestorový držiak s pôdorysom zalomeným vpredu a s vyvýšeným zadným stupňom.",
+      "objectId": "a16-stupen",
+      "targetView": "top"
+    },
+    "optionImages": {
+      "a16-stupen-top": "assets/a16/stupen-podorys.svg",
+      "a16-stupen-front": "assets/a16/stupen-narys.svg",
+      "a16-stupen-left": "assets/a16/stupen-bokorys.svg",
+      "a16-stupen-empty": "assets/a16/stupen-rovny-obrys.svg"
+    }
+  },
+  {
+    "id": "TO-A16-10",
+    "categories": [
+      "A"
+    ],
+    "topic": "Stroje a mechanizmy",
+    "type": "match",
+    "prompt": "Priraď názvy k opisu mechanizmov a ich vlastností.",
+    "answer": [
+      "Páka",
+      "Prevodový pomer",
+      "Jednoduché stroje"
+    ],
+    "options": [
+      "Rameno, ktoré sa pri pôsobení sily otáča okolo oporného bodu",
+      "Podiel otáčok vstupného kolesa a otáčok výstupného kolesa",
+      "Spoločná skupina pre kladku, naklonenú rovinu a koleso na hriadeli"
+    ],
+    "explanation": "Páka sa otáča okolo opory. Prevodový pomer porovnáva otáčky vstupu a výstupu. Kladka, rovina a koleso na hriadeli patria medzi jednoduché stroje.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 10
+    }
+  },
+  {
+    "id": "TO-A16-11-1",
+    "categories": [
+      "A"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Dub, agát, buk a topoľ sú listnáče. Ktoré z ich driev je zvyčajne najmäkšie?",
+    "answer": "Topoľové",
+    "options": [
+      "Topoľové",
+      "Dubové",
+      "Agátové",
+      "Bukové"
+    ],
+    "explanation": "Topoľ patrí medzi listnaté dreviny s mäkkým drevom. To, že je drevina listnatá, samo osebe neurčuje tvrdosť jej dreva.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 11
+    }
+  },
+  {
+    "id": "TO-A16-11-2",
+    "categories": [
+      "A"
+    ],
+    "topic": "Dreviny a prírodné materiály",
+    "type": "mc",
+    "prompt": "Ktoré dve časti rozlišujeme v bežnom ročnom prírastku dreva?",
+    "answer": "Skoré drevo a neskoré drevo",
+    "options": [
+      "Skoré drevo a neskoré drevo",
+      "Jadro a beľ",
+      "Kôru a lyko",
+      "Dreň a kambium"
+    ],
+    "explanation": "Skoré drevo vzniká na začiatku rastovej sezóny. Neskoré drevo sa tvorí v jej neskoršej časti. Obe vrstvy tvoria jeden letokruh.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 11
+    }
+  },
+  {
+    "id": "TO-A16-11-3",
+    "categories": [
+      "A"
+    ],
+    "topic": "Drevo a kovy",
+    "type": "mc",
+    "prompt": "Ktorý z týchto spojov nemožno rozobrať bežným uvoľnením spojovacieho prvku?",
+    "answer": "Nitový spoj",
+    "options": [
+      "Nitový spoj",
+      "Skrutkový spoj",
+      "Spoj s vyberateľným čapom",
+      "Spoj s odnímateľnou závlačkou"
+    ],
+    "explanation": "Nit vytvorí pri montáži druhú hlavu trvalou deformáciou. Pri rozoberaní sa zvyčajne odvŕta alebo inak zničí.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 11
+    }
+  },
+  {
+    "id": "TO-A16-11-4",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Kde sa pri klasickom postupe zo surového železa odstraňuje prebytočný uhlík pri výrobe ocele?",
+    "answer": "V kyslíkovom konvertore",
+    "options": [
+      "V kyslíkovom konvertore",
+      "Vo vysokej peci pri redukcii rudy",
+      "V zlievarenskej forme",
+      "Vo valcovacej stolici"
+    ],
+    "explanation": "Vysoká pec vyrába surové železo. Kyslíkový konvertor znižuje obsah uhlíka a ďalších nežiaducich prímesí pri výrobe ocele.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 11
+    }
+  },
+  {
+    "id": "TO-A16-11-5",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorá skupina obsahuje tri postupy tvarovania plastu za tepla?",
+    "answer": "Vyfukovanie, lisovanie a vstrekovanie",
+    "options": [
+      "Vyfukovanie, lisovanie a vstrekovanie",
+      "Vŕtanie, pilovanie a brúsenie",
+      "Nitovanie, skrutkovanie a lepenie",
+      "Rezanie, strihanie a hobľovanie"
+    ],
+    "explanation": "Pri vyfukovaní, lisovaní a vstrekovaní sa zmäknutý alebo roztavený plast vytvaruje pomocou formy.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 11
+    }
+  },
+  {
+    "id": "TO-A16-12",
+    "categories": [
+      "A"
+    ],
+    "topic": "Materiály",
+    "type": "mc",
+    "prompt": "Ktorá dvojica vystihuje rozdiel medzi opakovane taviteľnými plastmi a plastmi, ktoré sa po vytvrdení znova neroztavia?",
+    "answer": "Termoplasty a reaktoplasty",
+    "options": [
+      "Termoplasty a reaktoplasty",
+      "Vodiče a polovodiče",
+      "Kovy a zliatiny",
+      "Keramika a sklo"
+    ],
+    "explanation": "Termoplasty pri zahriatí mäknú a možno ich znovu tvarovať. Reaktoplasty po vytvrdení získajú sieťovanú štruktúru a pri silnom ohreve sa rozkladajú.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 12
+    }
+  },
+  {
+    "id": "TO-A16-13",
+    "categories": [
+      "A"
+    ],
+    "topic": "Výroba a remeslá",
+    "type": "match",
+    "prompt": "Priraď každý drevený výrobok k remeselníkovi, ktorého práca je preň typická.",
+    "answer": [
+      "Rezbár",
+      "Stolár",
+      "Tesár",
+      "Šindliar",
+      "Debnár"
+    ],
+    "options": [
+      "Vyrezávaná soška",
+      "Drevená skriňa",
+      "Nosný drevený krov",
+      "Drevený šindeľ na strechu",
+      "Súdok z drevených dúh"
+    ],
+    "explanation": "Rezbár drevo vyrezáva, stolár vyrába nábytok, tesár zhotovuje konštrukcie, šindliar strešnú krytinu a debnár skladá sudy z dúh.",
+    "difficulty": 2,
+    "version": 1,
+    "source": {
+      "kind": "original",
+      "label": "Vlastné cvičenie podľa okresného kola A 2025/2026",
+      "url": "https://nivam.sk/wp-content/uploads/TE16okATeul25.pdf",
+      "solutionUrl": "https://nivam.sk/wp-content/uploads/TE16okATeri25.pdf",
+      "task": 13
+    }
   }
 ]
