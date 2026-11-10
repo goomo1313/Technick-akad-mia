@@ -1,1 +1,25 @@
-<!doctype html><html lang="sk"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Príprava na Technickú olympiádu. Testy, vysvetlenia a sledovanie pokroku."><title>Technická akadémia</title><link rel="stylesheet" href="style.css?v=quality-5"><body><aside><a class="brand" href="#">t<span>▪</span><small>TECHNICKÁ<br>AKADÉMIA</small></a><div class="navlabel">TVOJA DIELŇA VEDOMOSTÍ</div><nav><button data-page="home">◫ &nbsp; Prehľad</button><button data-page="train">ϟ &nbsp; Tréning a testy</button><button data-page="learn">▤ &nbsp; Učebnica</button><button data-page="history">↗ &nbsp; Môj pokrok</button></nav><div class="sidebottom"><small>PRIPRAV SA NA SVOJ MOMENT</small><p>Veľké nápady začínajú<br>dobrou otázkou.</p><a href="https://nivam.sk/olympiady-a-sutaze/technicka-olympiada/" target="_blank" rel="noopener">O olympiáde ↗</a></div></aside><div class="shell"><header><span>Príprava na Technickú olympiádu <b>·</b> Základné školy</span><button id="profileBtn"></button></header><main id="main"></main><footer>Technická akadémia · Neoficiálny vzdelávací portál <a href="sources.html">Zdroje a metodika ↗</a> <a href="architecture.md" target="_blank">Architektúra a dáta ↗</a></footer></div><dialog id="profileDialog"><form id="profileForm"><div class="eyebrow">TVOJE MIESTO V DIELNI</div><h2>Žiacky profil</h2><p>Použi prezývku. Údaje zostávajú v tomto prehliadači. Profil nie je účet chránený heslom.</p><label>Prezývka<input id="nickname" maxlength="30" required placeholder="Napríklad Majster Peter"></label><label>Kategória<select id="profileCategory"><option value="B">B · 5. – 7. ročník</option><option value="A">A · 8. – 9. ročník</option></select></label><button class="primary">Uložiť a pokračovať →</button><button type="button" id="closeDialog" class="plain">Zavrieť</button></form><div id="existing"></div></dialog><script src="app.js?v=quality-5"></script><script src="enhancements.js?v=quality-5"></script></body></html>
+<!doctype html>
+<html lang="sk">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Príprava na Technickú a Geografickú olympiádu pre žiakov základných škôl.">
+<title>Akadémia olympiád | Vyber si predmet</title>
+<link rel="stylesheet" href="geografia/academy.css">
+</head>
+<body class="portal">
+<header class="portal-header"><a class="wordmark" href="./"><span class="logo">a<span>.</span></span><span>Akadémia olympiád<small>Príprava pre základné školy</small></span></a></header>
+<main class="portal-main">
+  <div class="portal-intro"><p class="kicker">ŠKOLSKÉ OLYMPIÁDY</p><h1>Čo dnes<br>precvičíš?</h1><p>Vyber si predmet, zopakuj učivo a vyskúšaj si test s vysvetleniami.</p></div>
+  <div class="subject-grid">
+    <a class="subject tech" href="technika.html">
+      <div class="subject-art" aria-hidden="true"><svg viewBox="0 0 360 160"><defs><pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M18 0H0V18" fill="none" stroke="#abc0ac" stroke-width=".6"/></pattern></defs><rect width="360" height="160" fill="url(#grid)"/><g fill="none" stroke="#325649" stroke-width="2"><path d="M78 84 168 36 250 76 159 125Z" fill="#c8dbc1"/><path d="M78 84v27l81 42v-28Z" fill="#a7c2a5"/><path d="M159 125l91-49v27l-91 50Z" fill="#7d9e86"/><path d="m126 58 43-22 82 40-44 24-29-14 12-6-28-14-12 6Z" fill="#e7f0e2"/><path d="M259 37h52m-26-19v38M57 114l-18 9m21 8-18 9m232-27 34-18" stroke-dasharray="5 5"/></g></svg></div>
+      <div class="subject-content"><p class="kicker">KATEGÓRIE A A B</p><h2>Technika</h2><p>Materiály, náradie, premietanie, elektrotechnika a ďalšie okruhy Technickej olympiády.</p><span class="subject-cta">Otvoriť Technickú akadémiu <span aria-hidden="true">→</span></span></div>
+    </a>
+    <a class="subject geo" href="geografia/">
+      <div class="subject-art" aria-hidden="true"><svg viewBox="0 0 360 160"><g fill="none" stroke="#276773" stroke-width="1.4"><circle cx="184" cy="80" r="66" fill="#c3e1dc"/><ellipse cx="184" cy="80" rx="43" ry="66"/><ellipse cx="184" cy="80" rx="17" ry="66"/><path d="M118 80h132M130 43q54 23 108 0M130 117q54-23 108 0M184 14v132"/><path d="M44 112q57-75 126-25t146-47" stroke-dasharray="4 6"/><circle cx="77" cy="81" r="5" fill="#276773"/><circle cx="285" cy="66" r="5" fill="#276773"/><path d="m294 23 14-9-3 15-4-5Z" fill="#276773"/></g></svg></div>
+      <div class="subject-content"><p class="kicker">KATEGÓRIE E, F A G</p><h2>Geografia</h2><p>Kontinenty a štáty, Slovensko, príroda, obyvateľstvo a práca s mapou.</p><span class="subject-cta">Otvoriť Geografickú akadémiu <span aria-hidden="true">→</span></span></div>
+    </a>
+  </div>
+</main>
+<footer class="portal-footer">Akadémia olympiád · Cvičebný portál pre žiakov ZŠ</footer>
+</body></html>

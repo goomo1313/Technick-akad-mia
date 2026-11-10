@@ -19426,7 +19426,7 @@
     ],
     "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Ktorá súčiastka je označená touto schematickou značkou? Úloha resistor.",
+    "prompt": "Pomenuj elektrickú súčiastku podľa schematickej značky. Obrázok 1.",
     "options": [
       "Rezistor",
       "Žiarovka",
@@ -19455,7 +19455,7 @@
     ],
     "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Ktorá súčiastka je označená touto schematickou značkou? Úloha lamp.",
+    "prompt": "Pomenuj elektrickú súčiastku podľa schematickej značky. Obrázok 2.",
     "options": [
       "Poistka",
       "Žiarovka",
@@ -19484,7 +19484,7 @@
     ],
     "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Ktorá súčiastka je označená touto schematickou značkou? Úloha switch.",
+    "prompt": "Pomenuj elektrickú súčiastku podľa schematickej značky. Obrázok 3.",
     "options": [
       "Zopnutý spínač",
       "Rozopnutý spínač",
@@ -19513,7 +19513,7 @@
     ],
     "topic": "Elektrotechnika",
     "type": "mc",
-    "prompt": "Ktorá súčiastka je označená touto schematickou značkou? Úloha cell.",
+    "prompt": "Pomenuj elektrickú súčiastku podľa schematickej značky. Obrázok 4.",
     "options": [
       "Elektrický článok",
       "Rezistor",
