@@ -1,46 +1,46 @@
 {
-  "questions": 1000,
-  "tests": 233,
+  "questions": 1200,
+  "tests": 243,
   "topics": {
     "Drevo a kovy": {
-      "all": 108,
-      "A": 74,
-      "B": 77
+      "all": 162,
+      "A": 99,
+      "B": 106
     },
     "Technická dokumentácia": {
-      "all": 85,
-      "A": 74,
-      "B": 68
+      "all": 94,
+      "A": 75,
+      "B": 76
     },
     "Stroje a mechanizmy": {
-      "all": 86,
-      "A": 83,
-      "B": 47
+      "all": 92,
+      "A": 86,
+      "B": 50
     },
     "Elektrotechnika": {
-      "all": 145,
-      "A": 125,
-      "B": 61
+      "all": 188,
+      "A": 156,
+      "B": 73
     },
     "Materiály": {
-      "all": 198,
-      "A": 180,
-      "B": 171
+      "all": 224,
+      "A": 192,
+      "B": 185
     },
     "Bezpečnosť pri práci": {
-      "all": 28,
-      "A": 27,
+      "all": 30,
+      "A": 29,
       "B": 26
     },
     "Domové inštalácie": {
-      "all": 34,
-      "A": 34,
+      "all": 40,
+      "A": 40,
       "B": 19
     },
     "Energetika a doprava": {
-      "all": 27,
+      "all": 28,
       "A": 23,
-      "B": 18
+      "B": 19
     },
     "Automatizácia a digitálna technika": {
       "all": 19,
@@ -48,41 +48,41 @@
       "B": 14
     },
     "Meranie a technické výpočty": {
-      "all": 35,
-      "A": 33,
-      "B": 28
+      "all": 43,
+      "A": 39,
+      "B": 30
     },
     "Výroba a remeslá": {
-      "all": 32,
-      "A": 19,
-      "B": 29
+      "all": 47,
+      "A": 23,
+      "B": 40
     },
     "Pravouhlé premietanie": {
-      "all": 76,
-      "A": 66,
-      "B": 66
+      "all": 85,
+      "A": 70,
+      "B": 71
     },
     "Vynálezcovia a dejiny techniky": {
-      "all": 32,
-      "A": 26,
-      "B": 31
-    },
-    "Recyklácia a triedenie odpadu": {
-      "all": 34,
-      "A": 32,
+      "all": 36,
+      "A": 27,
       "B": 34
     },
+    "Recyklácia a triedenie odpadu": {
+      "all": 36,
+      "A": 32,
+      "B": 36
+    },
     "Dreviny a prírodné materiály": {
-      "all": 61,
-      "A": 52,
-      "B": 54
+      "all": 76,
+      "A": 58,
+      "B": 63
     }
   },
   "types": {
-    "mc": 799,
+    "mc": 943,
     "fill": 54,
-    "short": 95,
-    "match": 52
+    "short": 122,
+    "match": 81
   },
   "projection": {
     "objects": 12,
@@ -161,6 +161,16 @@
     "A11": 26,
     "B11": 30,
     "A10": 14,
-    "B10": 13
+    "B10": 13,
+    "A09": 22,
+    "B09": 22,
+    "A08": 18,
+    "B08": 18,
+    "A07": 19,
+    "B07": 21,
+    "A06": 23,
+    "B06": 24,
+    "A05": 19,
+    "B05": 14
   }
 }
