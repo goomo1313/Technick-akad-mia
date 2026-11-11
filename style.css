@@ -11,6 +11,8 @@
 .district-years{list-style:none;padding:0;margin:1rem 0 0}
 .district-years li{display:grid;grid-template-columns:8rem 1fr;align-items:center;gap:.5rem;padding:.55rem 0;border-top:1px solid #dce5d9}
 .district-categories{display:flex;flex-wrap:wrap;gap:.5rem}
-.district-categories [aria-current="true"]{outline:2px solid currentColor;outline-offset:2px}
+.district-test{display:inline-flex;align-items:center;flex-wrap:wrap;gap:.4rem}
+.district-done{background:#dcebd7;color:#214e36;border-radius:1rem;padding:.15rem .45rem;font-size:.75rem;font-weight:700}
+.district-run-title{font-size:clamp(1.35rem,3vw,2rem);margin:.65rem 0}
 #vybrana-zostava,#okresne-kola{scroll-margin-top:1rem}
 @media(max-width:520px){.district-years li{grid-template-columns:1fr}}
