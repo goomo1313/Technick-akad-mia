@@ -7,3 +7,10 @@
 
 .botanical-diagram{max-width:450px;margin:20px auto;text-align:center;background:#fbfcf7;border:1px solid var(--line);border-radius:12px;padding:15px}.botanical-diagram img{width:100%;height:300px;object-fit:contain}.botanical-diagram figcaption{font-size:12px;line-height:1.5;color:#56694e}@media(max-width:600px){.botanical-diagram img{height:240px}}
 .subject-back{display:block;color:inherit;padding:.65rem .85rem;font-size:.85rem;text-decoration:none}.subject-back:hover,.subject-back:focus-visible{text-decoration:underline}
+
+.district-years{list-style:none;padding:0;margin:1rem 0 0}
+.district-years li{display:grid;grid-template-columns:8rem 1fr;align-items:center;gap:.5rem;padding:.55rem 0;border-top:1px solid #dce5d9}
+.district-categories{display:flex;flex-wrap:wrap;gap:.5rem}
+.district-categories [aria-current="true"]{outline:2px solid currentColor;outline-offset:2px}
+#vybrana-zostava,#okresne-kola{scroll-margin-top:1rem}
+@media(max-width:520px){.district-years li{grid-template-columns:1fr}}

@@ -1,85 +1,85 @@
 {
-  "questions": 798,
-  "tests": 223,
+  "questions": 1000,
+  "tests": 233,
   "topics": {
     "Drevo a kovy": {
-      "all": 56,
-      "A": 52,
-      "B": 47
+      "all": 108,
+      "A": 74,
+      "B": 77
     },
     "Technická dokumentácia": {
-      "all": 68,
-      "A": 67,
-      "B": 58
+      "all": 85,
+      "A": 74,
+      "B": 68
     },
     "Stroje a mechanizmy": {
-      "all": 78,
-      "A": 78,
-      "B": 44
+      "all": 86,
+      "A": 83,
+      "B": 47
     },
     "Elektrotechnika": {
-      "all": 107,
-      "A": 98,
-      "B": 50
+      "all": 145,
+      "A": 125,
+      "B": 61
     },
     "Materiály": {
-      "all": 172,
-      "A": 170,
-      "B": 155
+      "all": 198,
+      "A": 180,
+      "B": 171
     },
     "Bezpečnosť pri práci": {
-      "all": 25,
-      "A": 25,
-      "B": 25
+      "all": 28,
+      "A": 27,
+      "B": 26
     },
     "Domové inštalácie": {
-      "all": 25,
-      "A": 25,
+      "all": 34,
+      "A": 34,
       "B": 19
     },
     "Energetika a doprava": {
-      "all": 21,
-      "A": 21,
-      "B": 14
+      "all": 27,
+      "A": 23,
+      "B": 18
     },
     "Automatizácia a digitálna technika": {
-      "all": 16,
-      "A": 16,
+      "all": 19,
+      "A": 19,
       "B": 14
     },
     "Meranie a technické výpočty": {
-      "all": 29,
-      "A": 29,
-      "B": 26
+      "all": 35,
+      "A": 33,
+      "B": 28
     },
     "Výroba a remeslá": {
-      "all": 22,
-      "A": 18,
-      "B": 20
+      "all": 32,
+      "A": 19,
+      "B": 29
     },
     "Pravouhlé premietanie": {
-      "all": 64,
-      "A": 62,
-      "B": 58
+      "all": 76,
+      "A": 66,
+      "B": 66
     },
     "Vynálezcovia a dejiny techniky": {
-      "all": 27,
-      "A": 25,
-      "B": 27
+      "all": 32,
+      "A": 26,
+      "B": 31
     },
     "Recyklácia a triedenie odpadu": {
-      "all": 33,
+      "all": 34,
       "A": 32,
-      "B": 33
+      "B": 34
     },
     "Dreviny a prírodné materiály": {
-      "all": 55,
-      "A": 47,
-      "B": 53
+      "all": 61,
+      "A": 52,
+      "B": 54
     }
   },
   "types": {
-    "mc": 597,
+    "mc": 799,
     "fill": 54,
     "short": 95,
     "match": 52
@@ -150,5 +150,17 @@
       "questions": 13,
       "seconds": 1200
     }
-  ]
+  ],
+  "districtArchive": {
+    "A14": 17,
+    "B14": 18,
+    "A13": 14,
+    "B13": 16,
+    "A12": 31,
+    "B12": 23,
+    "A11": 26,
+    "B11": 30,
+    "A10": 14,
+    "B10": 13
+  }
 }
